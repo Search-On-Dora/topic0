@@ -1,1 +1,0 @@
-OneTimeOfferTrade(address indexed seller,address indexed buyer,uint256 indexed tokenId,uint256 price)

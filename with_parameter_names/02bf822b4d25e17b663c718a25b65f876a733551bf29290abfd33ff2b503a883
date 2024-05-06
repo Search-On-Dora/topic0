@@ -1,1 +1,0 @@
-WithdrawCKToken(address indexed _ckToken,address indexed _from,address indexed _to,uint256 _amount)

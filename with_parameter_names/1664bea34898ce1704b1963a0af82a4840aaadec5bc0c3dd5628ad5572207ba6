@@ -1,1 +1,0 @@
-CollateralExistenceChanged(address indexed collateral,bool status)

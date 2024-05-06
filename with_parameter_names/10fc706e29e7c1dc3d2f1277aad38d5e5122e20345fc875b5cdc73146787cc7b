@@ -1,1 +1,0 @@
-WinnedRace(uint256 indexed raceId,uint256 indexed slotId,address indexed wallet,uint256 tokenIdA,uint256 tokenIdB,uint256 amount,uint256 created)

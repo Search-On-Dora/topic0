@@ -1,1 +1,0 @@
-RequestPrice(address indexed requester,bytes32 indexed identifier,uint32 timestamp,bytes ancillaryData,tuple request)

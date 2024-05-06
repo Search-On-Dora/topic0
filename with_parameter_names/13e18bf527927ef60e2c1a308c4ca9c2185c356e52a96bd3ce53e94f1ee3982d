@@ -1,1 +1,0 @@
-ApesBidWithdrawn(uint256 indexed apesIndex,uint256 value,address indexed fromAddress)

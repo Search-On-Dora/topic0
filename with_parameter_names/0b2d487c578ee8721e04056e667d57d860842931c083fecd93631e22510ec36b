@@ -1,1 +1,0 @@
-StakingWalletUpdated(address indexed newStakingWallet,address indexed stakingWalletUpdated)

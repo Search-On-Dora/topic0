@@ -1,1 +1,0 @@
-RewardHolderChange(address indexed previousHolder,address indexed newHolder)

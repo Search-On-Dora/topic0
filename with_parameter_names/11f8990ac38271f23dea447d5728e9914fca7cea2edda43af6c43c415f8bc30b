@@ -1,1 +1,0 @@
-CollateralAdded(address indexed _owner,uint256 indexed _id,uint256 _amount)

@@ -1,1 +1,0 @@
-ApprovalForAll(address indexed owner,address indexed operator,bool approved)

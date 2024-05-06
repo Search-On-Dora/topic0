@@ -1,1 +1,0 @@
-DepositAllowanceUpdated(address indexed _ckToken,bool _allowDeposit)

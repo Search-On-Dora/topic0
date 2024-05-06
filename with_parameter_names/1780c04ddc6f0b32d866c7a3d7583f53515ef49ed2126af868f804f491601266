@@ -1,1 +1,0 @@
-ManagerFeeSet(address fundAddress,address manager,uint256 numerator,uint256 denominator)

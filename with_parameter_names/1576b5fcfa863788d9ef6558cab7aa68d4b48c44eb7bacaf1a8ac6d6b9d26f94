@@ -1,1 +1,0 @@
-CurveSwapPoolAdded(address indexed token,address indexed pool,int128 tokenI,int128 underlyingI)

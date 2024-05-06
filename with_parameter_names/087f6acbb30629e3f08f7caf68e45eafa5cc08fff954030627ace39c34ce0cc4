@@ -1,1 +1,0 @@
-SellerApproval(address indexed approver,address indexed seller,string indexed message)

@@ -1,1 +1,0 @@
-SetFeeInfo(uint256 fid,address wallet,uint256 feeRate)

@@ -1,1 +1,0 @@
-SphynxSwapFilled(address indexed erc20Addr,bytes32 indexed bscTxHash,address indexed toAddress,uint256 amount)

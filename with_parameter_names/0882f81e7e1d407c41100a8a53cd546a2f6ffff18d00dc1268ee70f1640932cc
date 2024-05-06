@@ -1,1 +1,0 @@
-DepositMintedCurve(uint256 mintedAmount,uint256 curveAmount,uint256[3] amounts)

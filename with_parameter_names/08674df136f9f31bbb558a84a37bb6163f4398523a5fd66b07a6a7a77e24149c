@@ -1,1 +1,0 @@
-nftCreated(address indexed _minter,address indexed _receiver,uint256 indexed _tokenId,string _tokenUri)

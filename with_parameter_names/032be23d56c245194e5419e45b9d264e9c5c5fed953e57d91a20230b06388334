@@ -1,1 +1,0 @@
-BorderAdvertisement(uint256 indexed baseParcelKey,uint256 indexed borderKey,string imageUrl,string clickUrl,uint256 adStartTime,uint256 adExpirationTime)

@@ -1,1 +1,0 @@
-CommissionChanged(uint16 indexed previousCommission,uint16 indexed newCommission)

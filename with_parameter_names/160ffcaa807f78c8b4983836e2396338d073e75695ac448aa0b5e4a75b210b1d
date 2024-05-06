@@ -1,1 +1,0 @@
-StakeEvent(address indexed staker,address indexed pool,uint256 amount)

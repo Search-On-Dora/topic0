@@ -1,1 +1,0 @@
-SetSale(address indexed buyer,uint256 indexed price,uint256 indexed tokenId)

@@ -1,1 +1,0 @@
-AssetAdded(bytes32 indexed key,bytes32 indexed canonicalId,uint32 indexed domain,address adoptedAsset,address localAsset,address caller)
