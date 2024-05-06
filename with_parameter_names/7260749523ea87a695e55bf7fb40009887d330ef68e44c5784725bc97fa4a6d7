@@ -1,1 +1,0 @@
-CreatedDrop(uint256 indexed dropId,address indexed creator,uint256 dropSize,address dropContractAddress)

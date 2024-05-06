@@ -1,1 +1,0 @@
-SetParameters(bytes3 netBytes,bytes32 pubSpend,bytes32 pubView,bool intAddressEnabled)

@@ -1,1 +1,0 @@
-AuctionCanceled(uint256 indexed auctionId,uint256 indexed tokenId,address indexed tokenContract,address tokenOwner)

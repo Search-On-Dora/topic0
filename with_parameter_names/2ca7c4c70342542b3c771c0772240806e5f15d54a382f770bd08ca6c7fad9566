@@ -1,1 +1,0 @@
-UserUpdatedWithSuccess(address indexed _creator,bytes32 _userHash,bytes32 _userHashUpdate,bool _isActive)

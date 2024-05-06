@@ -1,1 +1,0 @@
-PayeeAdded(address account,uint256 shares);PayeeAdded(address indexed payee,uint256 share)

@@ -1,1 +1,0 @@
-RewardAdded(address indexed distributer,uint256 reward,uint256 duration)

@@ -1,1 +1,0 @@
-LevelIncome(address indexed _from,address indexed receiver,uint8 level,uint256 amount,uint256 levelReferralCount)

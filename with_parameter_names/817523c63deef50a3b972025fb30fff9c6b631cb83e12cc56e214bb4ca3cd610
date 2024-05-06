@@ -1,1 +1,0 @@
-SetFeeDestination(address indexed oldFeeDestination,address indexed newFeeDestination)

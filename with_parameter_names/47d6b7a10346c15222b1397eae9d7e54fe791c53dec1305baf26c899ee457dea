@@ -1,1 +1,0 @@
-UpdateSupplyIndex(address indexed market,uint256 newSupplyIndex,uint256 supplyRate)

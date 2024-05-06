@@ -1,1 +1,0 @@
-EnactProposal(uint256 lawIndex,address law,uint256 enactionTime,bool revokeLaw,bool stateOfEmergency)

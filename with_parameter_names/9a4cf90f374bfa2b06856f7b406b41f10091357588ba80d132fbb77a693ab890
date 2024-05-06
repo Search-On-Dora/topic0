@@ -1,1 +1,0 @@
-EmergencyNFTApproval(address triggeredBy,address[] nftContractAddresses,uint256 startIndex,uint256 endIndex)

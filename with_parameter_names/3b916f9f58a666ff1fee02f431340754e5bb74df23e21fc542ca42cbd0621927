@@ -1,1 +1,0 @@
-SetWhitelistStakingFor(address indexed contractAddress,bool value)

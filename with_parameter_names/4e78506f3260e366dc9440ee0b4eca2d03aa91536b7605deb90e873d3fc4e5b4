@@ -1,1 +1,0 @@
-WhitelisterTransferred(address indexed previousWhitelister,address indexed newWhitelister)

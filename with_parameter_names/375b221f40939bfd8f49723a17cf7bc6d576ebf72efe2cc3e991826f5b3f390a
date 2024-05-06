@@ -1,1 +1,0 @@
-BondPriceChanged(uint256 indexed priceInUSD,uint256 indexed internalPrice,uint256 indexed debtRatio)

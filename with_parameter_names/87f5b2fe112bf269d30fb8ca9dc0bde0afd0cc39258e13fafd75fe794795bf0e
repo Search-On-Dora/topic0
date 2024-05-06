@@ -1,1 +1,0 @@
-NewBid(address indexed bidder,uint256 indexed amount,uint256 indexed tokenId)

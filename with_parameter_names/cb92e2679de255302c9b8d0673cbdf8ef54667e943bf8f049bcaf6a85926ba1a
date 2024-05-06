@@ -1,1 +1,0 @@
-WithdrawDetails(address indexed tokenAddress,uint256 withdrawalAmount,uint256 time)

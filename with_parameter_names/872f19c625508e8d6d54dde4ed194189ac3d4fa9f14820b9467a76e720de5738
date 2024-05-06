@@ -1,1 +1,0 @@
-EndRewardsProjectFunded(uint128 restoredEmissionsPerSecond,uint128 extraEmissionsPerSecond,address lendingContractAddress)

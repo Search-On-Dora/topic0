@@ -1,1 +1,0 @@
-LogNewAuction(uint256 indexed tokenid,address indexed creator,uint256 indexed startTime,uint256 endTime,uint256 startPrice)

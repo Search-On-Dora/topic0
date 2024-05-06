@@ -1,1 +1,0 @@
-RaffleSold(uint64 indexed _raffleId,uint32 indexed _ticketId,address indexed _owner)

@@ -1,1 +1,0 @@
-NewStake(address indexed account,uint256 indexed amount,uint256 indexed year)

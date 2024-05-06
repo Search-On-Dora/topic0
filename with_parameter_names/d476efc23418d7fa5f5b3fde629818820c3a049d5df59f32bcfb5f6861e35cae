@@ -1,1 +1,0 @@
-Issued(address _beneficiary,address indexed _contract,uint256 indexed _optionId,uint256 indexed _issuedId,bytes _userId)

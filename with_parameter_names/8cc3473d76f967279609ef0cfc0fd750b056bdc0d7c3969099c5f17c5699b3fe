@@ -1,1 +1,0 @@
-OwnerLog(address indexed previousOwner,address indexed newOwner,bytes4 sig)

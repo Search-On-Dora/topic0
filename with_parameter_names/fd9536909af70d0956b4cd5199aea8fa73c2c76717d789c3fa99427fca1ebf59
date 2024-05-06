@@ -1,1 +1,0 @@
-OnLockOwnershipTransferred(uint256 indexed lockId,address indexed newOwner)

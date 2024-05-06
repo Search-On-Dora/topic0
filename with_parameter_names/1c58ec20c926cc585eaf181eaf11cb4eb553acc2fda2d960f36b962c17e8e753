@@ -1,1 +1,0 @@
-investmentEvent(address indexed _playerAddress,uint256 indexed _amount)

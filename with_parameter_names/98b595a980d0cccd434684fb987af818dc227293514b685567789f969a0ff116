@@ -1,1 +1,0 @@
-MintFulfilled(bytes32 indexed _requestId,address indexed _address,uint256 indexed _tokenId)

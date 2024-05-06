@@ -1,1 +1,0 @@
-UpdateApprovedTokenRanges(address contract_,uint256[] minTokenIds,uint256[] maxTokenIds)

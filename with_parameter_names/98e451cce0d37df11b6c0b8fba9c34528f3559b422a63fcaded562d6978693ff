@@ -1,1 +1,0 @@
-RequestAddWinnListEvent(address[] indexed addresses,uint256[] indexed mintcount)

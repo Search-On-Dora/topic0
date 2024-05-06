@@ -1,1 +1,0 @@
-PowerUp(uint256 indexed _tokenId,string indexed _name,uint256 _maxQuantity,uint8 _type)

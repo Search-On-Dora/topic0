@@ -1,1 +1,0 @@
-animalTokenURIUpdated(uint256 tokenId,address ownerAddress,string _tokenURI)

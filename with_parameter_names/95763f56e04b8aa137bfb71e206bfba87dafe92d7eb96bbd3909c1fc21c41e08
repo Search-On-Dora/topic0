@@ -1,1 +1,0 @@
-AmfPaid(address indexed customer,string btcTxId,uint256 sentToken)

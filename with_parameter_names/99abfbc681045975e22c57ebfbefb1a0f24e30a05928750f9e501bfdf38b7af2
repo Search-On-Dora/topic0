@@ -1,1 +1,0 @@
-CrossTransfer(address from,address to,uint256 amount,uint256 date,uint256 nonce,uint8 indexed step)

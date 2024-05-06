@@ -1,1 +1,0 @@
-ProofAdded(bytes32 hash,string description,uint256 timestamp,uint256 proofId,address owner)

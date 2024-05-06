@@ -1,1 +1,0 @@
-Deploy(address paymentToken,uint8 paymentTokenDecimals,address priceOracle)

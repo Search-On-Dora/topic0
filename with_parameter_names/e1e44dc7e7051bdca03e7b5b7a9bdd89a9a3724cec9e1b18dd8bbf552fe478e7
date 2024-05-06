@@ -1,1 +1,0 @@
-MarketActivationChanged(address indexed market,bool status)

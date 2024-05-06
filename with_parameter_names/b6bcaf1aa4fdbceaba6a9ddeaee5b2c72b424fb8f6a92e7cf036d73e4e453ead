@@ -1,1 +1,0 @@
-updateAutoPoolEv(uint256 timeNow,uint256 autoPoolLevelIndex,uint256 userIndexInAutoPool,address user)

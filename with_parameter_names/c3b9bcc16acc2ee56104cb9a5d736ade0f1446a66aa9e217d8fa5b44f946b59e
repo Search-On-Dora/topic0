@@ -1,1 +1,0 @@
-ExternalPositionDeployedForFund(address indexed comptrollerProxy,address indexed vaultProxy,address externalPosition,uint256 indexed externalPositionTypeId,bytes data)

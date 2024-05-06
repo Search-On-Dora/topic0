@@ -1,1 +1,0 @@
-ProofOfMint(address addr,address token,uint256 amountAsFee,uint256 finalAmount,bytes32 transactionHash)

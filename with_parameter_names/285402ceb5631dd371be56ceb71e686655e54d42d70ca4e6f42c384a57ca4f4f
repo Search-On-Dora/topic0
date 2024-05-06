@@ -1,1 +1,0 @@
-AddNFT2PoolEvent(uint256 indexed pid,uint256[] tokenIds)

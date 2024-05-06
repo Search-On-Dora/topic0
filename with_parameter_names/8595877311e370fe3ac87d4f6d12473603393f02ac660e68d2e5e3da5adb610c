@@ -1,1 +1,0 @@
-SetWallet(address indexed walletOld,address indexed walletNew)

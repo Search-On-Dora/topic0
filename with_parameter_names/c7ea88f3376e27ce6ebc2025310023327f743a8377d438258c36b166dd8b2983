@@ -1,1 +1,0 @@
-LOG_DESIRED_DENORM_SET(address indexed token,uint256 desiredDenorm)

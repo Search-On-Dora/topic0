@@ -1,1 +1,0 @@
-DestroyEdge(uint256 indexed fromCellIndex,uint256 fromEdgeIndex,uint256 toCellIndex,uint256 toEdgeIndex)

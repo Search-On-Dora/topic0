@@ -1,1 +1,0 @@
-registerUserEvent(address indexed _playerAddress,address indexed _referrer)

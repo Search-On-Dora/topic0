@@ -1,1 +1,0 @@
-PluginSet(bytes4 indexed functionSelector,string indexed functionSignature,address indexed pluginAddress)

@@ -1,1 +1,0 @@
-BidCreated(bytes32 id,address indexed nftAddress,uint256 indexed assetId,address indexed bidder,uint256 priceInWei,uint256 expiresAt)

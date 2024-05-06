@@ -1,1 +1,0 @@
-tokenBid(uint256 indexed tokenId,address indexed bidder,uint256 tokenPrice,uint256 timestamp)

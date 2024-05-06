@@ -1,1 +1,0 @@
-startSale(uint256 fromtime,uint256 totime,uint256 rate,uint256 supply)

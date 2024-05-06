@@ -1,1 +1,0 @@
-UnderlyingAssetDeposited(uint256 indexed cycleId,address indexed memberAddress,uint256 groupId,uint256 underlyingAmount,address indexed tokenAddress)

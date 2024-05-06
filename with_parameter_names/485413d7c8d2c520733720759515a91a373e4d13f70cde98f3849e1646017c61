@@ -1,1 +1,0 @@
-SwappedOut(address indexed swapOutAddress,address indexed swapInAddress,uint256 amount)

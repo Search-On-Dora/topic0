@@ -1,1 +1,0 @@
-PayAllowanceTransfer(address indexed safe,address delegate,address paymentToken,address paymentReceiver,uint96 payment)

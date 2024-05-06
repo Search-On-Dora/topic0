@@ -1,1 +1,0 @@
-OwnerUpdated(address indexed prevOwner,address indexed newOwner);OwnerUpdated(address indexed store,address newOwner)

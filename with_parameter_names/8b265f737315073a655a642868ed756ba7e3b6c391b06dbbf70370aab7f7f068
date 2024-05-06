@@ -1,1 +1,0 @@
-SetPaused(bool indexed paused,address indexed account)

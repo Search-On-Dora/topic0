@@ -1,1 +1,0 @@
-SetFeePercent(address indexed seller,uint256 oldFeePercent,uint256 newFeePercent)

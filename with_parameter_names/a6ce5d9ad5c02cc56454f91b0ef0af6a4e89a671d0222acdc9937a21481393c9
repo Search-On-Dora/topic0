@@ -1,1 +1,0 @@
-SetRelayTopic(bytes32 indexed topicOld,bytes32 indexed topicNew)

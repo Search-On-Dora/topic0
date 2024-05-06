@@ -1,1 +1,0 @@
-ReferralFeeTransferred(address indexed referrer,uint256 amount)

@@ -1,1 +1,0 @@
-SpayMining(string optionID,uint256 quantity,address buyer,uint256 priceInWei,uint256 minedspay)

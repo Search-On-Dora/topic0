@@ -1,1 +1,0 @@
-PayeeshipTransferRequested(address indexed transmitter,address indexed current,address indexed proposed)

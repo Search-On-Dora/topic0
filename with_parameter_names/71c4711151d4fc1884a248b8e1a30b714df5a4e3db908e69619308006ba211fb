@@ -1,1 +1,0 @@
-FundsPassup(address indexed member,address passupFrom,uint8 matrix,uint8 level)

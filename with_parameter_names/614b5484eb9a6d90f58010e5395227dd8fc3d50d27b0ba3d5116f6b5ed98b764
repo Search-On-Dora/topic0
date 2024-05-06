@@ -1,1 +1,0 @@
-Attest(address indexed publisher,string bloom_hash,string index_hash,string fileName)

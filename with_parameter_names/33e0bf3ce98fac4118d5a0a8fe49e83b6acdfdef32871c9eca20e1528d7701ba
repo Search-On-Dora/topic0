@@ -1,1 +1,0 @@
-WhitelistAddress(address indexed account,bool isExcluded)

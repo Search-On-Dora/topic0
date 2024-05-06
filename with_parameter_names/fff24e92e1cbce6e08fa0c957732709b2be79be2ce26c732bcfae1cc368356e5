@@ -1,1 +1,0 @@
-Auction_BidRemoved(uint256 indexed _auctionID,address indexed _bidder,uint256 _bidAmount)

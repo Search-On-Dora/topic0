@@ -1,1 +1,0 @@
-RequestLockerResolution(address indexed client,address indexed counterparty,address indexed resolver,address token,uint256 deposit,uint256 registration,string details,bool swiftResolver)

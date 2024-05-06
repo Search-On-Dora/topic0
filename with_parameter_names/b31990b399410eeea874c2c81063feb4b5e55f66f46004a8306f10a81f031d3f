@@ -1,1 +1,0 @@
-IncludeInReward(address includedAddress);IncludeInReward(address indexed account)

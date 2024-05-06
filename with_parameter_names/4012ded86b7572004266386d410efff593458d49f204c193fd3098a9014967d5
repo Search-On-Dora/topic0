@@ -1,1 +1,0 @@
-PartyMemberExited(address indexed member,uint256 value,bool postFailure)

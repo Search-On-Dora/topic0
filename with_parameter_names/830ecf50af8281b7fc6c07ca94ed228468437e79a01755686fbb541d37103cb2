@@ -1,1 +1,0 @@
-NewAcoToken(address indexed underlying,address indexed strikeAsset,bool indexed isCall,uint256 strikePrice,uint256 expiryTime,address acoToken,address acoTokenImplementation)

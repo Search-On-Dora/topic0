@@ -1,1 +1,0 @@
-ValsetUpdatedEvent(uint256 indexed _newValsetNonce,uint256 _eventNonce,address[] _validators,uint256[] _powers)

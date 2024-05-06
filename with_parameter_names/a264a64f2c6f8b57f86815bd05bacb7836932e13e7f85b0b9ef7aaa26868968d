@@ -1,1 +1,0 @@
-TransferWithHash(address indexed to,address indexed hash,string link)

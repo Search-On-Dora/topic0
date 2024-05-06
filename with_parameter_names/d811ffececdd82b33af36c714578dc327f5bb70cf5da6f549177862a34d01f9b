@@ -1,1 +1,0 @@
-UpdateVerification(bytes32 indexed node,bool didVerify)

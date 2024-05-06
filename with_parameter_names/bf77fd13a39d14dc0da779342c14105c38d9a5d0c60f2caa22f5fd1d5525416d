@@ -1,1 +1,0 @@
-Bought(address indexed sender,address indexed recipient,uint256 musdAmount,uint256 dvdReceived)

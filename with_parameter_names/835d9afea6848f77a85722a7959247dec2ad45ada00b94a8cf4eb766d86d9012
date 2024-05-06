@@ -1,1 +1,0 @@
-NewFundCreated(address indexed fundManager,address indexed tokenAddress,string indexed tokenSymbol)

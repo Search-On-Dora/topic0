@@ -1,1 +1,0 @@
-SwapData(string status,uint256[] swapValue,address[] path)

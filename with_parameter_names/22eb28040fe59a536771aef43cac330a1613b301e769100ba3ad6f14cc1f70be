@@ -1,1 +1,0 @@
-NewTransactionCreated(address indexed sender,address tokenAddress,uint256 amount)

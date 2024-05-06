@@ -1,1 +1,0 @@
-SwapRequest(address indexed tokenA,address indexed tokenB,address indexed user,uint256 amountA,bool isInvestment)

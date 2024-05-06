@@ -1,1 +1,0 @@
-ListingAdded(uint256 indexed listingId,address indexed assetContract,address indexed lister,tuple listing)

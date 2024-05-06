@@ -1,1 +1,0 @@
-bridgeTransfer(address indexed sender,address receiver,uint256 amount)

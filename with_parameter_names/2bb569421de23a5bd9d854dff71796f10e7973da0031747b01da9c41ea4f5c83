@@ -1,1 +1,0 @@
-RegisterMapping(uint256 mainChainId,address token,uint256 chainId,address mappingTokenMapped)

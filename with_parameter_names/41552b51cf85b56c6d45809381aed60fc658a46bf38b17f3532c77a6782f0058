@@ -1,1 +1,0 @@
-SyncOracle(address indexed _pair,uint32 _blockTimestampLast)

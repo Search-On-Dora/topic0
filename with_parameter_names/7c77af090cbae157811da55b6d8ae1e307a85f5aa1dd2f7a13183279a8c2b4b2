@@ -1,1 +1,0 @@
-PriceSet(address indexed edition,uint128 indexed mintId,uint96 price)

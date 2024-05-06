@@ -1,1 +1,0 @@
-ManualRewardsUpdated(address indexed updater,uint256 period,address account,uint256 amount)

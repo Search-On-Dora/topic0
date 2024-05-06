@@ -1,1 +1,0 @@
-LogStakeHolderSends(address indexed to,uint256 balance,uint256 amountToSend)

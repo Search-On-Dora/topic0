@@ -1,1 +1,0 @@
-Mine(address indexed _miner,uint256 indexed _token_id,bytes32 _token_hash)

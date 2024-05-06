@@ -1,1 +1,0 @@
-ev_join(address indexed addr,address token,uint256 val,uint64 uId,uint64 timestamp)

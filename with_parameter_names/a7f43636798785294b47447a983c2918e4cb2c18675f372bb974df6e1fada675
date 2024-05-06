@@ -1,1 +1,0 @@
-FEE_CHANGE(address indexed market,address indexed token,uint256 BP)

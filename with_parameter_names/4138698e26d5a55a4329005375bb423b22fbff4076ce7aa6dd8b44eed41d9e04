@@ -1,1 +1,0 @@
-withdrawMyGainEv(uint256 timeNow,address caller,uint256 totalAmount)

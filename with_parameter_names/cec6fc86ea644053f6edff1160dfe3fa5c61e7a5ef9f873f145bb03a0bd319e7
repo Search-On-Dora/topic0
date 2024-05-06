@@ -1,1 +1,0 @@
-StakingPoolCreated(bytes32 poolId,address operator,uint32 operatorShare)

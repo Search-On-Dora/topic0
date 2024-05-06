@@ -1,1 +1,0 @@
-FeesAccrued(address indexed _operator,address indexed _methodologist,uint256 _operatorTake,uint256 _methodologistTake)

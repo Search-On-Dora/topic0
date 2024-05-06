@@ -1,1 +1,0 @@
-DefaultRoyalty(address indexed newRoyaltyRecipient,uint256 newRoyaltyBps)

@@ -1,1 +1,0 @@
-SignerSet(address indexed edition,uint128 indexed mintId,address signer)

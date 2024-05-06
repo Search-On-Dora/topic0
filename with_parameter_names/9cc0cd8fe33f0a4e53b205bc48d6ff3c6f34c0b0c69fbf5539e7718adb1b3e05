@@ -1,1 +1,0 @@
-onTranferLockOwnership(address indexed Token,address indexed oldOwner,address newOwner)

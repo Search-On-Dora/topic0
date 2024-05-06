@@ -1,1 +1,0 @@
-MakeOffering(address indexed server,address[] to,bytes4[] sig,bytes32 descr,uint256 indexed offering)

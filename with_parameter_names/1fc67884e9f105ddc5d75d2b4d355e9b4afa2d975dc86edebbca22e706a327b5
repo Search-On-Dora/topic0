@@ -1,1 +1,0 @@
-Dice(address player,uint256 value,uint256 betNumber,uint256 result,string status)

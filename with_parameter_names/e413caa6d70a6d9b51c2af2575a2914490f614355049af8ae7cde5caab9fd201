@@ -1,1 +1,0 @@
-RewardClaimed(address indexed ms_address,uint256 amount,bytes32 indexed reward_identifier)

@@ -1,1 +1,0 @@
-AuthorizedForwarderCreated(address indexed forwarder,address indexed owner,address indexed sender)

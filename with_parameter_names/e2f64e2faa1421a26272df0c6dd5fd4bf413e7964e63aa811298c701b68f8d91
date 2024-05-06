@@ -1,1 +1,0 @@
-TokensMintedWithSignature(address indexed signer,address indexed mintedTo,uint256 indexed tokenIdMinted,tuple mintRequest)

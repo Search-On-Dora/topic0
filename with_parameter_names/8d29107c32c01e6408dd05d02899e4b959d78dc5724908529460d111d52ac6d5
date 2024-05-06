@@ -1,1 +1,0 @@
-UserFrozenWithSuccess(address indexed _creator,bytes32 _userHash,bytes32 _userHashDelete,bool _isActive)

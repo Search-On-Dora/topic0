@@ -1,1 +1,0 @@
-AddJOYCollector(uint256 JOYtoyId,uint256 joyTokenId,uint256 joyCollectorPercent,bool collectorActive)

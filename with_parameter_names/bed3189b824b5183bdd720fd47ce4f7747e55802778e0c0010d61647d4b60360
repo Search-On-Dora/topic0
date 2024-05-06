@@ -1,1 +1,0 @@
-ProtocolFeeDefaultSet(uint256 oldProtocolFeeDefaultShare,address indexed oldProtocolFeeDefaultBeneficiary,uint256 newProtocolFeeDefaultShare,address indexed newProtocolFeeDefaultBeneficiary)

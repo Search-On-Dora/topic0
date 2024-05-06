@@ -1,1 +1,0 @@
-Redeem(address indexed purchaser,uint256 indexed batchId,uint256 quantity,uint256 total)

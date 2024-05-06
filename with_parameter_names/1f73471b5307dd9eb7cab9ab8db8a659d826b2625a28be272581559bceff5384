@@ -1,1 +1,0 @@
-GnosisTransferred(address indexed _previousGnosis,address indexed _newGnosis)

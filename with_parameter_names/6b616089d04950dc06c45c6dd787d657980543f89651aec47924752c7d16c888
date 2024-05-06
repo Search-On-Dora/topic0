@@ -1,1 +1,0 @@
-LogSwapout(address indexed account,address indexed bindaddr,uint256 amount)

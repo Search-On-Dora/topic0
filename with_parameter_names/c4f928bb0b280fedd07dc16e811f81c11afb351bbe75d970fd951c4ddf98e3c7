@@ -1,1 +1,0 @@
-ClaimConditionUpdated(uint256 indexed tokenId,tuple condition,bool resetEligibility)

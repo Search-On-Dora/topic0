@@ -1,1 +1,0 @@
-BuyMachine(address buyAddress,string machineType,uint256 ethNumber,uint256 signId,uint256 id)

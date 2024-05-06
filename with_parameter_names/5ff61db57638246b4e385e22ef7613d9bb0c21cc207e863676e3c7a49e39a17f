@@ -1,1 +1,0 @@
-BuyerRefunded(bytes32 indexed paymentId,address indexed buyer)

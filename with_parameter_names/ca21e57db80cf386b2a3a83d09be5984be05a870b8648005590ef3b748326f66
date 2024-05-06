@@ -1,1 +1,0 @@
-whaleAmountUpdated(uint256 oldAmount,uint256 newAmount,uint256 time)

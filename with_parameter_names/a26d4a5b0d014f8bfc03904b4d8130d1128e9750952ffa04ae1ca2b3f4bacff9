@@ -1,1 +1,0 @@
-ClearPoolEvent(address indexed _member,uint8 _poolNumber,uint256 _time)

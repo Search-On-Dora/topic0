@@ -1,1 +1,0 @@
-RequestWhitelistMint(address indexed winnerAddress,uint256 indexed tokenId)

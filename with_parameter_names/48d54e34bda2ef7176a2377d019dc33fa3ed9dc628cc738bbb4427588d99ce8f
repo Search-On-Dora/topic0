@@ -1,1 +1,0 @@
-RewardDistributedToAccount(address toAddress,uint256 totalReward,uint256 amount)

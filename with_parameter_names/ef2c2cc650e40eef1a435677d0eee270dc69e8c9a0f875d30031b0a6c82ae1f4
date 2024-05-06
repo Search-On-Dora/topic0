@@ -1,1 +1,0 @@
-AddressUpdated(address indexed _address,string _oldDescription,string _newDescription)

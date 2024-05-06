@@ -1,1 +1,0 @@
-PoolSet(address indexed poolAddress,address indexed stakingToken);PoolSet(address _pool,address _token)

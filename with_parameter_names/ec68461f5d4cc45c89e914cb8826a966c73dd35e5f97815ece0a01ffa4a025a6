@@ -1,1 +1,0 @@
-PayoutClaimed(address indexed topHolderAddress,uint256 claimedReward)

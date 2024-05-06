@@ -1,1 +1,0 @@
-RequestWinnerMint(address indexed winnerAddress,uint256 indexed tokenId)

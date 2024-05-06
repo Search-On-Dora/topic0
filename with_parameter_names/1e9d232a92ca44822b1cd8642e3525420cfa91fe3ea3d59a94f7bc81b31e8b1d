@@ -1,1 +1,0 @@
-RewardContractAddressUpdated(address indexed _previousRewardAddress,address indexed _newRewardAddress)

@@ -1,1 +1,0 @@
-RoyaltiesUpdated(uint256 indexed tokenId,address[] receivers,uint256[] basisPoints)

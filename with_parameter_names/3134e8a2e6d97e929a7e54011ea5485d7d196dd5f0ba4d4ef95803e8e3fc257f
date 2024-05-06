@@ -1,1 +1,0 @@
-DelegateChanged(address indexed delegator,address indexed fromDelegate,address indexed toDelegate)

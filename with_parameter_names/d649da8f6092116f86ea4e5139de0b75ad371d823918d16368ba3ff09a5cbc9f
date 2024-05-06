@@ -1,1 +1,0 @@
-SetFeeCollector(address indexed feeCollector)

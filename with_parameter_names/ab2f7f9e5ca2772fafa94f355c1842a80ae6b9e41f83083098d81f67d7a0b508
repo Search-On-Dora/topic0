@@ -1,1 +1,0 @@
-BorrowingEnabledOnReserve(address indexed asset,bool stableRateEnabled)

@@ -1,1 +1,0 @@
-StakerReassigned(address indexed staker,uint256 newNode)

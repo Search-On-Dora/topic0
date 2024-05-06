@@ -1,1 +1,0 @@
-NFTTransferred(address nftContract,address to,uint256 tokenId)

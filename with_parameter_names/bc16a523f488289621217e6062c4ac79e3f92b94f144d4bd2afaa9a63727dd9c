@@ -1,1 +1,0 @@
-MemberFunded(address beneficiary,uint256 amount,bool notStaked)

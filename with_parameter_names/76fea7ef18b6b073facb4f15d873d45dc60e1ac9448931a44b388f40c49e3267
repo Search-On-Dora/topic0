@@ -1,1 +1,0 @@
-NewLiquidationPenalty(address indexed _owner,uint256 _liquidationPenalty)

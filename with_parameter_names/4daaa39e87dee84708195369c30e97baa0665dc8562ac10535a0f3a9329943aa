@@ -1,1 +1,0 @@
-TransferGovernor(uint32 previousGovernorDomain,uint32 newGovernorDomain,address indexed previousGovernor,address indexed newGovernor)

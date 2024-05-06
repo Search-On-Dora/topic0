@@ -1,1 +1,0 @@
-Minted(address indexed buyer,uint256 amount,uint256 unitPrice,bytes32 hash)

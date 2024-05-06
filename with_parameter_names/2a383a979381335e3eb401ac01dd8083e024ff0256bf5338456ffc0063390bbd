@@ -1,1 +1,0 @@
-SponsorProposal(address indexed delegateKey,address indexed memberAddress,uint256 proposalId,uint256 proposalIndex,uint256 startingPeriod)

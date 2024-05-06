@@ -1,1 +1,0 @@
-WagerCancelled(uint256 indexed wagerId,address indexed user)

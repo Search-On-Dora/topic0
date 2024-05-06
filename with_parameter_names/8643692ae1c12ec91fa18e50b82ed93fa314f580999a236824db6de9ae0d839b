@@ -1,1 +1,0 @@
-PredicateRegistered(bytes32 indexed tokenType,address indexed predicateAddress)

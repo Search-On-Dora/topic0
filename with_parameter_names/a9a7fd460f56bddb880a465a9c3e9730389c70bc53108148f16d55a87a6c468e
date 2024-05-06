@@ -1,1 +1,0 @@
-SetDelegate(address indexed delegator,bytes32 indexed id,address indexed delegate)

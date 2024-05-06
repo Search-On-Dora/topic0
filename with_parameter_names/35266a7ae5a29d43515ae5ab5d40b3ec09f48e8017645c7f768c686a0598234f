@@ -1,1 +1,0 @@
-HouseTransferAllowanceForAll(address indexed fromAddress,address indexed toAddress,bool indexed approved)

@@ -1,1 +1,0 @@
-AddressFrozen(address indexed addr,bool indexed isFrozen,address indexed owner)

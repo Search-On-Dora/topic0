@@ -1,1 +1,0 @@
-SetAutomatedMarketMakerPair(address indexed pair,bool indexed value);SetAutomatedMarketMakerPair(address pair,bool value)

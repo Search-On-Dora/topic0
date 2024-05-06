@@ -1,1 +1,0 @@
-WithdrawDai(address indexed sender,address indexed recipient,uint256 amount)

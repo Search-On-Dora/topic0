@@ -1,1 +1,0 @@
-WagerRefunded(uint256 indexed wagerId,address indexed user,address paymentToken,uint256 amount)

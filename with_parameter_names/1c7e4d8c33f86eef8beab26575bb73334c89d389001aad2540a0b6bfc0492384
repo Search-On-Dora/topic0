@@ -1,1 +1,0 @@
-Voted(address votingAccount,string[] zoneIds,uint256[] proportions)

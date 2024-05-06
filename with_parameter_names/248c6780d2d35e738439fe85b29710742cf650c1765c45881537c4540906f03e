@@ -1,1 +1,0 @@
-CommunityReward(address buidlr,uint256 totemID,uint256 reward,address contractBuilt,string text,uint256 ticketID)

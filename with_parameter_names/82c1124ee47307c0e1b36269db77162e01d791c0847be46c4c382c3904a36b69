@@ -1,1 +1,0 @@
-IncreaseAuthQuota(address indexed signatory,uint256 increment,uint256 quota)

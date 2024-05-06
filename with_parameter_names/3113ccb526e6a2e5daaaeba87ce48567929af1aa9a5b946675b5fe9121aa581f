@@ -1,1 +1,0 @@
-MetadataUpdated(address indexed target,string metadataBase,string metadataBaseCollective,string metadataExtension,string contractURI,uint256 freezeAt)

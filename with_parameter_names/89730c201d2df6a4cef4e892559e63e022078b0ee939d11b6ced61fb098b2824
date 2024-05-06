@@ -1,1 +1,0 @@
-Document(bytes32 indexed name,string uri,bytes32 documentHash)

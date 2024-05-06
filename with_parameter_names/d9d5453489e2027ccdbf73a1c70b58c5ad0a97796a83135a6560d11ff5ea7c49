@@ -1,1 +1,0 @@
-WhitelistConfigured(address[] addrs,bool allow_deposit,bool allow_transfer,bool allow_unconditional_deposit,bool allow_unconditional_transfer)

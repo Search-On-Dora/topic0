@@ -1,1 +1,0 @@
-UpdateMaxTradableTokenId(uint256 indexed oldId,uint256 newId)

@@ -1,1 +1,0 @@
-SetHatVestingParams(uint256 indexed _duration,uint256 indexed _periods)

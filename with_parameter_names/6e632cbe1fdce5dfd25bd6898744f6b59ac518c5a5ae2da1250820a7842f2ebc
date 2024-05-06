@@ -1,1 +1,0 @@
-UserRegistered(bytes32 indexed usernameHash,address indexed addr,string username,string publicKey)

@@ -1,1 +1,0 @@
-OfferRevoked(bytes32 offer);OfferRevoked(bytes32 indexed offerHash)

@@ -1,1 +1,0 @@
-AssetCustomParamChanged(address indexed asset,uint256 indexed param,bytes32 value)

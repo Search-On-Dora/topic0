@@ -1,1 +1,0 @@
-SetOperator(address indexed operator,bool indexed previousPermission,bool indexed newPermission)

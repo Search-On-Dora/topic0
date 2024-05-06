@@ -1,1 +1,0 @@
-DividendClaimedETH(address indexed recipient,uint256 ethReceived)

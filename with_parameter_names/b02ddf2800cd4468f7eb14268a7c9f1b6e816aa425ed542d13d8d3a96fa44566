@@ -1,1 +1,0 @@
-AdminChanged(string TaskType,string class,address oldAddress,address newAddress)

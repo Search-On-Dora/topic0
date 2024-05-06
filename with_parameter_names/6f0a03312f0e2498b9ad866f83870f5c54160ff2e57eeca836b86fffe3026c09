@@ -1,1 +1,0 @@
-SwapBNBForTokens(address whereTo,uint256 amountIn,address[] path)

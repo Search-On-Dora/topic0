@@ -1,1 +1,0 @@
-RewardPaid(address indexed _user,address indexed _rewardsToken,uint256 _reward)

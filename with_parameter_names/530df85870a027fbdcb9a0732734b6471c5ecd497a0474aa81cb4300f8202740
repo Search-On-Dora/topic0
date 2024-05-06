@@ -1,1 +1,0 @@
-SetBaseVolatility(uint256 indexed oldBaseVolatility,uint256 indexed newBaseVolatility)

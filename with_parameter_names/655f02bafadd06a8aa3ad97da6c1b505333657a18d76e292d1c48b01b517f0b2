@@ -1,1 +1,0 @@
-NodeNameChange(uint256 indexed nodeId,string newName)

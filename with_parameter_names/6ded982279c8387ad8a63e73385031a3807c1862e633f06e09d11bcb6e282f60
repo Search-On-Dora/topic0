@@ -1,1 +1,0 @@
-Fee(address indexed _feeAddress,address coin,uint256 amount)

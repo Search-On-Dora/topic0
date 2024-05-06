@@ -1,1 +1,0 @@
-BtcToBePaid(address indexed customer,string userBtcAddress,uint256 sentToken)

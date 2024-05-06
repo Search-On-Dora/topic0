@@ -1,1 +1,0 @@
-WhitelistMintEvent(uint256 indexed quantity,address indexed owner)

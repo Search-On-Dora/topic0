@@ -1,1 +1,0 @@
-NodeRegistered(uint256 indexed nodeId,string name,address owner)

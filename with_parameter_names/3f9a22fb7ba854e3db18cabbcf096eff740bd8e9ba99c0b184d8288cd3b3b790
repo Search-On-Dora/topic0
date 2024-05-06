@@ -1,1 +1,0 @@
-PairAudited(address indexed tokenA,address indexed tokenB,uint256 status,bool result)

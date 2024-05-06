@@ -1,1 +1,0 @@
-PackRandomnessFulfilled(uint256 indexed packId,uint256 indexed requestId)

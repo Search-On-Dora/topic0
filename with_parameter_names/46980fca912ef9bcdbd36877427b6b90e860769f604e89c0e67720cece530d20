@@ -1,1 +1,0 @@
-MinterConfigured(address indexed minter,uint256 minterAllowedAmount)

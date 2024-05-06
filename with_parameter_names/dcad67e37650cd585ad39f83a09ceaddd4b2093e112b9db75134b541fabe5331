@@ -1,1 +1,0 @@
-DividendExpired(uint256 indexed dividendId,uint256 unclaimedAmount)

@@ -1,1 +1,0 @@
-ClaimReward(uint256 warIndex,uint256 reward,uint256 balance,address sender,string txType)

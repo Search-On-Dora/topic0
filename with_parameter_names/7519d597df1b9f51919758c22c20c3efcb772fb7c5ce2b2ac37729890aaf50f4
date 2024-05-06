@@ -1,1 +1,0 @@
-Allocated(address indexed user,address consumer,address peer,uint256 untEarned)

@@ -1,1 +1,0 @@
-CommitVote(address voter,uint256 ticketID,bytes32 hash)
