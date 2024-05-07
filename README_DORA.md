@@ -2,7 +2,7 @@
 
 ## Important files
 
-The file `DORA_CHAIN_LIST` contains a list of dora-supported chainIDs, which are then used to build the signature database. This should be updated if one wants to rebuild with a different sign
+The file `DORA_CHAIN_LIST` contains a list of dora-supported chainIDs, which are then used to build the signature database. This should be updated if one wants to rebuild with a different set of supported chains.
 
 ## Extra Requirements
 
