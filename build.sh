@@ -13,7 +13,7 @@ do
     echo "==== PULLING RESULTS FOR $chain ===="
     if fd -t d "^$chain$" -Iq; 
     then
-        fd "metadata.json" "./sourcify-snapshot/latest/repository/contract-stable/full_match/$chain" -x ./process-file.sh {} \;
+        fd "metadata.json" "../sourcify-snapshot/latest/repository/contract-stable/full_match/$chain" -x ./process-file.sh {} \;
     else
         echo "!!!!! NO DATA FOR CHAIN ID: $chain !!!!!"
     fi
