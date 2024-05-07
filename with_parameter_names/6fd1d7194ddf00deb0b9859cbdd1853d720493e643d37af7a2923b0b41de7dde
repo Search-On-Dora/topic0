@@ -1,0 +1,1 @@
+AuctionInitialized(address indexed tokenOut,address indexed tokenIn,uint256 orderCancellationEndDate,uint256 auctionEndDate,uint64 userId,uint96 auctionedSellAmount,uint96 minBuyAmount,uint256 minimumBiddingAmountPerOrder,uint256 minFundingThreshold)

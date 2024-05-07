@@ -1,0 +1,1 @@
+AskNew(address indexed collection,address indexed seller,uint256 indexed tokenId,uint256 askPrice)

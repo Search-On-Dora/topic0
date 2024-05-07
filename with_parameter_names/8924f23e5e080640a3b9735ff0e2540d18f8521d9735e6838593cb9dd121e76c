@@ -1,0 +1,1 @@
+ChallengeJoined(uint256 challengeId,uint256 amount,address by)

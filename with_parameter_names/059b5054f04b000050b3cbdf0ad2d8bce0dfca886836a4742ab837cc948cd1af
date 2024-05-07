@@ -1,0 +1,1 @@
+VaultFactoryRegistered(address indexed vaultFactory);VaultFactoryRegistered(address factory)

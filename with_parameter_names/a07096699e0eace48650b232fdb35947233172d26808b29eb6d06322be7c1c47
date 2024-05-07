@@ -1,0 +1,1 @@
+AssetAdded(address indexed owner,uint256 amount,address indexed tokenAddress,uint256 tokenId)

@@ -1,0 +1,1 @@
+TaxWalletUpdated(address indexed newWallet,address indexed oldWallet)

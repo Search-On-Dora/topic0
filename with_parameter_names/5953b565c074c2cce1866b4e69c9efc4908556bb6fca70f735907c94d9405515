@@ -1,0 +1,1 @@
+CooldownUpdated(uint256 oldCooldown,uint256 newCooldown)

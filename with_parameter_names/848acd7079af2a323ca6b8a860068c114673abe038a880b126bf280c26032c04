@@ -1,0 +1,1 @@
+LogSetManagementParams(address indexed vault,address oracle,uint24 maxSlippagePIPS,uint24 maxDeviation,uint256 cooldownPeriod,address executor,address stratAnnouncer)

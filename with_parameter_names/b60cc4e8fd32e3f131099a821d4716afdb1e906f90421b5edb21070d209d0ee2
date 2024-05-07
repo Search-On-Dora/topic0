@@ -1,0 +1,1 @@
+SetPauseGuardian(address indexed cometProxy,address indexed oldPauseGuardian,address indexed newPauseGuardian)

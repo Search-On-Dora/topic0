@@ -1,0 +1,1 @@
+TroveCreated(address indexed _borrower,uint256 arrayIndex)

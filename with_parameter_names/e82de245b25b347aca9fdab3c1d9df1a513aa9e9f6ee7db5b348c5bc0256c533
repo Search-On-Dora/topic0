@@ -1,0 +1,1 @@
+SinglePoolCreated(address indexed pool,uint256 version,address stakingToken,address rewardToken,address dividendToken,uint256 rewardPerBlock,uint256 depositFee,uint256 withdrawFee,bool hasDividend,address deployer)

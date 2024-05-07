@@ -1,0 +1,1 @@
+SaleInitialized(address indexed sale,uint256 templateId,address indexed template,bytes data)

@@ -1,0 +1,1 @@
+CanSetFeeReceiverEdited(address[] account,bool[] _canSetFeeReceiver)

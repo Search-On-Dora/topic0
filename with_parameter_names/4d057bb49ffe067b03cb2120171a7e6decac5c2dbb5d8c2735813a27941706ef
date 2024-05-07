@@ -1,0 +1,1 @@
+SetFeeRecipients(address[] feeRecipients,uint32[] feeProportions)

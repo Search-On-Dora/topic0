@@ -1,0 +1,1 @@
+NewExchangeRate(string indexed token,uint256 indexed newRate)

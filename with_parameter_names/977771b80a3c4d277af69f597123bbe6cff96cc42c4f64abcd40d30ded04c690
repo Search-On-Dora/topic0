@@ -1,0 +1,1 @@
+SetCashier(uint16 indexed chainId,bytes32 cashier)

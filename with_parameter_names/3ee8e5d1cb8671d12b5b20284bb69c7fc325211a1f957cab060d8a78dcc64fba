@@ -1,0 +1,1 @@
+VotesScheduled(address indexed group,uint256 amount)

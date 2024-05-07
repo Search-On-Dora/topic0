@@ -1,0 +1,1 @@
+SetTreasury(address treasury);SetTreasury(address indexed _treasury)

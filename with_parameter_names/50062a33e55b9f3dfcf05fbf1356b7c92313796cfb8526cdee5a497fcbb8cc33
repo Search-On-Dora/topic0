@@ -1,0 +1,1 @@
+RepresentativeSet(address indexed delegator,address indexed representative,bool set)

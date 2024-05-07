@@ -1,0 +1,1 @@
+FunctionsAllowlisted(bytes32[] functionNameHashes,bool isAllowlisted,address indexed executedBy)

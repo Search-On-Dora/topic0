@@ -1,0 +1,1 @@
+ConfigChanged(address indexed host,address indexed superToken,bytes32 key,bool set,uint256 value)

@@ -1,0 +1,1 @@
+AssetDeposited(address indexed assetNft,uint256 assetNftId)

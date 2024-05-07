@@ -1,0 +1,1 @@
+ExchangeProposalCancelled(uint256 indexed proposalId)

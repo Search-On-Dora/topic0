@@ -1,0 +1,1 @@
+LogStake(address _address,uint256 _stake_id,uint256 amount)

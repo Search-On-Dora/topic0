@@ -1,0 +1,1 @@
+NomadModuleManagerUpdated(address indexed previousManager,address indexed newManager)

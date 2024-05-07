@@ -1,0 +1,1 @@
+TokenBidEntered(address indexed token,uint256 value,address indexed fromAddress)

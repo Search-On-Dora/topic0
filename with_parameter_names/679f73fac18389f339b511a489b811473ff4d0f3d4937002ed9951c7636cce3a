@@ -1,0 +1,1 @@
+CancelParticipation(address user,uint256 challengeId)

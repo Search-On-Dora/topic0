@@ -1,0 +1,1 @@
+promptsUpdated(uint256 requestId,uint256 modelId,string input,string output,bytes callbackData)

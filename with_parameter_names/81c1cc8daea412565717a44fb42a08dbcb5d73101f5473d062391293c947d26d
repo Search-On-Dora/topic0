@@ -1,0 +1,1 @@
+TranslationSubmitted(uint256 indexed _taskID,address indexed _translator,string _translatedText,uint256 _timestamp)

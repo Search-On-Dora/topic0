@@ -1,0 +1,1 @@
+Claimed(address indexed token,address indexed destination,uint256 amount,bool autoStake)

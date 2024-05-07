@@ -1,0 +1,1 @@
+StrategyAdded(uint256 strategyId,address vault,uint256 minCollSize,uint256 maxPosSize)

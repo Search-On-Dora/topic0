@@ -1,0 +1,1 @@
+SetExchangeRate(uint256 rate);SetExchangeRate(uint256 indexed rate)

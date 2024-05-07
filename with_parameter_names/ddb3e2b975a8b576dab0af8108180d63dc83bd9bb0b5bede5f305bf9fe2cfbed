@@ -1,0 +1,1 @@
+ProposalCreated(uint256 proposalId,uint8 proposalType,address target,bytes data,uint256 deadline,address proposer)

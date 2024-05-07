@@ -1,0 +1,1 @@
+ERC721TokenCreated(address indexed erc721Token,uint256 indexed counter,string tokenName,string tokenSymbol)

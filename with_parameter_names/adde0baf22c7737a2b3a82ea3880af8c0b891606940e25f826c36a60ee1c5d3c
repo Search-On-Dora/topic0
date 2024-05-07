@@ -1,0 +1,1 @@
+MultiplierChanged(uint16 indexed pid,string name,address contractAdd,bool isUsed,uint16 multi,uint128 start,uint128 end)

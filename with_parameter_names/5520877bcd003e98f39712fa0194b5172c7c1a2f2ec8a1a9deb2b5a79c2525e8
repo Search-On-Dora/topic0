@@ -1,0 +1,1 @@
+ReferralEarningBipsChanged(uint256 indexed oldReferralEarningBips,uint256 indexed newReferralEarningBips)

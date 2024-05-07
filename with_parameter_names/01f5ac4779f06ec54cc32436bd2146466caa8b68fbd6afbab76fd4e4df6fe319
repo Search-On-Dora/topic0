@@ -1,0 +1,1 @@
+NFTClaimed(address indexed claimant,address indexed nftAddress,uint256 tokenId)

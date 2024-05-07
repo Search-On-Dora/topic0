@@ -1,0 +1,1 @@
+WithDrawBatchIdErc1155(address nftContract,address from,address to,uint256[] ids,uint256[] amount)

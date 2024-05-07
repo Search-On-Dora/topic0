@@ -1,0 +1,1 @@
+ContractWhitelisted(address indexed contract_,bool indexed isWhitelisted_)

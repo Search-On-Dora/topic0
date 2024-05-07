@@ -1,0 +1,1 @@
+PoolTokenPairAdded(address indexed pool,address indexed token1,address indexed token2)

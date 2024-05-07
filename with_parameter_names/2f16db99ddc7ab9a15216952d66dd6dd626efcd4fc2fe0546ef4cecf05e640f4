@@ -1,0 +1,1 @@
+StakeToken(address indexed vault,address indexed user,uint256 date,uint256 amount)

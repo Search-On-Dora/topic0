@@ -1,0 +1,1 @@
+BlacklisterAdded(address indexed addedBlacklister,address indexed addedBy)

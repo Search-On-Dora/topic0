@@ -1,0 +1,1 @@
+VaultCreated(address indexed vault,address indexed owner,address indexed token)

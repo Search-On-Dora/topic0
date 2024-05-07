@@ -1,0 +1,1 @@
+WalletCreated(address indexed sender,address indexed walletAddress,address nftContract,uint256 tokenId)

@@ -1,0 +1,1 @@
+KeyMigrated(bytes32 fromContractName,bytes32 toContractName,bool removeAccessFromPreviousContract)

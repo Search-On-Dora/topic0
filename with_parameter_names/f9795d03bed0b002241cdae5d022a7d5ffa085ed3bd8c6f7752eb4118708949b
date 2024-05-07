@@ -1,0 +1,1 @@
+customerRegistered(string email,string phoneNum,string customerName)

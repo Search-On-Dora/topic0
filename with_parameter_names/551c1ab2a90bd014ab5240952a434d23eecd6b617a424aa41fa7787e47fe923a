@@ -1,0 +1,1 @@
+LogClaimStateChanged(bytes32 bpKey,uint256 claimId,uint8 state)

@@ -1,0 +1,1 @@
+CollateralsMaxLTVSet(uint256 strategyId,address[] collaterals,uint256[] maxLTVs)

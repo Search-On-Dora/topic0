@@ -1,0 +1,1 @@
+Claimed(address indexed user,string word,uint256 tokenId,uint256 timestamp)

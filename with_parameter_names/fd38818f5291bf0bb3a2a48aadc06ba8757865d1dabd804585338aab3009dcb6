@@ -1,0 +1,1 @@
+TokensBurned(address indexed burner,uint256 amount)

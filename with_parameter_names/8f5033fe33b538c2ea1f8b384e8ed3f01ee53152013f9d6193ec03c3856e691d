@@ -1,0 +1,1 @@
+RedeemFToken(address indexed owner,address indexed recipient,uint256 fTokenBurned,uint256 baseTokenOut,uint256 bonus,uint256 redeemFee)

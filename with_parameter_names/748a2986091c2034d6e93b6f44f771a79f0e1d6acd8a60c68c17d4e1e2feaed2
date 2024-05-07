@@ -1,0 +1,1 @@
+PublicMint(address indexed user,uint256 indexed id)

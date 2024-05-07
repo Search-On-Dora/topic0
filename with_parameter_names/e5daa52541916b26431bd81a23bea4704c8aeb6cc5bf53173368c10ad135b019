@@ -1,0 +1,1 @@
+RoomRegistered(address registrant,uint256 room_id)

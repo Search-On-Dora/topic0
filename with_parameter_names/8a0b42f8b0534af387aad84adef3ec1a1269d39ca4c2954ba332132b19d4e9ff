@@ -1,0 +1,1 @@
+MinVotingPowerToVoteSet(uint256 oldMinVotingPowerToVote,uint256 newMinVotingPowerToVote)

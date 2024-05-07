@@ -1,0 +1,1 @@
+AmbassadorRemoved(address indexed ambassador,address indexed entity)

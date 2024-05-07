@@ -1,0 +1,1 @@
+NomTokenPriceChanged(bytes32 indexed tokenId,uint256 price)

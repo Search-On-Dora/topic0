@@ -1,0 +1,1 @@
+nomeventTokenId(bytes32 indexed tokenId,address indexed fromAddress,uint256 minValue)

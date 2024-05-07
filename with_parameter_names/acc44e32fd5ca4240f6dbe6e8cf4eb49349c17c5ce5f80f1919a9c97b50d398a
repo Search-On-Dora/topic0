@@ -1,0 +1,1 @@
+TaxConfigSet(address indexed _taxAddress,uint256 indexed _taxBPS)

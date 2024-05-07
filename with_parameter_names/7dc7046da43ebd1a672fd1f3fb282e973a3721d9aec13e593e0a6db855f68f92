@@ -1,0 +1,1 @@
+UserRewarded(address indexed user,uint256 indexed campaignId,uint256 rewards)

@@ -1,0 +1,1 @@
+AdminStatus(address indexed _admin,bool _status)

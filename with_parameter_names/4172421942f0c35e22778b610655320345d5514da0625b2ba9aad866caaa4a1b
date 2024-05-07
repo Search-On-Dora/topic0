@@ -1,0 +1,1 @@
+WarriorEnlisted(uint256 indexed battleId,address indexed warrior,uint256 indexed weaponId,uint256 side,uint256 power)

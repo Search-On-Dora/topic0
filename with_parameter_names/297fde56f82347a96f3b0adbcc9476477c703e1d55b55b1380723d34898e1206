@@ -1,0 +1,1 @@
+OnWhiteListed(uint256 indexed positionId,bool isWhiteListed,address[] accounts)

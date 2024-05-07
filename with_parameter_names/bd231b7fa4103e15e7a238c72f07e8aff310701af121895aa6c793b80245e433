@@ -1,0 +1,1 @@
+FeeCollected(address sender,uint8 fromDomainID,uint8 destinationDomainID,bytes32 resourceID,uint256 fee,address tokenAddress)

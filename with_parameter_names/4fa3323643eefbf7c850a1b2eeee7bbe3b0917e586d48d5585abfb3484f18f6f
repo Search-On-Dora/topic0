@@ -1,0 +1,1 @@
+NFTLocked(address staker,uint256 nftIndex,uint256 amountUSA,uint256 activerPeriodIndex)

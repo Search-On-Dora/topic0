@@ -1,0 +1,1 @@
+TransferWithReferenceAndFee(address tokenAddress,address to,uint256 amount,bytes indexed paymentReference,uint256 feeAmount,address feeAddress)

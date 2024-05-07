@@ -1,0 +1,1 @@
+AdminWalletChanged(address indexed oldWallet,address indexed newWallet,address indexed sender)

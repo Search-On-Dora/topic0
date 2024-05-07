@@ -1,0 +1,1 @@
+NewPoll(uint256 ID,address creator,string metadata,uint8 status,uint256 snapshotID,uint256 optionsCount,uint256 timestamp)

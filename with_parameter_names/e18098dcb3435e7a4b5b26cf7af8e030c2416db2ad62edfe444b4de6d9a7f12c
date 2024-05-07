@@ -1,0 +1,1 @@
+eventApproval(address approvor,uint256 docId,bool invokable)

@@ -1,0 +1,1 @@
+DigitalProductPurchased(address indexed buyer,uint256 orderId,uint256 indexed productId,uint256 quantity)

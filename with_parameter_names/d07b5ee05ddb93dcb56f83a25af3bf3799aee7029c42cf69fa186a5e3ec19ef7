@@ -1,0 +1,1 @@
+LockedCell(uint256 indexed tokenId,address owner,string cellCode,string tokenURI)

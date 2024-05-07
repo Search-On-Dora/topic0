@@ -1,0 +1,1 @@
+EarningsClaimed(address indexed claimer,uint256 amount)

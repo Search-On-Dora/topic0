@@ -1,0 +1,1 @@
+TradeIssuerTokenRedeemed(address indexed chamber,address indexed recipient,address indexed outputToken,uint256 totalTokensReturned,uint256 redeemAmount)

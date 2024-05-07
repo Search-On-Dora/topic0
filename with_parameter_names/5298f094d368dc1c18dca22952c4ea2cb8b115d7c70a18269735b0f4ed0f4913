@@ -1,0 +1,1 @@
+StateHash(string blockchain,bytes32 merkleRoot,uint256 totalSupply)

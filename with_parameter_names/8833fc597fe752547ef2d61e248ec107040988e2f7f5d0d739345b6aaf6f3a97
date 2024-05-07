@@ -1,0 +1,1 @@
+SetConfiguration(address indexed cometProxy,tuple oldConfiguration,tuple newConfiguration)

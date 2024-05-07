@@ -1,0 +1,1 @@
+SetTaxWhitelist(address whitelist,bool isWhitelisted)

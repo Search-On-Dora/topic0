@@ -1,0 +1,1 @@
+CollateralLiquidated(uint256 totalAmountToLiquidate,uint256 baseFreed,uint256 quoteReceived,uint256 lockedCollateralBase)

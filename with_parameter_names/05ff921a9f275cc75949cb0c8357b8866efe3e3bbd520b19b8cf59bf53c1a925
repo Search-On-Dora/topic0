@@ -1,0 +1,1 @@
+VaultRegistered(uint256 indexed vaultId,bytes32 indexed projectId,bytes32 indexed strategyId,bool isUpdate)

@@ -1,0 +1,1 @@
+FastTrackAuction(bytes32 indexed collateralType,uint256 auctionId,uint256 collateralTotalDebt);FastTrackAuction(bytes32 indexed _cType,uint256 indexed _auctionId,uint256 _collateralTotalDebt)

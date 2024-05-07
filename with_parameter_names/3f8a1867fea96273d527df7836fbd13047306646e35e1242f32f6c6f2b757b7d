@@ -1,0 +1,1 @@
+_BlockOnSale(uint256 indexed blockId,address author,uint256 xdai_value)

@@ -1,0 +1,1 @@
+AppAdminChanged(address app,address user,bool state)

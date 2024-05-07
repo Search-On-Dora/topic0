@@ -1,0 +1,1 @@
+ConditionCreated(uint256 indexed gameId,uint256 indexed oracleConditionId,uint256 indexed conditionId)

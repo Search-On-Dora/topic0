@@ -1,0 +1,1 @@
+RebateAdminUpdated(address indexed rebateAdmin,bool flag)

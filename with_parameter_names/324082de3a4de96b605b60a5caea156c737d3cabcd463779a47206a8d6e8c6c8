@@ -1,0 +1,1 @@
+MintedSerial(uint256 serialId,uint256 tokenId,address minter)

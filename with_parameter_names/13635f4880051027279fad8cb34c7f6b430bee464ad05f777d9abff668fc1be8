@@ -1,0 +1,1 @@
+summoned(address indexed owner,uint256 class,uint256 summoner)

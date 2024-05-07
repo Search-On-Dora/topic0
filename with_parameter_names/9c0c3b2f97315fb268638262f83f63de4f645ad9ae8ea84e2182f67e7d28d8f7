@@ -1,0 +1,1 @@
+ProtectSAFE(bytes32 indexed _cType,address indexed _safe,address _saviour)

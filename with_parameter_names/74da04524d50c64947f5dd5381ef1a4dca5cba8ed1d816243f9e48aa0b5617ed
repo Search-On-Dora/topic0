@@ -1,0 +1,1 @@
+OperatorTransferred(address indexed previousOperator,address indexed newOperator);OperatorTransferred(address oldOperator,address newOperator)

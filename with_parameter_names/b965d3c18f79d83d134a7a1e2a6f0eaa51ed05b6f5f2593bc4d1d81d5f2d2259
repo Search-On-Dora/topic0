@@ -1,0 +1,1 @@
+NewCommunityReputationSettings(uint256 communityID,uint256 reactionID,string label,int256 amount)

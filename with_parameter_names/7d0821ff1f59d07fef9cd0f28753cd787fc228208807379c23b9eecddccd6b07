@@ -1,0 +1,1 @@
+AuctionSurplus(uint256 indexed _id,uint256 _initialBid,uint256 _surplusAuctioned)

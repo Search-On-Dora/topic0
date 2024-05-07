@@ -1,0 +1,1 @@
+Collected(address sender,uint256 amount);Collected(address indexed beneficiary,uint256 amount)

@@ -1,0 +1,1 @@
+AggregatorConfirmed(address indexed previous,address indexed latest)

@@ -1,0 +1,1 @@
+FulfillmentUpdated(uint256 _bountyId,uint256 _fulfillmentId,address[] _fulfillers,string _data)

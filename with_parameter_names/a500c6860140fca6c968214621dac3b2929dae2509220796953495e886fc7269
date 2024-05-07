@@ -1,0 +1,1 @@
+MultipliersUpdated(address indexed token,uint128[] thresholds,uint128[] scalars)

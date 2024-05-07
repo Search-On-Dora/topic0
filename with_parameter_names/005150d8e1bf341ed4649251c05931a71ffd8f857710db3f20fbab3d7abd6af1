@@ -1,0 +1,1 @@
+UpdateCollateralPrice(bytes32 indexed _cType,uint256 _safetyPrice,uint256 _liquidationPrice)

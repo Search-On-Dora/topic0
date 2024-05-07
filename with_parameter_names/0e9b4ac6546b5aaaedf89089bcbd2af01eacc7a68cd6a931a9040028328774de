@@ -1,0 +1,1 @@
+CollectionNew(address indexed collection,address indexed creator,uint256 tradingFee,uint256 creatorFee,bool eip2981ish)

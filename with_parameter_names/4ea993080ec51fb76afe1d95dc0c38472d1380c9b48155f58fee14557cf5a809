@@ -1,0 +1,1 @@
+SignerPermissionsUpdated(address indexed authorizingSigner,address indexed targetSigner,tuple permissions)

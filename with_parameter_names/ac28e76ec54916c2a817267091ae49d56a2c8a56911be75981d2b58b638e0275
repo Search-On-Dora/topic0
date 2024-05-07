@@ -1,0 +1,1 @@
+FarmInfo(address indexed stakingAddress,bytes32 indexed farmName,address indexed lpAddress)

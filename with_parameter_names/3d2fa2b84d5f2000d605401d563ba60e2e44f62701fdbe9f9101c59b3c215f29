@@ -1,0 +1,1 @@
+DonationAdded(uint256 indexed donationId,address indexed delegateAddress,uint256 amount,address token,uint256 initialAmount,address indexed target)

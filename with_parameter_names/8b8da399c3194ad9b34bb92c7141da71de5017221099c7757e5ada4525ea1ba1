@@ -1,0 +1,1 @@
+DepositSingle(address indexed user,uint256 mLootId)

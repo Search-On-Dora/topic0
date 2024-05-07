@@ -1,0 +1,1 @@
+ChangeRoyalty(uint256 id,address[] royaltyAddresses,uint256[] royaltiesWithTwoDecimals)

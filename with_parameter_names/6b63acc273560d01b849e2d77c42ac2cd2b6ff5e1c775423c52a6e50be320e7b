@@ -1,0 +1,1 @@
+CeloWithdrawalScheduled(address indexed beneficiary,address indexed group,uint256 withdrawalAmount)

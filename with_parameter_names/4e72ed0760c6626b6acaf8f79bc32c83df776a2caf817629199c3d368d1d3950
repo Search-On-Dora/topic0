@@ -1,0 +1,1 @@
+UpdateTokenTransferability(address indexed _daoAddress,bool _isTokenTransferable)

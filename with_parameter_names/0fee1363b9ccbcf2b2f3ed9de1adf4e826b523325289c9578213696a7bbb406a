@@ -1,0 +1,1 @@
+CyberBoxBoxTypeCountChanged(uint256 fee_co2,uint256 legendary_count,uint256 epic_count,uint256 rare_count,uint256 common_count,address boxAddress)

@@ -1,0 +1,1 @@
+BridgeCallTriggered(address indexed outbox,address indexed destAddr,uint256 amount,bytes data)

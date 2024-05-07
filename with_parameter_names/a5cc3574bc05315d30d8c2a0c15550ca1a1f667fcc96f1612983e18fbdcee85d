@@ -1,0 +1,1 @@
+EventStoreWallet(bytes32 indexed username,address indexed walletAddress,string ciphertext,string iv,string salt,string mac)

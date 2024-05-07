@@ -1,0 +1,1 @@
+LogSetVault(address vault,uint256 supplyCap,bool hasWhitelist)

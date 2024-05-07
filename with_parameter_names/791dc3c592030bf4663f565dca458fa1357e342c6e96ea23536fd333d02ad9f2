@@ -1,0 +1,1 @@
+DeployERC20(address operator,address indexed from,address indexed ferc721Address,address indexed ferc20Address,uint256 limit)

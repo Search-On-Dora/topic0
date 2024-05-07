@@ -1,0 +1,1 @@
+FundraiserCreated(address indexed fundOwner,uint256 amount,uint256 timestamp)

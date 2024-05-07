@@ -1,0 +1,1 @@
+PostCreated(bytes32 indexed postId,address indexed createdBy,uint256 value,string link)

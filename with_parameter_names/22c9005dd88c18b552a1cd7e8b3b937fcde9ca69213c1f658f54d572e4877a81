@@ -1,0 +1,1 @@
+BlocksVerification(uint256 indexed previousLastVerifiedBatch,uint256 indexed currentLastVerifiedBatch)

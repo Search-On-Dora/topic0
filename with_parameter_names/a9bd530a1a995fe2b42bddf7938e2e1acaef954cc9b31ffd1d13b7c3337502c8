@@ -1,0 +1,1 @@
+PieceDropped(uint256 indexed pieceId,address indexed remover)

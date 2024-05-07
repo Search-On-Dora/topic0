@@ -1,0 +1,1 @@
+RedeemXToken(address indexed owner,address indexed recipient,uint256 xTokenBurned,uint256 baseTokenOut,uint256 redeemFee)

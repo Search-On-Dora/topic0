@@ -1,0 +1,1 @@
+BalanceUpdated(address indexed owner,uint256 previous,uint256 next,uint256 totalSupply)

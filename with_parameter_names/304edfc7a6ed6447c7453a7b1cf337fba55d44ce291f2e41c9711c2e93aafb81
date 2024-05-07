@@ -1,0 +1,1 @@
+CreatedSerial(uint256 serialId,address creator,uint256 startToken,uint256 serialSize)

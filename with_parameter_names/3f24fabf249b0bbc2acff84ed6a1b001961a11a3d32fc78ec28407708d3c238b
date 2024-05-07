@@ -1,0 +1,1 @@
+BoardLiquidated(uint256 indexed boardId,uint256 totalUserLongProfitQuote,uint256 totalBoardLongCallCollateral,uint256 totalBoardLongPutCollateral,uint256 totalAMMShortCallProfitBase,uint256 totalAMMShortPutProfitQuote)

@@ -1,0 +1,1 @@
+OrderPlaced(address indexed buyer,uint256 indexed orderId,uint256 productId,uint256 quantity,string encryptedName,string encryptedShippingAddress)

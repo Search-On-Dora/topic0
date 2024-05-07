@@ -1,0 +1,1 @@
+FaucetWithdrawed(address indexed ownerWallet,uint256 indexed withdrawedAmount)

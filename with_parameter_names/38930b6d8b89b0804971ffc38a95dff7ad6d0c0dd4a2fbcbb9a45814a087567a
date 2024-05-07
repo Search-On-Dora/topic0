@@ -1,0 +1,1 @@
+tournamentDelete(bytes32 indexed tourneyid,uint256 tournamentCount)

@@ -1,0 +1,1 @@
+BeaconProxyAddressChanged(address indexed beaconProxyAddress,address indexed executedBy)

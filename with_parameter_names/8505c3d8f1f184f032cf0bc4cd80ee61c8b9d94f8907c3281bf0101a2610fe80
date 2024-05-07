@@ -1,0 +1,1 @@
+AgreementLiquidated(address indexed agreementClass,bytes32 id,address indexed penaltyAccount,address indexed rewardAccount,uint256 rewardAmount)

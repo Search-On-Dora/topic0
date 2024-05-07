@@ -1,0 +1,1 @@
+bitjBought(uint256 indexed bitjIndex,uint256 value,address indexed fromAddress,address indexed toAddress)

@@ -1,0 +1,1 @@
+InitializeLitexAuctionProtocolEvent(address donationAddress,address bootCoordinatorAddress,string bootCoordinatorURL,uint16 outbidding,uint8 slotDeadline,uint16 closedAuctionSlots,uint16 openAuctionSlots,uint16[3] allocationRatio)

@@ -1,0 +1,1 @@
+TaskFunded(address indexed _project,uint256[] _taskIDs)

@@ -1,0 +1,1 @@
+IPNFTMinted(address indexed owner,uint256 indexed tokenId,string tokenURI,string symbol)

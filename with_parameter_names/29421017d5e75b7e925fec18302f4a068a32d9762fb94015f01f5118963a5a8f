@@ -1,0 +1,1 @@
+CertificateDataModified(uint256 indexed certificateId,uint256 liquidity,uint256 enteredAt,uint256 burnableAt)

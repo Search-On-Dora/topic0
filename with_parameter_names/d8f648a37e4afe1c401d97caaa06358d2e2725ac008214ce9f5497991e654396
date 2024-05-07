@@ -1,0 +1,1 @@
+MintFeeChanged(uint256 indexed oldMintFee,uint256 indexed newMintFee);MintFeeChanged(uint256 oldValue,uint256 newValue)

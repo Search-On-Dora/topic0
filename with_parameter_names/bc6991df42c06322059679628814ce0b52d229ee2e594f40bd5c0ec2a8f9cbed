@@ -1,0 +1,1 @@
+tournamentComplete(bytes32 indexed tourneyid,uint256[] winningPlayers,uint256[] winningPercentages,uint256 winnerCount,uint256 organizerFee)

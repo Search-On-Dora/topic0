@@ -1,0 +1,1 @@
+SnapshotRootSaved(uint256 indexed snapshotId,bytes32 indexed root,uint256 indexed count)

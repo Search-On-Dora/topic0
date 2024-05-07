@@ -1,0 +1,1 @@
+TrustedSignerChanged(address indexed prevSigner,address indexed newSigner)

@@ -1,0 +1,1 @@
+GamePlayCreated(uint256 indexed gameID,uint16 indexed gamePlayID,address indexed player,uint8 coinSide,bytes32 proofOfChance)

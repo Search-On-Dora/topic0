@@ -1,0 +1,1 @@
+AutoCompounded(address account,uint256 tokenId,uint256 amountAdded0,uint256 amountAdded1,uint256 reward0,uint256 reward1,address token0,address token1)

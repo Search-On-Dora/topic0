@@ -1,0 +1,1 @@
+SetBridgeAdmin(address adminAddress,bool enabled)

@@ -1,0 +1,1 @@
+NewConnector(uint32 indexed domain,uint32 indexed mirrorDomain,address amb,address rootManager,address mirrorConnector)

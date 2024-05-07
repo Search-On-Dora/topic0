@@ -1,0 +1,1 @@
+LogOracleSetState(uint256 oracleId,uint8 state)

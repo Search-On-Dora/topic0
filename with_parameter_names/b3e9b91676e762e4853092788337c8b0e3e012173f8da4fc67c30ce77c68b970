@@ -1,0 +1,1 @@
+LogNewMetadata(uint256 productId,bytes32 bpKey,uint8 state)

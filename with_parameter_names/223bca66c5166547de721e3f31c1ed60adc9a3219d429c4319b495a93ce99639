@@ -1,0 +1,1 @@
+ClaimedTicket(address indexed user,uint256 indexed ticketId,uint256 indexed amount)

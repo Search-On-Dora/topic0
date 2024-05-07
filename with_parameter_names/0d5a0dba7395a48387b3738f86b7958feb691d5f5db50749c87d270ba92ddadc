@@ -1,0 +1,1 @@
+LogEvent(uint256 _amount,string _description)

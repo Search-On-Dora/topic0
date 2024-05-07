@@ -1,0 +1,1 @@
+propCollected(bytes32 indexed wagerid,uint256 indexed playerid,address token,uint256 amount,bytes32 wagerChoice,bool confirmed)

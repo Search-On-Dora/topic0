@@ -1,0 +1,1 @@
+SessionFinished(uint32 indexed sessionId)

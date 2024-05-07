@@ -1,0 +1,1 @@
+AvatarSet(address indexed previousAvatar,address indexed newAvatar)

@@ -1,0 +1,1 @@
+Subscribe(bytes32 indexed subscriptionId,uint64 indexed startSlot,uint64 indexed endSlot,tuple subscription)

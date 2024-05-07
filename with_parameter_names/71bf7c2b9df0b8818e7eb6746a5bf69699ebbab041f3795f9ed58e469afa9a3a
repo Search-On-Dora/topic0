@@ -1,0 +1,1 @@
+LogCancelArbitration(bytes32 indexed question_id)

@@ -1,0 +1,1 @@
+UserStakeUpdated(address indexed user,uint256 initialBalance,uint256 finalBalance)

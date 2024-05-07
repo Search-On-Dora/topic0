@@ -1,0 +1,1 @@
+FeeChanged(uint256 indexed partnerId,address indexed initiator,bool indexed isAdminFee,uint256 oldFee,uint256 newFee)

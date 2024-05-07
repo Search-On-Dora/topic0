@@ -1,0 +1,1 @@
+MinterSet(address minter,uint256 totalMintCap,uint256 perTxCap,uint32 bps,bool rewardsRole,bool isUpdate)

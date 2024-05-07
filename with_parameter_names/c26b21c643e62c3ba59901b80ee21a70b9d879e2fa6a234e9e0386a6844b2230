@@ -1,0 +1,1 @@
+TokenBidEntered(string tokenId,address indexed fromAddress,uint256 value)

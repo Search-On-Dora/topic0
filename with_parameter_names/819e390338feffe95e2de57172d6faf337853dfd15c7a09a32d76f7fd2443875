@@ -1,0 +1,1 @@
+LogTrade(uint256 pay_amt,address indexed pay_gem,uint256 buy_amt,address indexed buy_gem)

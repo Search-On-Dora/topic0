@@ -1,0 +1,1 @@
+SetHubPool(address indexed newHubPool)

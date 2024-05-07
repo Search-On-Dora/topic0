@@ -1,0 +1,1 @@
+tournamentCollect(bytes32 indexed tourneyid,uint256 indexed playerid,address token,uint256 amount)

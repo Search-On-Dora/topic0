@@ -1,0 +1,1 @@
+PauseMarket(address indexed reserve,bool pause)

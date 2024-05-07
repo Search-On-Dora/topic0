@@ -1,0 +1,1 @@
+Deployed(address indexed deployedAddress,address indexed sender,bytes32 indexed salt,bytes32 bytecodeHash)

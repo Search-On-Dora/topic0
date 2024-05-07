@@ -1,0 +1,1 @@
+OddsChanged(uint256 indexed conditionId,uint64[2] newOdds)

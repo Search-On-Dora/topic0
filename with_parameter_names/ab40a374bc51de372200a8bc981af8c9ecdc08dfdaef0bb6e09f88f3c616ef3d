@@ -1,0 +1,1 @@
+Paused(address indexed account,uint256 newPausedStatus)

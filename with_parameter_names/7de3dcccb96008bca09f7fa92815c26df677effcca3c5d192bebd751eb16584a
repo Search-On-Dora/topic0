@@ -1,0 +1,1 @@
+DigitalProductCreated(uint256 indexed tokenId,address indexed collectionAddress,uint256 supply)

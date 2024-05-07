@@ -1,0 +1,1 @@
+UpdateWhitelistAddress(address oldAddress,bool status);UpdateWhitelistAddress(address indexed user,bool status)

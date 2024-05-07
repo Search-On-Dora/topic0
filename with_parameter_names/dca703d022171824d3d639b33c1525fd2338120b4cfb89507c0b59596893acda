@@ -1,0 +1,1 @@
+LogSetQuestionFee(address arbitrator,uint256 amount)

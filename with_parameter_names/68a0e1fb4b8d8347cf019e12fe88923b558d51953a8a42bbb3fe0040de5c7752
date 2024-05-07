@@ -1,0 +1,1 @@
+AutoClaimEnabled(address indexed user,address indexed lst)

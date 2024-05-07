@@ -1,0 +1,1 @@
+SyncL2TxHash(bytes32 l2TxHash,bytes32 primaryChainL2TxHash)

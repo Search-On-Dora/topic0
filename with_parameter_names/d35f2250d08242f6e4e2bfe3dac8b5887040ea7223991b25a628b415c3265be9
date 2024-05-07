@@ -1,0 +1,1 @@
+QuestClaimed(address indexed recipient,address indexed questAddress,string questId,address rewardToken,uint256 rewardAmountInWei)

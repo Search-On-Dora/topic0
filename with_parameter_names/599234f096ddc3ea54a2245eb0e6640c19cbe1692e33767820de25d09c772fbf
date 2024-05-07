@@ -1,0 +1,1 @@
+TalentRewardWithdrawal(address indexed talentToken,address indexed talentTokenWallet,uint256 reward)

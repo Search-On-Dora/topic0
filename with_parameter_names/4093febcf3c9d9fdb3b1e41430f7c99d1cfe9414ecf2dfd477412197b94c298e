@@ -1,0 +1,1 @@
+WithdrawSucceed(address indexed account,uint256 remainedStakedAmount)

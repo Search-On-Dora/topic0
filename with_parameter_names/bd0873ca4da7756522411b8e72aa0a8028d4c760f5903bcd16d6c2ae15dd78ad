@@ -1,0 +1,1 @@
+NewCapEnabled(address indexed _owner,bool _enable)

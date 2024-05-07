@@ -1,0 +1,1 @@
+RevertSynthesizeCompleted(bytes32 indexed id,address indexed to,uint256 amount,uint256 bridgingFee,address token)

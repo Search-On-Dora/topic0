@@ -1,0 +1,1 @@
+OfferSubmitted(address indexed buyer,uint256 indexed price,uint256 indexed stake,string uri)

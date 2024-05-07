@@ -1,0 +1,1 @@
+CyberBoxAddedNewCollection(string collectionName,string collectionDescription,string collectionLogoUrl,string collectionCoverImgUrl,string collectionPromoBannerUrl,string profileEmail,string profileTwitter,string profileDiscord,string profileSite,address collectionAddress)

@@ -1,0 +1,1 @@
+UpdateCommunityReputationSettings(uint256 communityID,string[] labels,int256[] amounts)

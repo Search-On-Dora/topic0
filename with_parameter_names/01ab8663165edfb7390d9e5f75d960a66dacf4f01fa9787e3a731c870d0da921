@@ -1,0 +1,1 @@
+IndexCreated(address indexed token,address indexed publisher,uint32 indexed indexId,bytes userData)

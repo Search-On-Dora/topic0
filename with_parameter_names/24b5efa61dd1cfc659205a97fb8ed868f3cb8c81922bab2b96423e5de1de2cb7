@@ -1,0 +1,1 @@
+RewardClaimed(uint256 indexed battleId,address indexed warrior,uint256 rewardAmount)

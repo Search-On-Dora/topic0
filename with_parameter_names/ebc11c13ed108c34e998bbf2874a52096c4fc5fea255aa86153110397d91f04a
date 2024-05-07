@@ -1,0 +1,1 @@
+ERC1155CollectionLaunch(uint256 indexed tokenId,address indexed creator,uint256 initialSupply)

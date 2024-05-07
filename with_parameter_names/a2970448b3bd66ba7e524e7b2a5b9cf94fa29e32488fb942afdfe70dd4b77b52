@@ -1,0 +1,1 @@
+AddNewRollupType(uint32 indexed rollupTypeID,address consensusImplementation,address verifier,uint64 forkID,uint8 rollupCompatibilityID,bytes32 genesis,string description)

@@ -1,0 +1,1 @@
+ExchangeProposalCreated(uint256 indexed proposalId,address indexed exchanger,string stableTokenRegistryId,uint256 sellAmount,uint256 buyAmount,bool sellCelo)

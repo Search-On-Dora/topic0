@@ -1,0 +1,1 @@
+SetWhitelistEnableProposalCreated(uint256 proposalId,address target,bool enabled)

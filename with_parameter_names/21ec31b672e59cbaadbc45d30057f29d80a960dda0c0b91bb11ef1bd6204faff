@@ -1,0 +1,1 @@
+AttributeUpdated(uint256 indexed tokenId,string key,string value)

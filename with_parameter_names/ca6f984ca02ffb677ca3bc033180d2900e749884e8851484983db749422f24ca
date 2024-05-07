@@ -1,0 +1,1 @@
+TransferGatewayOwnership(address indexed previousGatewayManager,address indexed newGatewayManager)

@@ -1,0 +1,1 @@
+LPInfo(address indexed lpAddress,address indexed token0Address,address indexed token1Address)

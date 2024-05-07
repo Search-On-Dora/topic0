@@ -1,0 +1,1 @@
+AssetTransferred(address indexed from,address indexed to,uint256 amount,address indexed tokenAddress,uint256 tokenId)

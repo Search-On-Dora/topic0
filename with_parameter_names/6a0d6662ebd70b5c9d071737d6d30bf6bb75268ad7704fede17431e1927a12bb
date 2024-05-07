@@ -1,0 +1,1 @@
+MintGoldDustNftMintedAndSplitted(uint256 indexed tokenId,address[] collaborators,uint256[] ownersPercentage,address contractAddress)

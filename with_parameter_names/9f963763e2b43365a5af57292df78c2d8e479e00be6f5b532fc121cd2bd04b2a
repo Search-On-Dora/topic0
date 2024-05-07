@@ -1,0 +1,1 @@
+DeployedProxy(address indexed proxyAddress,address owner,address managerAddress,address workerAddress,address[] paymentTypes)

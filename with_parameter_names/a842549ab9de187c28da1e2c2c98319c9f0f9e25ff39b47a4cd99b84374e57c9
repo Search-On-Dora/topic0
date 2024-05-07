@@ -1,0 +1,1 @@
+RequestedGameWinner(uint256 indexed requestId,address indexed vrfCoordinator,uint256 indexed gameId)

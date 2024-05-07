@@ -1,0 +1,1 @@
+PoolRateUpdated(uint256 indexed pid,bool lockable,uint256 baseRate,uint256 boostRate)

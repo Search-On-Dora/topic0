@@ -1,0 +1,1 @@
+CreditRequestCreated(address network,address networkMember,address requester,uint256 creditLimit,bool approved)

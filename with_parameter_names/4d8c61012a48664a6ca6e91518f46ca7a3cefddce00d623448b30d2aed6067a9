@@ -1,0 +1,1 @@
+UpdateMinMaxDeposit(address indexed _proxy,uint256 _minDeposit,uint256 _maxDeposit)

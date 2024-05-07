@@ -1,0 +1,1 @@
+NameResolutionChanged(bytes32 indexed name,address indexed previousResolution,address indexed newResolution)

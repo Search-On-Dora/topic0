@@ -1,0 +1,1 @@
+BidWithdrawn(uint256 indexed auctionId,address indexed account,uint256 bidValue)

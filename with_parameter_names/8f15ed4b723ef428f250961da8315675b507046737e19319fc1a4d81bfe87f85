@@ -1,0 +1,1 @@
+DNSZonehashChanged(bytes32 indexed node,bytes lastzonehash,bytes zonehash)

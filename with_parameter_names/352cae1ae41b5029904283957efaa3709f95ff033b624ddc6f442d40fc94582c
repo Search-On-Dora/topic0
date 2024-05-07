@@ -1,0 +1,1 @@
+NewAggregator(address indexed asset,address indexed aggregator,uint256 aggType)

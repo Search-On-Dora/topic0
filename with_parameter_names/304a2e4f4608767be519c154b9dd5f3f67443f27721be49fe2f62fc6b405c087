@@ -1,0 +1,1 @@
+LogOracleResponded(uint256 requestId,uint256 responseId,address responder,bool status)

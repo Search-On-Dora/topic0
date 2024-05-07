@@ -1,0 +1,1 @@
+LogStrategyQueued(address indexed token,address indexed strategy)

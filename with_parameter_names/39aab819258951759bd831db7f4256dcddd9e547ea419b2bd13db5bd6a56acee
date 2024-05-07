@@ -1,0 +1,1 @@
+MultiConsume(address avatarAddress,uint256 avatarID,address[] potionAddresses,uint256[][] potionIDs,uint256[][] amounts,address user)

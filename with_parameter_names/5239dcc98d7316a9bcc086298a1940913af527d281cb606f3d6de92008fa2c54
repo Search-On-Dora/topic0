@@ -1,0 +1,1 @@
+ClaimedPartial(address indexed holder,uint256 amount,uint256 lastUnstakeId)

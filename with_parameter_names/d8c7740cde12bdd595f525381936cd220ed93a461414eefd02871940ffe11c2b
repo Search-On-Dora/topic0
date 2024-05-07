@@ -1,0 +1,1 @@
+MaxTransferAmountUpdated(address indexed operator,uint256 previousRate,uint256 newRate)

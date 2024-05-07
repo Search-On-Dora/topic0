@@ -1,0 +1,1 @@
+Deposited(address indexed user,address indexed token1,address indexed token2,string baseChain,string destChan,uint256 amount,string email,string website,string twitter)

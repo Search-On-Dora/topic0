@@ -1,0 +1,1 @@
+Add(uint256 _allocPoint,address _want,bool _withUpdate,address _strat)

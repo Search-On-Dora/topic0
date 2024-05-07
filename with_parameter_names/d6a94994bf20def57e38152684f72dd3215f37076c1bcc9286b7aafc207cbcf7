@@ -1,0 +1,1 @@
+SetTokenInfo(address indexed token,uint256 maxAmount,uint256 minAmountEachDeposit,uint256 maxAmountEachDeposit,uint256 usdPrice,uint256 bakePowerPrice)

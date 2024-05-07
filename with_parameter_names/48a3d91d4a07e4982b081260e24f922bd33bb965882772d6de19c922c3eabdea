@@ -1,0 +1,1 @@
+SubscriptionDistributionClaimed(address indexed token,address indexed subscriber,address publisher,uint32 indexId,uint256 amount)

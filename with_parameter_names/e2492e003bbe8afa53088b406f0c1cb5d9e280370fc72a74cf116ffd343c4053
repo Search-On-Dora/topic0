@@ -1,0 +1,1 @@
+UpdateEmissionRate(address indexed user,uint256 goosePerBlock)

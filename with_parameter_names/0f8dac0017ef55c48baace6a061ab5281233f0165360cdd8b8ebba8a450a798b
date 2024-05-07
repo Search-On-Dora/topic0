@@ -1,0 +1,1 @@
+NewDeal(uint256 _d,address _seller,address _token,address _paymentCurrency,uint256 _remainingAmount,uint256 _minimumPurchase,uint256 _price,uint256 _maturity,uint256 _unlockDate,address _buyer)

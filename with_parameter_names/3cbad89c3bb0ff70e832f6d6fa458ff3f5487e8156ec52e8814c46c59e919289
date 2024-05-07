@@ -1,0 +1,1 @@
+CFAv1LiquidationPeriodChanged(address indexed host,address indexed superToken,bool set,uint256 liquidationPeriod)

@@ -1,0 +1,1 @@
+DisputeAttachmentAdded(uint256 indexed _disputeID,address _user,bytes _attachment)

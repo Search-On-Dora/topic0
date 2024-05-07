@@ -1,0 +1,1 @@
+CollateralGainWithdrawn(address indexed _depositor,uint256 _collateral,uint256 _THUSDLoss)

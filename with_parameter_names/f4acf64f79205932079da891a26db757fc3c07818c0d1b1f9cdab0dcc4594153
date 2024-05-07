@@ -1,0 +1,1 @@
+OperatorSlashed(address indexed slashedOperator,address indexed slashingContract)

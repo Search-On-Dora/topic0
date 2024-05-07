@@ -1,0 +1,1 @@
+RewardSent(address indexed beneficiary,string indexed campaignId,string indexed rewardId)

@@ -1,0 +1,1 @@
+RequestResolved(bytes32 indexed _recipientId,uint8 indexed _type,bool indexed _rejected,uint256 _recipientIndex,uint256 _timestamp)

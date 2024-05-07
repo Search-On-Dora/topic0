@@ -1,0 +1,1 @@
+LogRebalance(address indexed vault,bytes[] payloads)

@@ -1,0 +1,1 @@
+NFTUpgraded(address indexed NFTcontract,address indexed NFTOwner,uint256 tokenID,uint256 oldLevel,uint256 newLevel)

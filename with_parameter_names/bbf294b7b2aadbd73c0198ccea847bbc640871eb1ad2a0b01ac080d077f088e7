@@ -1,0 +1,1 @@
+SetBridgeTokenSwapCapProposalCreated(uint256 proposalId,address target,address bridgeToken,uint256 cap)

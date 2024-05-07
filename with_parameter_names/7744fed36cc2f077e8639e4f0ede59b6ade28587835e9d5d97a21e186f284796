@@ -1,0 +1,1 @@
+MintBatch(address indexed to,uint256[] indexed ids,uint256[] indexed amounts)

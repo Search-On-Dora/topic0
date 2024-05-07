@@ -1,0 +1,1 @@
+CeloWithdrawalFinished(address indexed beneficiary,uint256 amount,uint256 timestamp)

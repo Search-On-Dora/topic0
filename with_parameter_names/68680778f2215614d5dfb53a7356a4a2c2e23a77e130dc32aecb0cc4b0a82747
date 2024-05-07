@@ -1,0 +1,1 @@
+OracleTypeEnabled(address indexed asset,uint256 _type)

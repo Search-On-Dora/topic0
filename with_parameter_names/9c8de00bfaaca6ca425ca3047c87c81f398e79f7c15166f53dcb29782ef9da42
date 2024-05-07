@@ -1,0 +1,1 @@
+TaskAssigned(uint256 indexed _taskID,address indexed _translator,uint256 _price,uint256 _timestamp)

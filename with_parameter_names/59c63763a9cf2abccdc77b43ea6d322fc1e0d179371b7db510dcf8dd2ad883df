@@ -1,0 +1,1 @@
+SeasonOpened(uint256 indexed season,string baseURI)

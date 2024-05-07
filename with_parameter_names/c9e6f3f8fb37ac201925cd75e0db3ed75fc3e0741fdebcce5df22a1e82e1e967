@@ -1,0 +1,1 @@
+WithdrawCredits(address indexed userAddress,uint256 amount)

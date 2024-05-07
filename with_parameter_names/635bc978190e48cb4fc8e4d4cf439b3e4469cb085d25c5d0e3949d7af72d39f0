@@ -1,0 +1,1 @@
+RoyaltyRecipientsChanged(uint256 indexed sellerId,tuple[] royaltyRecipients,address indexed executedBy)

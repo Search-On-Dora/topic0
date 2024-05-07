@@ -1,0 +1,1 @@
+SetMaxSlashFactorProposalCreated(uint256 proposalId,address target,uint256 maxSlashFactor)

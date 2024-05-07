@@ -1,0 +1,1 @@
+VaultDepositLimitChanged(address indexed vault,uint256 previousDepositLimit,uint256 nextDepositLimit)

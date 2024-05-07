@@ -1,0 +1,1 @@
+TaxRateChanged(uint256 newTaxRate)

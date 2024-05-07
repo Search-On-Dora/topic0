@@ -1,0 +1,1 @@
+PriceFeeding(address indexed from,uint256 queryId,uint256 extraFee)

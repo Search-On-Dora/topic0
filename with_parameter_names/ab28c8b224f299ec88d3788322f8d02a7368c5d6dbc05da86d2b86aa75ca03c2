@@ -1,0 +1,1 @@
+ApprovalByAmount(address indexed owner,address indexed operator,uint256 indexed id,uint256 amount)

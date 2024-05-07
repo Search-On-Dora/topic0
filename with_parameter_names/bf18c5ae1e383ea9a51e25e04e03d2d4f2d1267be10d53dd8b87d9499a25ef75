@@ -1,0 +1,1 @@
+NomTokenBought(bytes32 indexed tokenId,address indexed fromAddress,address indexed toAddress,uint256 total,uint256 value,uint256 fees)

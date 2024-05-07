@@ -1,0 +1,1 @@
+NormalAddressMessageSent(bytes32 indexed messageId,uint64 indexed destinationChainSelector,address sapBridgeReceiver,address destination,address token,uint256 amount,uint256 bridgeGas)

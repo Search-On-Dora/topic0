@@ -1,0 +1,1 @@
+DrawLockedAndTotalNetworkTicketSupplyPushed(uint32 indexed drawId,tuple draw,uint256 totalNetworkTicketSupply)

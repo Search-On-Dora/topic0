@@ -1,0 +1,1 @@
+ethscriptions_protocol_CreateEthscription(address indexed initialOwner,string contentURI)

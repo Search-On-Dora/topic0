@@ -1,0 +1,1 @@
+FeeModuleChanged(address indexed previousFeeModule,address indexed newFeeModule)

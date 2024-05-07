@@ -1,0 +1,1 @@
+AuthTokenContractChanged(uint8 indexed authTokenType,address indexed authTokenContract,address indexed executedBy)

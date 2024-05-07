@@ -1,0 +1,1 @@
+collectedProp(bytes32 indexed wagerid,bool isCompleted,bytes32 winninchChoice,uint256 winnerCount,uint256 serviceFee,uint256 organizerFee)

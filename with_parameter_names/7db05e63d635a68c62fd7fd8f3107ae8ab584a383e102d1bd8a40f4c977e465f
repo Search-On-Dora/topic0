@@ -1,0 +1,1 @@
+CollateralAdded(address indexed asset);CollateralAdded(address collateral)

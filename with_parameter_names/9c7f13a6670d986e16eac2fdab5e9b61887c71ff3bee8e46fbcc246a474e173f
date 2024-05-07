@@ -1,0 +1,1 @@
+WinnerPaid(uint256 indexed pieceId,address[] winners,uint256 amount,uint256 protocolRewardsAmount,uint256 payoutSplit,uint256 payoutIndex)

@@ -1,0 +1,1 @@
+Encumber(address indexed owner,address indexed taker,uint256 amount)

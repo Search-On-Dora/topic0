@@ -1,0 +1,1 @@
+ConditionalCommitAuthorized(uint256 indexed offerId,uint8 gating,address indexed buyerAddress,uint256 indexed tokenId,uint256 commitCount,uint256 maxCommits)

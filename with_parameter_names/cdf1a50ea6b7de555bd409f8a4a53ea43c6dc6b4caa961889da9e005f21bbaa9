@@ -1,0 +1,1 @@
+RemoveGlobalConstraint(address indexed _globalConstraint,uint256 _index,bool _isPre)

@@ -1,0 +1,1 @@
+UpdateGovernanceSettings(address indexed _daoAddress,uint256 _quorum,uint256 _threshold)

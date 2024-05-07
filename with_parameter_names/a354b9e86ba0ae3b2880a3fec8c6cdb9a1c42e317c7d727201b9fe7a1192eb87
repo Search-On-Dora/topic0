@@ -1,0 +1,1 @@
+BountyCreated(address indexed collectionAddress,uint256 sentenceDuration,uint256 price)

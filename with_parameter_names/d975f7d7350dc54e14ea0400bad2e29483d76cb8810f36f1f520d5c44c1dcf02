@@ -1,0 +1,1 @@
+CommunityAdded(address indexed communityAddress,address[] managers,uint256 claimAmount,uint256 maxClaim,uint256 decreaseStep,uint256 baseInterval,uint256 incrementInterval,uint256 minTranche,uint256 maxTranche)

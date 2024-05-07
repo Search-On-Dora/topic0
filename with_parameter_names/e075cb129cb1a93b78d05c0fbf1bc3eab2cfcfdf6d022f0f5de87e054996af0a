@@ -1,0 +1,1 @@
+RewardSwapped(address indexed tokenIn,uint256 amountIn,address indexed tokenOut,uint256 amountOut)

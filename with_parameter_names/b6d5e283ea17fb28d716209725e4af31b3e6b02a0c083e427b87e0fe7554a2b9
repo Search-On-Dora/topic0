@@ -1,0 +1,1 @@
+DecreaseCollateral(address indexed lp,uint256 collateralRemoved,uint256 newTotalCollateral)

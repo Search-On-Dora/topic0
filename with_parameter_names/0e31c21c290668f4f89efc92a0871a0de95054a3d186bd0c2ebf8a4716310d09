@@ -1,0 +1,1 @@
+NewReceipt(uint256 receiptId,uint256 timestamp,address clientAddress,string encryptedClientName,string encryptedClientEmail,string productBarcode,uint256 amountPaid,string encryptedPhysicalAddress,string phoneNum)

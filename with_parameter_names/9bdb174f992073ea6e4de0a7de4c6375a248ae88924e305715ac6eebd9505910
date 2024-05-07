@@ -1,0 +1,1 @@
+NewGame(address indexed owner,uint256 id,uint256 dna)

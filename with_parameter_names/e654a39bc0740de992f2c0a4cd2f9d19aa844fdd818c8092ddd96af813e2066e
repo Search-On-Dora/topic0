@@ -1,0 +1,1 @@
+ProtocolFeeFlatBosonChanged(uint256 feeFlatBoson,address indexed executedBy)

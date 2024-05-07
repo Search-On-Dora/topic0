@@ -1,0 +1,1 @@
+TokensSwapped(address indexed user,address indexed token,uint256 totalToSwap,uint256 totalETHSwapped,uint256 gasCost)

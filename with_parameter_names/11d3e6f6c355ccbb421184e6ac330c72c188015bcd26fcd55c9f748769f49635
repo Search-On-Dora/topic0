@@ -1,0 +1,1 @@
+TriggerDeployed(address trigger,bytes32 indexed triggerConfigId,address indexed truthOracle,address indexed trackingOracle,uint256 priceTolerance,uint256 truthFrequencyTolerance,uint256 trackingFrequencyTolerance)

@@ -1,0 +1,1 @@
+EventInviteCreated(bytes32 indexed creatorUsername,address inviteAddress)

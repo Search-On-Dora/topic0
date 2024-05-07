@@ -1,0 +1,1 @@
+VoucherTransferred(uint256 indexed offerId,uint256 indexed exchangeId,uint256 indexed newBuyerId,address executedBy)

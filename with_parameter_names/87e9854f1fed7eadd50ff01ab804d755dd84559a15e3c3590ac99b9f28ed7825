@@ -1,0 +1,1 @@
+PairForEvent(address _factory,address token0,address token1)

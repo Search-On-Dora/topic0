@@ -1,0 +1,1 @@
+SessionKeyAdded(address indexed account,address indexed sessionKey,bytes32 indexed tag)

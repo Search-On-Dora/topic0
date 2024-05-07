@@ -1,0 +1,1 @@
+ProposalAdded(uint256 indexed proposalID,address recipient,uint256 amount,bool newCurator,string description)

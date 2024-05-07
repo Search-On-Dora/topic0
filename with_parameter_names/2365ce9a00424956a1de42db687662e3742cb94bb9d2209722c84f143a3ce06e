@@ -1,0 +1,1 @@
+StakingDistribution(uint256 indexed cycleId,address indexed gaugeAddress,uint256 amount)

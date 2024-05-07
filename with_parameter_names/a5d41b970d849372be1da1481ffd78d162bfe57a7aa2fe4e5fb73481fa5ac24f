@@ -1,0 +1,1 @@
+AppealPossible(uint256 indexed _disputeID,address indexed _arbitrable)

@@ -1,0 +1,1 @@
+RewardsClaimed(uint256 indexed promotionId,uint8[] epochIds,address indexed user,uint256 amount)

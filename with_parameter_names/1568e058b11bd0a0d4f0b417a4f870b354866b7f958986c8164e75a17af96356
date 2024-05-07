@@ -1,0 +1,1 @@
+ReceivedToken(address indexed from,uint256 ferc20Amount,uint256 ferc721Amount,address indexed ferc20Address,address indexed ferc721Address,uint256 limit)

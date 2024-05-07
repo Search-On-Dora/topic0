@@ -1,0 +1,1 @@
+ComicPurchased(address to,uint256 amount,uint256 requestId,uint256 transactionId)

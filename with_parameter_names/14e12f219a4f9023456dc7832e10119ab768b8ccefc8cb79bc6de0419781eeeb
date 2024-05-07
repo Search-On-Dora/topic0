@@ -1,0 +1,1 @@
+RewardAddressChanged(address indexed host,address indexed superToken,bool set,address rewardAddress)

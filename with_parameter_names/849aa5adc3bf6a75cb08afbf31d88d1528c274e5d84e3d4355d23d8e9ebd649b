@@ -1,0 +1,1 @@
+AICallbackRequest(address indexed account,uint256 indexed requestId,uint256 modelId,bytes input,address callbackContract,uint64 gasLimit,bytes callbackData)

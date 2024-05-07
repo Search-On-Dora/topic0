@@ -1,0 +1,1 @@
+ReportUpdated(address indexed triager,bytes32 indexed reportRoot,uint8 newStatusBitField,uint64 timestamp)

@@ -1,0 +1,1 @@
+updatedQuantity(string barcode,uint256 newQuantity)

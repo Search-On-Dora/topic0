@@ -1,0 +1,1 @@
+OraclesSet(address indexed debtTokenToReserveTokenOracle,address indexed dynamicFeePriceOracle)

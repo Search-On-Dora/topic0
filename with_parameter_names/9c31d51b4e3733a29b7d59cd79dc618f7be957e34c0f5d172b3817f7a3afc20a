@@ -1,0 +1,1 @@
+SubsidyRateChanged(address token,uint256 oldSubsidyRate,uint256 newSubsidyRate)

@@ -1,0 +1,1 @@
+Withdrawn(address indexed userAccount,uint64[] lootBoxIds,address lootBox,uint256 chainId)

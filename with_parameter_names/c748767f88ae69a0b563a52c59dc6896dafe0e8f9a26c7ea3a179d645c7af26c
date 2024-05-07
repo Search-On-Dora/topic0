@@ -1,0 +1,1 @@
+ConfigValueSet(uint256 indexed _projectId,bytes32 _key,address _value)

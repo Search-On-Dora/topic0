@@ -1,0 +1,1 @@
+CreatedBatched(address indexed user,uint256 finalIndex,uint256 noOfPositions,bool[] isNative)

@@ -1,0 +1,1 @@
+Donated(address indexed donator,address indexed asset,uint256 amount)

@@ -1,0 +1,1 @@
+PromotionExtended(uint256 indexed promotionId,uint256 numberOfEpochs)

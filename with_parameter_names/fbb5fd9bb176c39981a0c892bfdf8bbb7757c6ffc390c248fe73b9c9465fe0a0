@@ -1,0 +1,1 @@
+newDaoNomination(address indexed newDAO,address indexed nominator)

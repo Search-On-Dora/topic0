@@ -1,0 +1,1 @@
+SATransaction(address indexed saDest,uint216 amount,address indexed token,bytes ciphertext)

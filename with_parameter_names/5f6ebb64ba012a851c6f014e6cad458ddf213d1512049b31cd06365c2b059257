@@ -1,0 +1,1 @@
+LogSetMasterContractApproval(address indexed masterContract,address indexed user,bool approved)

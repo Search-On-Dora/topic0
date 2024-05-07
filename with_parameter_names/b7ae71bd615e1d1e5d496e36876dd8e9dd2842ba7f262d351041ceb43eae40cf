@@ -1,0 +1,1 @@
+StakedTokens(address indexed user,uint256 indexed amount,uint256 indexed serialNo)

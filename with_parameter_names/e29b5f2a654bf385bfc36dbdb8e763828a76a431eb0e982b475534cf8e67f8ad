@@ -1,0 +1,1 @@
+SetLicenseeFee(address indexed vault,address indexed projectContract,uint256 fee)

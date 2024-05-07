@@ -1,0 +1,1 @@
+CreateNewRollup(uint32 indexed rollupID,uint32 rollupTypeID,address rollupAddress,uint64 chainID,address gasTokenAddress)

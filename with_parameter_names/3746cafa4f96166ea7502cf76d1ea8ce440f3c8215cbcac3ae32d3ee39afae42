@@ -1,0 +1,1 @@
+FreezeVoteCast(address indexed voter,uint256 votesCast)

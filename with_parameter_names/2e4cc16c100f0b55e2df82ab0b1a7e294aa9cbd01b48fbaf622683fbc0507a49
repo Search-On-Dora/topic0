@@ -1,0 +1,1 @@
+ContractUpgraded(address indexed oldContract,address indexed newContract);ContractUpgraded(address oldImplementation,address newImplementation)

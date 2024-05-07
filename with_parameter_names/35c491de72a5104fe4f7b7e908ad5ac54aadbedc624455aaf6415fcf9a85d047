@@ -1,0 +1,1 @@
+MintFToken(address indexed owner,address indexed recipient,uint256 baseTokenIn,uint256 fTokenOut,uint256 mintFee)

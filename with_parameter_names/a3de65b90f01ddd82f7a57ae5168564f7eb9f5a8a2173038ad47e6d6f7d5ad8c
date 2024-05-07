@@ -1,0 +1,1 @@
+SubscriptionPackageConsumed(bytes32 indexed subscriptionId,address indexed sender,address indexed account,uint256 numberOfContractsDeployed,uint256 numberOfDeployableContracts,uint256 expiryTimestamp)

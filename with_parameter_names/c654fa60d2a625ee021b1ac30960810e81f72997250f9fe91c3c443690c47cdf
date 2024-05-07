@@ -1,0 +1,1 @@
+BurnBatch(address indexed from,uint256[] indexed ids,uint256[] indexed amounts)

@@ -1,0 +1,1 @@
+MinDepositAmountSet(address token,uint32 toChainId,uint256 previousAmount,uint256 newAmount)

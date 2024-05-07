@@ -1,0 +1,1 @@
+TokenBidAccepted(bytes32 indexed tokenId,address indexed owner,address indexed bidder,uint256 total)

@@ -1,0 +1,1 @@
+LogIncreaseManagerFeeSubmission(address vault,uint256 newFeePIPS)

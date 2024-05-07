@@ -1,0 +1,1 @@
+SubmitTransaction(address indexed sender,address indexed second,address indexed beneficiary,bytes transaction_id)

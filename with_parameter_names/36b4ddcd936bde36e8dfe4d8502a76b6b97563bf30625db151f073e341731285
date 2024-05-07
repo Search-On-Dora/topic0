@@ -1,0 +1,1 @@
+DomainRegistered(bytes32 indexed domain,address indexed owner)

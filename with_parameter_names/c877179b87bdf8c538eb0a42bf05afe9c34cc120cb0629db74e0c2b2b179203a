@@ -1,0 +1,1 @@
+ConditionResolved(uint256 indexed conditionId,uint8 state,uint64 outcomeWin,int128 lpProfit)

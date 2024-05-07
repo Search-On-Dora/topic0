@@ -1,0 +1,1 @@
+SwayAddressChanged(address indexed newAddress,address indexed oldAddress)

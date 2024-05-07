@@ -1,0 +1,1 @@
+AmbassadorTransfered(address indexed ambassador,address indexed oldEntity,address indexed newEntity)

@@ -1,0 +1,1 @@
+UpdateOperatorStatus(address indexed _user,bool _status)

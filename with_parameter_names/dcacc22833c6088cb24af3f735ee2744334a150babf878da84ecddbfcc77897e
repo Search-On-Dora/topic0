@@ -1,0 +1,1 @@
+LogDeployed(address deployed,address sender,bytes32 salt)

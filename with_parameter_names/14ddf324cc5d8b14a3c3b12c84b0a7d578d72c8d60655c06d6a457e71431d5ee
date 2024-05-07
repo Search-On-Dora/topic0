@@ -1,0 +1,1 @@
+ToggledRestricted(address indexed account,bool isRestricted)

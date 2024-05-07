@@ -1,0 +1,1 @@
+AuctionDurationSet(uint256 indexed auctionProductId,uint256 duration)

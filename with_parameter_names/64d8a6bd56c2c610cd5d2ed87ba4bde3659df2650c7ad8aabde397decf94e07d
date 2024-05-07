@@ -1,0 +1,1 @@
+TransferYieldOut(address indexed liquidationPair,address indexed tokenOut,address indexed recipient,uint256 amountOut,uint256 yieldFee)

@@ -1,0 +1,1 @@
+SetRatio(uint256 indexed newRatio)

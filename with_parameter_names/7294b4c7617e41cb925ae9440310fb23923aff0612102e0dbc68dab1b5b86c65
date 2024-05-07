@@ -1,0 +1,1 @@
+SetTax(uint256 buyTax,uint256 sellTax,bool isTaxing)

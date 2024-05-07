@@ -1,0 +1,1 @@
+Stake(uint256 id,address staker,uint256 amount,uint256 stakedAt,uint256 stakingInfoID,string referralCode,uint256 reward,uint256 referralReward)

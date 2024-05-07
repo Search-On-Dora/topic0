@@ -1,0 +1,1 @@
+Bridged(address indexed depositAddress,address indexed targetChainDepositAddress,address indexed bridgeTarget,address receivedAsset,uint256 minReceivedAmount)

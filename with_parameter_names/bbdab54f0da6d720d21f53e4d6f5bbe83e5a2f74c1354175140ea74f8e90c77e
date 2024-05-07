@@ -1,0 +1,1 @@
+ExchangeFeeUpdated(bytes32 synthKey,uint256 newExchangeFeeRate)

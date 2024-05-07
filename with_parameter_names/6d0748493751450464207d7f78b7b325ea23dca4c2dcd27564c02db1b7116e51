@@ -1,0 +1,1 @@
+RequestRejected(address indexed _collector,address indexed _artist,uint256 _value,string _requestId,bool _requestResult)

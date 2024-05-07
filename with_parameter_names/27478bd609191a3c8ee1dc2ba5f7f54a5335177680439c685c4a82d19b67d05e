@@ -1,0 +1,1 @@
+BattleFinished(uint256 indexed battleId,uint256 winner,uint256 attackerPower,uint256 defenderPower,uint256 numWarriors)

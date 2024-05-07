@@ -1,0 +1,1 @@
+SetDrawManager(address indexed drawManager)

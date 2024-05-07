@@ -1,0 +1,1 @@
+LiquidationPairSet(address indexed tokenOut,address indexed liquidationPair)

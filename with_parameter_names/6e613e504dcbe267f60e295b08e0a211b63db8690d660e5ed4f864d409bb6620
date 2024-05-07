@@ -1,0 +1,1 @@
+Staked(address token,address from,address to,uint256 amount);Staked(address indexed voter,address indexed staker,address proxy,uint256 amount)

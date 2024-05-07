@@ -1,0 +1,1 @@
+ProtocolFeeDistributed(string questId,address rewardToken,address protocolOwner,uint256 feeAmountToProtocolOwner,address questOwner,uint256 feeAmountToQuestOwner)

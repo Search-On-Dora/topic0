@@ -1,0 +1,1 @@
+MigrationSucceeded(address newContractAddress,uint256 yesVotes,uint256 oracleVotes,uint256 totalVotingPower)

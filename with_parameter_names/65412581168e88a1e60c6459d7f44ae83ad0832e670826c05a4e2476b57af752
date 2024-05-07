@@ -1,0 +1,1 @@
+AddressChanged(bytes32 indexed node,uint256 coinType,bytes newAddress)

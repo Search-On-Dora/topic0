@@ -1,0 +1,1 @@
+TrustedForwarderChanged(address indexed host,address indexed superToken,bool set,address forwarder,bool enabled)

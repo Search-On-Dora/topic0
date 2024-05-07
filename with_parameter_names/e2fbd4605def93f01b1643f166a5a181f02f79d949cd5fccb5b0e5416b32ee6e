@@ -1,0 +1,1 @@
+MultiSwap(address indexed recipient,bool isETH,address inputToken,uint256 inputAmount,address outputToken,uint256 outputAmount,address[] swapPath,uint24[] swapTradeFee)

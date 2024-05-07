@@ -1,0 +1,1 @@
+NameRenewed(string name,bytes32 indexed label,uint256 cost,uint256 expires)

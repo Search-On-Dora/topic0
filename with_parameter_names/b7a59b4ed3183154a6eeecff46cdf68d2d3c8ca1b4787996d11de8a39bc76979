@@ -1,0 +1,1 @@
+AssetListed(address indexed owner,uint256 indexed mainId,uint256 indexed subId,tuple listedInfo)

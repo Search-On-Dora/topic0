@@ -1,0 +1,1 @@
+DAOSubscriptionRequested(bytes32 id,uint256 amount,uint256 requestedDate)

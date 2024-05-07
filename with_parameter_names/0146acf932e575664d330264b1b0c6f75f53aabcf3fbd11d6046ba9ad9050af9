@@ -1,0 +1,1 @@
+NewDestAdaptersPairSet(uint32 indexed sourceEid,uint32 indexed destEid,address indexed destAdapters)

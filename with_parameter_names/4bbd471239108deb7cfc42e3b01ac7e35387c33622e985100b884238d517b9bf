@@ -1,0 +1,1 @@
+TransferProdRevenueReceiver(uint256 indexed prodid,address indexed user)

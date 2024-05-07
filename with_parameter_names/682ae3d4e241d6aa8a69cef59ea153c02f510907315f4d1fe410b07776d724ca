@@ -1,0 +1,1 @@
+ContractDeployed(string indexed appIdIndex,string appId,address indexed erc721Implementation,address author)

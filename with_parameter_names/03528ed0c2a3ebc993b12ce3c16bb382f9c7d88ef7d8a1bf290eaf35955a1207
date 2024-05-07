@@ -1,0 +1,1 @@
+DNSRecordDeleted(bytes32 indexed node,bytes name,uint16 resource)

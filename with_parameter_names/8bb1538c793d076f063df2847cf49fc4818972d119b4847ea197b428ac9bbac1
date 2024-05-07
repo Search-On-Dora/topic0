@@ -1,0 +1,1 @@
+RemainingAmountTransfered(address indexed _to,uint256 indexed _amount,uint256 indexed _listId,uint256 _itemId,uint256 _tokenId)

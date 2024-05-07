@@ -1,0 +1,1 @@
+MaxResolutionPeriodChanged(uint256 maxResolutionPeriod,address indexed executedBy)

@@ -1,0 +1,1 @@
+PaalaiX(address indexed owner,address indexed tokenAddress,uint256 amount)

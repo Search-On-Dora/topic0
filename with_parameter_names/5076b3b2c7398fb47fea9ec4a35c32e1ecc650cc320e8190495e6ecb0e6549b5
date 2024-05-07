@@ -1,0 +1,1 @@
+VendorWithdraw(address indexed user,uint256 prodid,uint256 amount)

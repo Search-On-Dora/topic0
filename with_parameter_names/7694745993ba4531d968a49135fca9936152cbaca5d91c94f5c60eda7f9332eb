@@ -1,0 +1,1 @@
+MintStarted(address indexed user,uint256 indexed hRank,uint256 indexed gMintpower,tuple userMintInfo)

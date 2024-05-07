@@ -1,0 +1,1 @@
+MassHarvest(address indexed user,uint256 epochsHarvested,uint256 totalValue)

@@ -1,0 +1,1 @@
+PoolBalanceManaged(bytes32 indexed poolId,address indexed assetManager,address indexed token,int256 cashDelta,int256 managedDelta)

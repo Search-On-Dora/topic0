@@ -1,0 +1,1 @@
+PoolAdd(uint256 _allocPoint,address indexed _lpToken,uint256 _pid)

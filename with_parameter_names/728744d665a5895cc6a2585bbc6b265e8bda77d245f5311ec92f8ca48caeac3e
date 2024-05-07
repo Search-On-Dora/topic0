@@ -1,0 +1,1 @@
+LogWithdrawManagerBalance(address indexed receiver0,address indexed receiver1,uint256 amount0,uint256 amount1)

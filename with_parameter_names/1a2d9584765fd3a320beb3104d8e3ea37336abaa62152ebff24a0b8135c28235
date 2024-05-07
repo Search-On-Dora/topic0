@@ -1,0 +1,1 @@
+NewQuest(uint256 indexed questID,address indexed creator,address indexed gauge,address rewardToken,uint48 duration,uint256 startPeriod)

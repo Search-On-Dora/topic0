@@ -1,0 +1,1 @@
+logOrderCreated(uint256 id,uint8 orderState,uint8 orderType,address traderAddress,address assetIn,address assetOut,uint256 assetInOffered,uint256 assetOutExpected,uint256 executorFee,uint24 poolFee)

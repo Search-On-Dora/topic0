@@ -1,0 +1,1 @@
+MintFeePaid(string questId,address rabbitHoleAddress,uint256 rabbitHoleAmountWei,address questCreatorAddress,uint256 questCreatorAmountWei,address referrerAddress,uint256 referrerAmountWei)

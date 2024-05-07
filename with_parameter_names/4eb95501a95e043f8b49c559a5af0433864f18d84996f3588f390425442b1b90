@@ -1,0 +1,1 @@
+PRGNFTMinted(address indexed mintTo,uint256 tokenId,uint256 amount)

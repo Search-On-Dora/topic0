@@ -1,0 +1,1 @@
+RewardClaim(address indexed owner,address indexed talentToken,uint256 stakerReward,uint256 talentReward)

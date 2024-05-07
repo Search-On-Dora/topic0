@@ -1,0 +1,1 @@
+UpdateTokenWhitelistLog(address indexed token,address priceFeed)

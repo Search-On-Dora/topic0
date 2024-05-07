@@ -1,0 +1,1 @@
+Clone(string indexed templateName,address indexed clone,string indexed name,string symbol)

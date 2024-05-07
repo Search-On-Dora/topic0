@@ -1,0 +1,1 @@
+ValueSet(address indexed asset,uint8 param,uint256 valuesForAsset)

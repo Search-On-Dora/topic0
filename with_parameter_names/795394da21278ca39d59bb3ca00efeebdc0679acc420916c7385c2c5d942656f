@@ -1,0 +1,1 @@
+ConfirmationRevoked(address indexed sender,uint256 indexed proposalId)

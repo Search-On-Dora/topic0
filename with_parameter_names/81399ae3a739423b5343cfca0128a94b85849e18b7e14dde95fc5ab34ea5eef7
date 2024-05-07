@@ -1,0 +1,1 @@
+L2communityRegistryCreationRequest(uint32 community_id,address community_admin,string community_name)

@@ -1,0 +1,1 @@
+RoleChange(address indexed from,address indexed user,bool indexed approved,bytes32 role)

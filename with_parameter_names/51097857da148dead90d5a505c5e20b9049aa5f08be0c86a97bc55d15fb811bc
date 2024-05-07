@@ -1,0 +1,1 @@
+NewSilicaContract(address newContractAddress,tuple initializeData,uint16 commodityType)

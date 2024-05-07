@@ -1,0 +1,1 @@
+VerifyBatches(uint64 indexed numBatch,bytes32 stateRoot,address indexed aggregator)

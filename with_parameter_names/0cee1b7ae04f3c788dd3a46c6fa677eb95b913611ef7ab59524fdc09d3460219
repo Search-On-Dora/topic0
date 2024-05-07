@@ -1,0 +1,1 @@
+AttesterManagerUpdated(address indexed previousAttesterManager,address indexed newAttesterManager)

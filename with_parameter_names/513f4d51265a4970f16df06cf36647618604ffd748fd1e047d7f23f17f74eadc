@@ -1,0 +1,1 @@
+ZeroFeeVaultUpdated(address indexed vault,bool flag)

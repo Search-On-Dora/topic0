@@ -1,0 +1,1 @@
+VoteSignerAuthorized(address indexed account,address signer)

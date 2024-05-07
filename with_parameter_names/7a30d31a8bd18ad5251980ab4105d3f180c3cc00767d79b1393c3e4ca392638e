@@ -1,0 +1,1 @@
+ExternalTokenGetBalanceError(address indexed token,bytes reason)

@@ -1,0 +1,1 @@
+SwappedToNative(address token,uint256 amountSwapped,uint256 amountDeposited)

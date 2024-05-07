@@ -1,0 +1,1 @@
+NFTTokenRoyaltySet(uint256 indexed collectionId,uint256 indexed tokenId,address receiver,uint96 feeNumerator)

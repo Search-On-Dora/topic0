@@ -1,0 +1,1 @@
+NewNft(address creator,uint256 contentId,uint256 timestamp,uint8 dataType,string ipfsAddress)

@@ -1,0 +1,1 @@
+GlobalShortDataUpdated(address indexed token,uint256 globalShortSize,uint256 globalShortAveragePrice)

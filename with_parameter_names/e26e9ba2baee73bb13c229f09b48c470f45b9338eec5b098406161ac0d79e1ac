@@ -1,0 +1,1 @@
+RandomMarketTokenAdded(string nftName,string nftSymbol,address nftAddress,string erc20Name,string erc20Symbol,address erc20Address,address marketPlaceAddress)

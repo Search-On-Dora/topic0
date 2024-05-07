@@ -1,0 +1,1 @@
+LinkTx(address holder,address target,bool isBuy,uint256 linkAmount,uint256 ethAmount,uint256 protocolEthAmount,uint256 targetEthAmount,uint256 supply)

@@ -1,0 +1,1 @@
+BoughtTicket(address player,uint256[] numbers)

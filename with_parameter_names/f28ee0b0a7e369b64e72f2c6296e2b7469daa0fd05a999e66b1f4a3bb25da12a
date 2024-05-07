@@ -1,0 +1,1 @@
+VestingConfigUpdate(address beneficiary,uint64 start,uint64 duration,uint64 releaseIntervals,uint64 decayFactor,uint64 cliff,uint256 firstRoundVestAmount)

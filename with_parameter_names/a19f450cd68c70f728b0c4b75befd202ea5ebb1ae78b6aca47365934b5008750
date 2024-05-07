@@ -1,0 +1,1 @@
+BeneficiaryParamsUpdated(uint256 oldClaimAmount,uint256 oldMaxClaim,uint256 oldDecreaseStep,uint256 oldBaseInterval,uint256 oldIncrementInterval,uint256 newClaimAmount,uint256 newMaxClaim,uint256 newDecreaseStep,uint256 newBaseInterval,uint256 newIncrementInterval)

@@ -1,0 +1,1 @@
+CollateralLiquidationFinished(address indexed loan_,uint256 unrealizedLosses_)

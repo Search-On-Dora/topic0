@@ -1,0 +1,1 @@
+UpdateClaimApproval(address indexed owner,address indexed approvedAccount,bool approved)

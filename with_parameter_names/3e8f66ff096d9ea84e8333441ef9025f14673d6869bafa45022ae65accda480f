@@ -1,0 +1,1 @@
+WithdrewDelegation(address indexed delegator,uint256 indexed slot,uint256 amount,address indexed user)

@@ -1,0 +1,1 @@
+IncreaseCollateral(address indexed lp,uint256 collateralAdded,uint256 newTotalCollateral)

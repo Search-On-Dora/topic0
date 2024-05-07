@@ -1,0 +1,1 @@
+MarketActionTx(address indexed user,uint8 indexed action,uint256 indexed marketId,uint256 outcomeId,uint256 shares,uint256 value,uint256 timestamp)

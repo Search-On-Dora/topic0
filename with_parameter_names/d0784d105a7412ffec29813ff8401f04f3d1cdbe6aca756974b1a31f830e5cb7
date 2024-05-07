@@ -1,0 +1,1 @@
+DecayPeriodVoteUpdate(address indexed user,uint256 decayPeriod,bool isDefault,uint256 amount)

@@ -1,0 +1,1 @@
+ValidatorAdded(address indexed validator);ValidatorAdded(address _addedValidator)

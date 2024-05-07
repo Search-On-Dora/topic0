@@ -1,0 +1,1 @@
+UpdateStableCoinReceiverAddr(address caller,address oldValue,address newValue)

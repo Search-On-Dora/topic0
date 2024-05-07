@@ -1,0 +1,1 @@
+AuctionSuccessful(address indexed nftContract,uint256 indexed tokenId,uint256 indexed totalPrice,address seller,address winner,uint256 totalFees,address paymentErc20TokenAddress)

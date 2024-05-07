@@ -1,0 +1,1 @@
+BeneficiaryAdded(address indexed manager,address indexed beneficiary)

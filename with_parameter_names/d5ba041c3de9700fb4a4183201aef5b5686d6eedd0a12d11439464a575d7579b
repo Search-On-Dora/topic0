@@ -1,0 +1,1 @@
+Collect(bytes32 mintRecipient,uint256 amountBurned,uint256 fee,uint32 source,uint32 dest)

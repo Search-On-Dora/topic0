@@ -1,0 +1,1 @@
+SafeCreated(address indexed user,address indexed safe,address[] safeOwners,uint256 safeQuorum)

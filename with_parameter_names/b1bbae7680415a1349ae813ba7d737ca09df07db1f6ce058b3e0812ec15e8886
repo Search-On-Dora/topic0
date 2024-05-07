@@ -1,0 +1,1 @@
+MarketOutcomeShares(uint256 indexed marketId,uint256 timestamp,uint256[] outcomeShares,uint256 liquidity)

@@ -1,0 +1,1 @@
+NewPeriodCreated(uint256 indexed periodIndex,uint32 timestampPeriodStart,uint32 timestampPeriodEnd)

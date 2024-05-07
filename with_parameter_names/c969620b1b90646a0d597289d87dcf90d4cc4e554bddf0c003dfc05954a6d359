@@ -1,0 +1,1 @@
+BountyIssuersUpdated(uint256 _bountyId,address _changer,address[] _issuers)

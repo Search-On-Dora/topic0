@@ -1,0 +1,1 @@
+MessageVerified(uint64 indexed nonce,bytes32 indexed hash)

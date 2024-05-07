@@ -1,0 +1,1 @@
+QuestClaimedData(address indexed recipient,address indexed questAddress,string extraData)

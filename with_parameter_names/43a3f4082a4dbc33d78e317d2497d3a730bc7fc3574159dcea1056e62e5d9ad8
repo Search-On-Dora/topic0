@@ -1,0 +1,1 @@
+Redemption(uint256 _attemptedTHUSDAmount,uint256 _actualTHUSDAmount,uint256 _collateralSent,uint256 _collateralFee)

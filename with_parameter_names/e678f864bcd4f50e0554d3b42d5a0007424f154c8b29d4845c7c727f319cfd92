@@ -1,0 +1,1 @@
+BurnWalletUpdated(address indexed newBurnWallet,address indexed oldBurnWallet)

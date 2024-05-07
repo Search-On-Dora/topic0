@@ -1,0 +1,1 @@
+RaffleWinner(uint64 indexed raffleIdx,uint256 indexed i,bytes32 indexed withdrawalAddress)

@@ -1,0 +1,1 @@
+Deployed(address deployedAddress,address owner,uint256 startingAt,uint256 closingAt,address auctionToken,bytes raisedTokens,bytes args)

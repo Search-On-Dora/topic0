@@ -1,0 +1,1 @@
+InvestmentEvent(uint256 idInvestment,string investor,address investorAddress,string collateralAssets,uint256 floatDecimals,uint256 interestRate,uint256 investmentStartingDate,uint256 investmentPaymentDate,uint256 investmentAmount,uint256 investmentDueAmount,string investmentTransaction)

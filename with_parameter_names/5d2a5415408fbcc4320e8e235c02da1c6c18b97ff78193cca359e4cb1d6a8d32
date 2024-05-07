@@ -1,0 +1,1 @@
+Deposited(address indexed _daoAddress,address indexed _depositor,address indexed _depositTokenAddress,uint256 _amount,uint256 _timeStamp,uint256 _ownerFee,uint256 _adminShare)

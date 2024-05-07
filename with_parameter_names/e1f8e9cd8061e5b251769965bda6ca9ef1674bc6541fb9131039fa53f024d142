@@ -1,0 +1,1 @@
+IndexUnsubscribed(address indexed token,address indexed publisher,uint32 indexed indexId,address subscriber,bytes userData)

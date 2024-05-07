@@ -1,0 +1,1 @@
+FreezeMarket(address indexed reserve,bool freeze)

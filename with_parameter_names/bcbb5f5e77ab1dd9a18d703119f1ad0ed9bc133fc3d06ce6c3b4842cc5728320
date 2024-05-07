@@ -1,0 +1,1 @@
+ReleaseFromNftBasedClaimContract(address claimContractAddress,address[] collectionAddresses,uint256[] tokenIds,uint256[] vestingScheduleIds)

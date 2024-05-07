@@ -1,0 +1,1 @@
+SetWhitelistToken(address token,bool activate)

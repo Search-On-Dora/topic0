@@ -1,0 +1,1 @@
+IncreaseDepositLog(address indexed userAddress,uint256 indexed depositIndex,uint256 amount)

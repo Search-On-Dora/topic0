@@ -1,0 +1,1 @@
+FeeCollectorSet(address feeCollector);FeeCollectorSet(address indexed feeCollector)

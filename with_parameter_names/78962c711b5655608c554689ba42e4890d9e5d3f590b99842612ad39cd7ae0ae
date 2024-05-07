@@ -1,0 +1,1 @@
+ValueDeletedInt(bytes32 contractName,bytes32 record,int256 value)

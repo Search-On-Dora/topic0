@@ -1,0 +1,1 @@
+BeneficiaryChanged(address indexed newBeneficiary);BeneficiaryChanged(address newBeneficiary)

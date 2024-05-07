@@ -1,0 +1,1 @@
+DrawAwarded(uint24 indexed drawId,uint256 winningRandomNumber,uint8 lastNumTiers,uint8 numTiers,uint104 reserve,uint128 prizeTokensPerShare,uint48 drawOpenedAt)

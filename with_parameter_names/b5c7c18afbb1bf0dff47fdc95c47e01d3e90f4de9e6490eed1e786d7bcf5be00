@@ -1,0 +1,1 @@
+TheArtOfRecycling(address indexed sustainableUser,uint256 tokenId,uint256 amount,address indexed nftAddress,uint256 indexed nftTokenId)

@@ -1,0 +1,1 @@
+VoucherRevoked(uint256 indexed offerId,uint256 indexed exchangeId,address indexed executedBy)

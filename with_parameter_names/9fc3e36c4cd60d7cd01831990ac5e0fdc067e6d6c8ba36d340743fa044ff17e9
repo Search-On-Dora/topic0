@@ -1,0 +1,1 @@
+ListingGreeksUpdated(uint256 indexed listingId,int256 callDelta,int256 putDelta,uint256 vega,uint256 price,uint256 baseIv,uint256 skew)

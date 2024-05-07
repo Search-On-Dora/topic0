@@ -1,0 +1,1 @@
+LogApplicationStateChanged(bytes32 bpKey,uint8 state)

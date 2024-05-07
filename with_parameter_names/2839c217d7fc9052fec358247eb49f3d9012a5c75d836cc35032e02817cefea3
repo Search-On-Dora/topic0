@@ -1,0 +1,1 @@
+FreeBetMintedBatch(address[] receivers,uint256[] ids,tuple[] bets)

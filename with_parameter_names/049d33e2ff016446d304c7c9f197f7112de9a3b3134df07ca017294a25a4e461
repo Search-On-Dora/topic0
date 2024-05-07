@@ -1,0 +1,1 @@
+FileDeleted(string indexed indexedFilename,bytes32 indexed checksum,string filename)
