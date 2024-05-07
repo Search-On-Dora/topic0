@@ -11,7 +11,7 @@ rm -fr with_parameter_names && mkdir with_parameter_names
 for chain in $(cat DORA_CHAIN_LIST);
 do
     echo "==== PULLING RESULTS FOR $chain ===="
-    if fd -t d "^$chain$" -Iq; 
+    if fd -t d "^$chain$" ../soucify-snapshot -Iq; 
     then
         fd "metadata.json" "../sourcify-snapshot/latest/repository/contract-stable/full_match/$chain" -x ./process-file.sh {} \;
     else
