@@ -1,1 +1,0 @@
-CryptoCatsBought(uint256 indexed index,uint256 amount,address seller,address bidder)

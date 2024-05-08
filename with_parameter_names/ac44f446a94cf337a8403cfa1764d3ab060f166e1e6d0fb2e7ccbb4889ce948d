@@ -1,1 +1,0 @@
-PricerUpdated(address indexed asset,address indexed pricer)

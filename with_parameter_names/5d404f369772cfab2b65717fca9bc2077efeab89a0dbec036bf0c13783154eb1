@@ -1,1 +1,0 @@
-ClaimMint(address indexed creatorContract,uint256 indexed claimIndex)

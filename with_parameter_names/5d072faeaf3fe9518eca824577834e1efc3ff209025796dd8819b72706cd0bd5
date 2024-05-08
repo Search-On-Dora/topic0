@@ -1,1 +1,0 @@
-ProposalCreated(uint256 proposalId,string details,uint256 vote_start,uint256 vote_end)

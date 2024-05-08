@@ -1,1 +1,0 @@
-UserRegister(address indexed user,bytes32 inviteCode)

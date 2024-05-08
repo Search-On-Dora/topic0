@@ -1,1 +1,0 @@
-Migrate(address indexed user,address indexed tokenA,address indexed tokenB,uint256 amountA,uint256 amountB)

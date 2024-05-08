@@ -1,1 +1,0 @@
-RewardManagerChanged(address indexed _from,address indexed _to,uint256 _rewardTokenBalance,uint256 _wsbTokenBalance)

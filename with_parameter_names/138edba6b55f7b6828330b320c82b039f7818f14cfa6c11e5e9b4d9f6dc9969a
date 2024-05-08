@@ -1,1 +1,0 @@
-SoldToETH(address indexed sender,address indexed recipient,uint256 dvdAmount,uint256 ethReceived)

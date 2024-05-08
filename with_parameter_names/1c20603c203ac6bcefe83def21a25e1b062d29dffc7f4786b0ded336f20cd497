@@ -1,1 +1,0 @@
-PrivateOfferingClaimed(address indexed participant,uint256 amountOfTokenOut)

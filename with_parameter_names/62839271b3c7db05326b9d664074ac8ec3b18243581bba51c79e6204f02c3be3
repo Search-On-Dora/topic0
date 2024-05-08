@@ -1,1 +1,0 @@
-depositReceived(address indexed depositor,uint256 value)

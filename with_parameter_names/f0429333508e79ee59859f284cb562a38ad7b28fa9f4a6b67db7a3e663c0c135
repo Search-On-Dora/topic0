@@ -1,1 +1,0 @@
-BuyLevelEvent(address indexed user,address indexed upline,uint8 level,uint40 expires,uint256 time)

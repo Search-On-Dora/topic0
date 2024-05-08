@@ -1,1 +1,0 @@
-Revocation(address indexed sender,uint256 indexed transactionId)

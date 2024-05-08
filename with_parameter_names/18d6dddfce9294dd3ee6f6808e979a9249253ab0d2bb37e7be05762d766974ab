@@ -1,1 +1,0 @@
-SetPoolProxyAdmin(address indexed previousPoolProxyAdmin,address indexed newPoolProxyAdmin)

@@ -1,1 +1,0 @@
-LockRdeeemed(uint256 lockId,address indexed userAddress,uint256 amount,address indexed txnBy)

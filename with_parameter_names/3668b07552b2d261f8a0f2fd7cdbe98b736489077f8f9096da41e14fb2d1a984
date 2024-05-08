@@ -1,1 +1,0 @@
-PurchasedBundle(bytes32 indexed _hash,address indexed _owner,bool indexed _isWhiteListed,uint256 _quantity)

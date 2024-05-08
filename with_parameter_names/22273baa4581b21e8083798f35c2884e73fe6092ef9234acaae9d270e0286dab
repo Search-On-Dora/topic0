@@ -1,1 +1,0 @@
-AddNFTTokenIdEvent(address indexed _nftAddress,uint256 indexed _tokenId)

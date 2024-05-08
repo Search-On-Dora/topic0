@@ -1,1 +1,0 @@
-ProposalCreated(uint256 id,address proposer,uint256 startBlock,uint256 endBlock,string description)

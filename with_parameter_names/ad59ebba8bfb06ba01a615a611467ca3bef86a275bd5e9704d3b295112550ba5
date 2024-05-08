@@ -1,1 +1,0 @@
-CreatedDrop(address indexed creator,address indexed editionContractAddress,uint256 editionSize)

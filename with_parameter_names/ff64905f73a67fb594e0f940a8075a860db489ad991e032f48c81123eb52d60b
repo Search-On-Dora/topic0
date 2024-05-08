@@ -1,1 +1,0 @@
-InboxMessageDelivered(uint256 indexed messageNum,bytes data)

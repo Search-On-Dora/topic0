@@ -1,1 +1,0 @@
-UpdateAmountWithLock(address beneficiary,uint256 amount,uint256 releaseTime,tuple beneficiaryInfo)

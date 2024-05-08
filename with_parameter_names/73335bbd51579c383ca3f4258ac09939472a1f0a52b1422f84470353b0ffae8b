@@ -1,1 +1,0 @@
-TeleportPairRegistered(address indexed sponsor,address indexed originalTokenAddr,string name,string symbol,uint8 decimals)

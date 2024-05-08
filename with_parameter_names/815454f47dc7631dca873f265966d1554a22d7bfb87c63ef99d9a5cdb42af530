@@ -1,1 +1,0 @@
-GaugeSet(address indexed gaugeAddress,address indexed stakingToken)

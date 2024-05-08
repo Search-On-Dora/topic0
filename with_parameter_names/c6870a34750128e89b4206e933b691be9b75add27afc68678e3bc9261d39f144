@@ -1,1 +1,0 @@
-GrantRevoked(address indexed recipient,uint256 indexed amountVested,uint256 indexed amountNotVested)

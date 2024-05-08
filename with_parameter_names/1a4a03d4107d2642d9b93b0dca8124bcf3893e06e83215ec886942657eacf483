@@ -1,1 +1,0 @@
-FirstBySenderEvent(address indexed sender,uint256 amount)

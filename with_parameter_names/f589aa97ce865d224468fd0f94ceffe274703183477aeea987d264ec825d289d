@@ -1,1 +1,0 @@
-RentalFeeCollectedFrom(uint256 indexed _tokenId,address indexed _from,uint256 _value)

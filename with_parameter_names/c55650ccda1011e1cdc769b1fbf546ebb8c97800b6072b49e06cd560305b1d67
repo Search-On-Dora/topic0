@@ -1,1 +1,0 @@
-Bought(address user,uint256 amount);Bought(address indexed buyer,uint256 amtEth)

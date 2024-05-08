@@ -1,1 +1,0 @@
-tipSent(address user,address creator,uint256 amount,uint256 creatorFeeBIPS)

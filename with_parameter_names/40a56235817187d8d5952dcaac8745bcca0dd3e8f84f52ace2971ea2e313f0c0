@@ -1,1 +1,0 @@
-TokenSold(address indexed buyer,uint256 indexed tokenId,uint256 price,bytes32 hash)

@@ -1,1 +1,0 @@
-Bought(address indexed buyer,uint256 amount,uint256 pricePerToken);Bought(address user,uint256 amount,uint256 price)

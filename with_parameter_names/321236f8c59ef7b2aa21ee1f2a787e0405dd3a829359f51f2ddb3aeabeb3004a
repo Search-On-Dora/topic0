@@ -1,1 +1,0 @@
-LockGTON(address indexed governanceToken,address indexed sender,address indexed receiver,uint256 amount)

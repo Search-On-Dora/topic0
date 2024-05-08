@@ -1,1 +1,0 @@
-Proposer(address indexed from,string config,uint256 value,address account)

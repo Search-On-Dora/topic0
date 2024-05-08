@@ -1,1 +1,0 @@
-RbPoolStakingPoolSet(address indexed rbPoolAddress,bytes32 indexed poolId)

@@ -1,1 +1,0 @@
-SetChiToken(address indexed previousChiToken,address indexed newChiToken)

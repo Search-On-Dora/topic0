@@ -1,1 +1,0 @@
-CurrencyApprovedForListing(uint256 indexed listingId,address indexed currency,uint256 pricePerToken)

@@ -1,1 +1,0 @@
-UpdatePositionTPT(address updater,int256 amountDelta,int256 timeDelta)

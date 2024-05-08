@@ -1,1 +1,0 @@
-WinnerSelected(uint256 indexed raffleId,address winnerAddress,uint256 ticketId,uint256 timestamp)

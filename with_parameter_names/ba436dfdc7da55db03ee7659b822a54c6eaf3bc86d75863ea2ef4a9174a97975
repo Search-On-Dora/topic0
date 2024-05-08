@@ -1,1 +1,0 @@
-Recarga_pay(address indexed user,uint256 indexed amount,uint256 time)

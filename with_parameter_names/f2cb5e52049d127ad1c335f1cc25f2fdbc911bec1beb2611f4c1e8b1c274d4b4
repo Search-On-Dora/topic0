@@ -1,1 +1,0 @@
-Minted(address indexed minter,uint256 price,uint256 nftID,string uri)

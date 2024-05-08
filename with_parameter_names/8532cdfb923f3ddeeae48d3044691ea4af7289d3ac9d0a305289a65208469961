@@ -1,1 +1,0 @@
-PrivateOffering(address indexed participant,uint256 amountOfTokenIn,uint256 amountOfTokenOut)

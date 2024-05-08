@@ -1,1 +1,0 @@
-ContributionMade(address indexed contributor,uint256 amount,bytes32 indexed PropertyID,uint8 indexed escrowNumber,bool fundingComplete)

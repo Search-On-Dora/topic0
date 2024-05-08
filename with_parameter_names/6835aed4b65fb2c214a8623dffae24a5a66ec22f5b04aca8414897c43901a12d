@@ -1,1 +1,0 @@
-BTokensSold(address seller,uint256 bTokensSold,uint256 collateralPaid)

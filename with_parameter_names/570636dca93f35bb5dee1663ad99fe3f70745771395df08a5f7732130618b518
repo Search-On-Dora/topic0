@@ -1,1 +1,0 @@
-SetMaxTxPercent(uint256 value);SetMaxTxPercent(uint256 indexed maxTxPercent)

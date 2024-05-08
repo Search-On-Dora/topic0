@@ -1,1 +1,0 @@
-TeamWalletUpdated(address indexed newTeamWallet,address indexed oldTeamWallet)

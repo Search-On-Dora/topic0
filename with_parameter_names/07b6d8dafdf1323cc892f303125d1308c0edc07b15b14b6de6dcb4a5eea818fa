@@ -1,1 +1,0 @@
-RewardsDenied(address indexed indexer,address indexed allocationID,uint256 epoch)

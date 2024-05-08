@@ -1,1 +1,0 @@
-PromiseFinalized(address indexed recipient,uint256 amount,uint256 timestamp,bytes transactionHash)

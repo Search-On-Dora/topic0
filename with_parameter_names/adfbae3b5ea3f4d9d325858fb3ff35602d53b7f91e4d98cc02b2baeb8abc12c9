@@ -1,1 +1,0 @@
-Cross(address indexed collect,address indexed to_address,uint256 amount)

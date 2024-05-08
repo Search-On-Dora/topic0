@@ -1,1 +1,0 @@
-RedeemedRequested(address indexed _contractAddress,uint256 indexed _tokenId,address indexed _redeemerAddress,uint256 _networkId,string _redeemerName,uint256 _purpose)

@@ -1,1 +1,0 @@
-LiquidityRemoved(address indexed router,address indexed assetId,uint256 amount,address recipient)

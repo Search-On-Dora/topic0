@@ -1,1 +1,0 @@
-BenefitWithdrawed(address indexed beneficiary,uint256 amount)

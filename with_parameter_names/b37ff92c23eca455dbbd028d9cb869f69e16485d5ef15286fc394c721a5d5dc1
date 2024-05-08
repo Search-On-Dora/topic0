@@ -1,1 +1,0 @@
-OperatorshipTransferred(address indexed previousOperator,address indexed newOperator)

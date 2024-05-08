@@ -1,1 +1,0 @@
-TokenBinderChanged(address indexed previousTokenBinder,address indexed newTokenBinder)

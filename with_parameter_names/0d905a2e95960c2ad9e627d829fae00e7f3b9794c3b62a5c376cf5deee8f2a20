@@ -1,1 +1,0 @@
-SaleMint(address indexed _minter,uint256 _amount,uint256 _price)

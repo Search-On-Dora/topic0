@@ -1,1 +1,0 @@
-EditorRoleTransferred(address indexed previousEditor,address indexed newEditor)

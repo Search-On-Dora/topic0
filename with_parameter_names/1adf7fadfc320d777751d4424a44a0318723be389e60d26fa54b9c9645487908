@@ -1,1 +1,0 @@
-LogProposalLocked(uint64 indexed idProposal,address indexed voucher)

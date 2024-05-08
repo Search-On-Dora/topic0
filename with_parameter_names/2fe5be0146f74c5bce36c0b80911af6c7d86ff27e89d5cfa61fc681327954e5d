@@ -1,1 +1,0 @@
-Minted(address indexed operator,address indexed to,uint256 amount,bytes data,bytes operatorData)

@@ -1,1 +1,0 @@
-UserSellingPriceAdjust(address indexed auction,uint256 indexed value)

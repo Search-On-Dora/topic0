@@ -1,1 +1,0 @@
-ClaimedTokens(address indexed token,address indexed owner,uint256 amount)

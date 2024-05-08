@@ -1,1 +1,0 @@
-MarketingWalletUpdated(address indexed newMarketingWallet,address indexed oldMarketingWallet);MarketingWalletUpdated(address oldMarketingWallet,address newMarketingWallet)

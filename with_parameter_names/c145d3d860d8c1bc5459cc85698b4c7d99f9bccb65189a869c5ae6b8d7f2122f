@@ -1,1 +1,0 @@
-AddRewardHolderShare(address indexed rewardRecipient,uint256 indexed amount)

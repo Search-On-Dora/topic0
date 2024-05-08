@@ -1,1 +1,0 @@
-InviteReward(address indexed user,address indexed inviter,uint256 amount)

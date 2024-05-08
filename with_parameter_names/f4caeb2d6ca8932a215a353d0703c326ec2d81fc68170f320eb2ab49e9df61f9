@@ -1,1 +1,0 @@
-AuthorizedOperator(address indexed operator,address indexed tokenHolder)

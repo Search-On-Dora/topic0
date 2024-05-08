@@ -1,1 +1,0 @@
-WalletCreated(address indexed walletAddress,address indexed userAddress,address adminProxy)

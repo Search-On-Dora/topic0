@@ -1,1 +1,0 @@
-OfferEdge(uint256 indexed fromCellIndex,uint256 fromEdgeIndex,uint256 indexed toCellIndex)

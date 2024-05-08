@@ -1,1 +1,0 @@
-BoardroomChanged(address indexed operator,address indexed oldBoardroom,address indexed newBoardroom)

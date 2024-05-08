@@ -1,1 +1,0 @@
-PriceChange(string indexed _type,uint256 newPrice)

@@ -1,1 +1,0 @@
-MerkleRootUpdated(bytes32 new_merkle_root);MerkleRootUpdated(bytes32 indexed merkleRoot)

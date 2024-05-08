@@ -1,1 +1,0 @@
-SetVestingParams(uint256 indexed _pid,uint256 indexed _duration,uint256 indexed _periods)

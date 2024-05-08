@@ -1,1 +1,0 @@
-Message(address indexed sender,address indexed receiver,string message)

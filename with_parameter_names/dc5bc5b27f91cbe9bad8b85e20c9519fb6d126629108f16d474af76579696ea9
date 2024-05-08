@@ -1,1 +1,0 @@
-SwapEnabledSet(address indexed pool,bool swapEnabled)

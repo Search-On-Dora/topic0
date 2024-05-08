@@ -1,1 +1,0 @@
-BuyTicketEvent(address indexed _addr,uint256 _value,uint256 _ratio,uint256 _value2,uint256 time)

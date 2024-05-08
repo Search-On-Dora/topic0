@@ -1,1 +1,0 @@
-MasterAccountChanged(address indexed account,address indexed actor)

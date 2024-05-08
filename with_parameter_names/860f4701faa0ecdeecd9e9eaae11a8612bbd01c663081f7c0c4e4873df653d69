@@ -1,1 +1,0 @@
-FundsFlushed(uint256 indexed depositedAmount);FundsFlushed(uint256 amount)

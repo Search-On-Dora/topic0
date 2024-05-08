@@ -1,1 +1,0 @@
-FeeEdited(address indexed _module,uint256 indexed _feeType,uint256 _feePercentage)

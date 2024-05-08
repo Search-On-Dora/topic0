@@ -1,1 +1,0 @@
-CoolOffPeriodUpdated(address indexed _ckToken,address indexed _component,uint256 _newCoolOffPeriod)

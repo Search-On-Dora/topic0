@@ -1,1 +1,0 @@
-SetPool(uint256 indexed _pid,uint256 indexed _allocPoint,bool indexed _registered,string _descriptionHash)

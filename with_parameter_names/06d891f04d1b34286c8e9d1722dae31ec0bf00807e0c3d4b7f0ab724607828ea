@@ -1,1 +1,0 @@
-sold(address indexed seller,uint256 calculatedEtherTransfer,uint256 tokens)

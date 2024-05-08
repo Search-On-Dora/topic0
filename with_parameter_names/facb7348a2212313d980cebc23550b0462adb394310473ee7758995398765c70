@@ -1,1 +1,0 @@
-MovedUnclaimedDepositsIntoCurrentBatch(uint256 amount,uint8 batchType,address indexed account)

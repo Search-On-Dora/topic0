@@ -1,1 +1,0 @@
-NewPriorityRequest(address sender,uint64 serialId,uint8 opType,bytes pubData,uint256 expirationBlock)

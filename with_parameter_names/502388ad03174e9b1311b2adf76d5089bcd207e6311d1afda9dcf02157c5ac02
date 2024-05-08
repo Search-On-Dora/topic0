@@ -1,1 +1,0 @@
-record(uint256 position,string document,string book,uint256 bags,uint256 tokens,string executionType)

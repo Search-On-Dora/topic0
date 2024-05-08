@@ -1,1 +1,0 @@
-eventUpdateTradePrices(bytes32 tradeId,address user0,address[] acceptedTokens,uint256[] tokenPrices)

@@ -1,1 +1,0 @@
-donationSent(string indexed charityName,uint256 indexed amount)

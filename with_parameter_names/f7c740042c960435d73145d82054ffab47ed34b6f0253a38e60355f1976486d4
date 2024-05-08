@@ -1,1 +1,0 @@
-LockUpPeriodInSecsUpdated(uint256 indexed poolId,uint256 oldLockPeriodInSecs,uint256 newLockPeriodInSecs)

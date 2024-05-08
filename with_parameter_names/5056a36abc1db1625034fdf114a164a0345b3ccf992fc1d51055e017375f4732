@@ -1,1 +1,0 @@
-AuthorizationSet(address indexed addressAuthorized,bool indexed authorization)

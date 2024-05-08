@@ -1,1 +1,0 @@
-PayeeshipTransferred(address indexed transmitter,address indexed previous,address indexed current)

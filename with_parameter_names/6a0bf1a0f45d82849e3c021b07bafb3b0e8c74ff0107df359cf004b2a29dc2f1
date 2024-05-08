@@ -1,1 +1,0 @@
-onVPURETokenPurchase(address indexed purchaser,uint256 ethAmount,uint256 vPUREAmount)

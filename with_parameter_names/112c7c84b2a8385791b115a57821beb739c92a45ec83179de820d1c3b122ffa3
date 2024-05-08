@@ -1,1 +1,0 @@
-MaxMultiItemsUpdated(address indexed updater,uint8 oldValue,uint8 newValue)

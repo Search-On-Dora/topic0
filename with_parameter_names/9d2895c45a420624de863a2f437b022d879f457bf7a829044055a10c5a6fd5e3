@@ -1,1 +1,0 @@
-KeyManagerChanged(uint256 indexed _tokenId,address indexed _newManager)

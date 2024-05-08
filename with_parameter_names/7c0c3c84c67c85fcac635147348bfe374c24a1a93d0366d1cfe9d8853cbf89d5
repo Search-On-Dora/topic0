@@ -1,1 +1,0 @@
-AdminRevoked(address indexed account,address indexed sender)

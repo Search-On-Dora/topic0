@@ -1,1 +1,0 @@
-PersonRemoval(address indexed removed,address indexed attachedTo,uint8 indexed role)

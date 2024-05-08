@@ -1,1 +1,0 @@
-LOG_CALL_VOTING(address indexed voting,bool indexed success,bytes4 indexed inputSig,bytes inputData,bytes outputData)

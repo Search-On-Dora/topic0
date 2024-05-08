@@ -1,1 +1,0 @@
-GSNFeeCharged(address indexed user,bytes4 feeType,uint256 fee)

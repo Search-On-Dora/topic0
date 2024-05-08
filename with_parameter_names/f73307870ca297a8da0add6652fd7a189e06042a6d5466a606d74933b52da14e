@@ -1,1 +1,0 @@
-TakeOutSomeOfTheAccumulatedReward(address indexed user,uint256 rewardAmountTakenOut)

@@ -1,1 +1,0 @@
-ChangeGameFeePercent(address indexed governance,uint256 gameFeePercent)

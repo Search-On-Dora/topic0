@@ -1,1 +1,0 @@
-SetStrategyPermission(address indexed strategy,bool indexed previousPermission,bool newPermission)

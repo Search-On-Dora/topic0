@@ -1,1 +1,0 @@
-tokenCreated(address indexed minter,uint256 id,uint256 amount,string tokenUri,bool isUnlockable,string unlockable)

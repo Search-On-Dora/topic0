@@ -1,1 +1,0 @@
-RouterRemoved(address indexed removedRouter,address indexed caller);RouterRemoved(address indexed router,address caller)

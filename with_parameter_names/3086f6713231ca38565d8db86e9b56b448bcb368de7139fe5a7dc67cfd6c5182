@@ -1,1 +1,0 @@
-TaxSet(bytes1 index,uint256 percent,bool enabled)

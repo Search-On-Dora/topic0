@@ -1,1 +1,0 @@
-RelayHubChanged(address indexed oldRelayHub,address indexed newRelayHub)

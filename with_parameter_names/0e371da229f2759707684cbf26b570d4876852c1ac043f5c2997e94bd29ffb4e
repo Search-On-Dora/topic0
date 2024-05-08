@@ -1,1 +1,0 @@
-PaymentTokensUpdated(address[] indexed tokens,address[] indexed oracles,bool update)

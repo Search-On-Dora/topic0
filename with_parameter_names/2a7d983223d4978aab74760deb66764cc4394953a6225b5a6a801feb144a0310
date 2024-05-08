@@ -1,1 +1,0 @@
-CancelSellToken(address indexed seller,uint256 indexed order)

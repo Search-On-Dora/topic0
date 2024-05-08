@@ -1,1 +1,0 @@
-LotteryInjection(uint256 indexed lotteryId,uint256 injectedAmount)

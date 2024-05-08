@@ -1,1 +1,0 @@
-OUSDSwapped(address indexed token,uint256 swapAmountIn,uint256 swapAmountOut)

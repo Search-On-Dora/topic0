@@ -1,1 +1,0 @@
-LogWithdraw(string indexed gaugePoolName,uint256 amount,uint256 getId,uint256 setId)

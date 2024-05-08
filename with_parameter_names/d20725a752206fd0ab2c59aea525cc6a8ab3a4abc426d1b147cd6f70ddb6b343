@@ -1,1 +1,0 @@
-LiquidationReserveDeposited(address indexed collateral,uint256 amount)

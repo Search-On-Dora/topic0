@@ -1,1 +1,0 @@
-OfferChanged(address indexed _offer,uint256 _state)

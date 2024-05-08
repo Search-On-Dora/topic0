@@ -1,1 +1,0 @@
-SetDepositContracts(uint256 indexed chainId,address indexed l2DepositContract,address indexed l2MessengerContract)

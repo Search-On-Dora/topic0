@@ -1,1 +1,0 @@
-LevelActivated(address indexed userAddress,uint8 level,address indexed tokenStaked,uint256 amount)

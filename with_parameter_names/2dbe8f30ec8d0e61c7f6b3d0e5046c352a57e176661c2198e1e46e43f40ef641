@@ -1,1 +1,0 @@
-ReferalProfit(uint32 timestamp,address indexed addr,uint256 profit,uint256 balance,uint256 percent,uint256 tax,uint256 reward,uint256 total)

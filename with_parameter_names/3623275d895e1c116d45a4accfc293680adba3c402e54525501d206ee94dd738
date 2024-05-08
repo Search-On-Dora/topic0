@@ -1,1 +1,0 @@
-StrategyCreated(address indexed _strategy,address indexed _collateralToken,address indexed _poolAddress,uint256 _lpPoolpid)

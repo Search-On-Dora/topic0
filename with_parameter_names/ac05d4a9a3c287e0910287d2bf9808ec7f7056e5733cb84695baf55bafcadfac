@@ -1,1 +1,0 @@
-LogUpdateRewards(address indexed rewardToken,uint256 totalRewards,uint256 accRewardPerShare)

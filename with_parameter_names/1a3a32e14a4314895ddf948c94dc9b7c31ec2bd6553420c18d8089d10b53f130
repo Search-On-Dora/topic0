@@ -1,1 +1,0 @@
-ListTokenAudited(address user,address token,uint256 status,uint256 burn,uint256 reward,uint256 refund)

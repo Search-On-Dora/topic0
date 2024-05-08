@@ -1,1 +1,0 @@
-StakeSlashed(address indexed indexer,uint256 tokens,uint256 reward,address beneficiary)

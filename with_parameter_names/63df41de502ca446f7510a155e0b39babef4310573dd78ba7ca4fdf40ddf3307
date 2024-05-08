@@ -1,1 +1,0 @@
-NFT_Locked(address indexed source_token_contract,uint256 indexed token_id,uint256 whole_tokens)

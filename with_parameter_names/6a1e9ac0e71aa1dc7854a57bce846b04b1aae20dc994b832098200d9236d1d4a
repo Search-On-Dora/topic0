@@ -1,1 +1,0 @@
-RaiseTargetPercentageUpdated(address indexed _ckToken,uint256 indexed _raiseTargetPercentage)

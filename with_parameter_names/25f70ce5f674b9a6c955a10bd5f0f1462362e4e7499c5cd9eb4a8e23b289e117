@@ -1,1 +1,0 @@
-Log(uint256 amount,address token,bool success,string val)

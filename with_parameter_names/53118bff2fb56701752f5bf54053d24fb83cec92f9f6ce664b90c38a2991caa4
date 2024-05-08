@@ -1,1 +1,0 @@
-RewardDistributed(address indexed user,uint256 delta,uint256 index)

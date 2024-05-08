@@ -1,1 +1,0 @@
-LPTokensBurned(address redeemer,uint256 collateralRemoved,uint256 paymentRemoved,uint256 lpTokensBurned)

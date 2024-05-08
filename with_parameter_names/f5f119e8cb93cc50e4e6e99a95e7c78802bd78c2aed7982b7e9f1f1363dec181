@@ -1,1 +1,0 @@
-FeeQueueChanged(address indexed _address,bool _useProcess)

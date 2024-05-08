@@ -1,1 +1,0 @@
-LogRemoveChainLinkMapping(string tokenSymbol,address chainlinkFeed)

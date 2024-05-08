@@ -1,1 +1,0 @@
-DepositEvent(bytes pubkey,bytes withdrawal_credentials,bytes amount,bytes signature,bytes index)

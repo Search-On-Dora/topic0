@@ -1,1 +1,0 @@
-NewUser(address indexed _user,address indexed _referrer,uint8 level)

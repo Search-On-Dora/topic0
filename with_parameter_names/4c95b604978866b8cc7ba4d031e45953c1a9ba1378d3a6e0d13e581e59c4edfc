@@ -1,1 +1,0 @@
-LOANCreated(uint256 indexed loanId,address indexed lender,bytes32 indexed offerHash)

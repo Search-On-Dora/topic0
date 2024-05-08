@@ -1,1 +1,0 @@
-FeeTakerTransferred(address indexed previousFeeTaker,address indexed newFeeTaker)

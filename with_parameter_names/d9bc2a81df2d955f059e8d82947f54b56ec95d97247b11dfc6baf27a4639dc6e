@@ -1,1 +1,0 @@
-ReleasedERC721(address indexed token,address to,uint256 tokenId)

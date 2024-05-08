@@ -1,1 +1,0 @@
-FarmingRateChanged(address indexed tokenAddress,uint256 indexed newAPY)

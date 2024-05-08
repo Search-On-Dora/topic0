@@ -1,1 +1,0 @@
-LogHarvestRewardSender(address indexed sender,uint256 reward0,uint256 reward1)

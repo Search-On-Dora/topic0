@@ -1,1 +1,0 @@
-AuctionSettled(uint256 indexed furbId,address winner,uint256 amount)

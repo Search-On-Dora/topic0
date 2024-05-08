@@ -1,1 +1,0 @@
-ManagerFeeEdited(address indexed _ckToken,uint256 _newManagerFee,uint256 _index)

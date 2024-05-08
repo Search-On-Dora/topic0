@@ -1,1 +1,0 @@
-MinTokenAmountForDividendsChange(uint256 indexed newValue,uint256 indexed oldValue)

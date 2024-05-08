@@ -1,1 +1,0 @@
-ApproveAndCall(address indexed spender,uint256 value,bytes extraData)

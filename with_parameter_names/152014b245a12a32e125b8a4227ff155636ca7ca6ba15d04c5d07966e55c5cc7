@@ -1,1 +1,0 @@
-CreatedEdition(uint256 indexed editionId,address indexed creator,uint256 editionSize,address editionContractAddress)

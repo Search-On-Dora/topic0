@@ -1,1 +1,0 @@
-AmountIn(address indexed user,address coin,uint256 amount)

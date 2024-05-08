@@ -1,1 +1,0 @@
-InitializedRole(bytes32 indexed role,bytes32 indexed adminRole,string description,address sender)

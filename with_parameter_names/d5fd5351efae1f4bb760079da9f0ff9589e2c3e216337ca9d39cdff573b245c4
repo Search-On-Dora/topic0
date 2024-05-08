@@ -1,1 +1,0 @@
-WithdrawAddressApproved(address indexed token,address indexed addr,bool approve)

@@ -1,1 +1,0 @@
-FeeClaimPairSet(address indexed _address,address indexed _token,bool _value)

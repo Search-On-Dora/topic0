@@ -1,1 +1,0 @@
-TokensWrapped(address indexed wrapper,address indexed recipientOfWrappedToken,uint256 indexed tokenIdOfWrappedToken,tuple[] wrappedContents)

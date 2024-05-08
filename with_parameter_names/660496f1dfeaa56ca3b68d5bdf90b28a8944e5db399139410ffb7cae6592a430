@@ -1,1 +1,0 @@
-AdminshipStatusChange(bool adminStatus,address indexed newAdmin)

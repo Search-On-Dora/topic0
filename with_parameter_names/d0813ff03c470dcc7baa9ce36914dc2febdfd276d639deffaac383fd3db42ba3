@@ -1,1 +1,0 @@
-ClaimedReward(address indexed user,uint256 amount);ClaimedReward(address rewardToken,uint256 amount)

@@ -1,1 +1,0 @@
-AssetPayeeAccountSet(address indexed manager,address indexed assetAddress,address prevPayeeAddress,address payeeAddress)

@@ -1,1 +1,0 @@
-SetAcoPoolWithdrawOpenPositionPenalty(uint256 indexed previousWithdrawOpenPositionPenalty,uint256 indexed newWithdrawOpenPositionPenalty)

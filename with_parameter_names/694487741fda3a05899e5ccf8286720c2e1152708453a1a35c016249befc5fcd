@@ -1,1 +1,0 @@
-difficultyChanged(address indexed user,uint256 difficulty)

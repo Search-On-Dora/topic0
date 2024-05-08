@@ -1,1 +1,0 @@
-MaxPriceUpdated(bytes32 indexed productHash,uint256 timeToExpiry,uint256 oldValue,uint256 newValue)

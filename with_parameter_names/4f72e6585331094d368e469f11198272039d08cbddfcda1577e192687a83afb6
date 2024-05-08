@@ -1,1 +1,0 @@
-TokensClaimed(uint256 indexed claimConditionIndex,uint256 indexed tokenId,address indexed claimer,address receiver,uint256 quantityClaimed)

@@ -1,1 +1,0 @@
-TokensBought(address indexed _beneficiary,uint256 _amount)

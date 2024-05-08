@@ -1,1 +1,0 @@
-GrantRole(bytes32 indexed role,address indexed addr)

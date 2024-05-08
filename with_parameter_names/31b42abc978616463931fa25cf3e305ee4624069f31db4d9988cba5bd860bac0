@@ -1,1 +1,0 @@
-GetVotor(address user,uint256 _pid,uint8 Option,uint256 account)

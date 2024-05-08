@@ -1,1 +1,0 @@
-TicketsPurchase(address indexed buyer,uint256 indexed lotteryId,uint256 numberTickets)

@@ -1,1 +1,0 @@
-ExcludeFromMaxTransferChange(address indexed account,bool isExcluded)

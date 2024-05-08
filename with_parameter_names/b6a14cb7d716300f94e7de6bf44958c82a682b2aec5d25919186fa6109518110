@@ -1,1 +1,0 @@
-LockerTransferred(address indexed previousLocker,address indexed newLocker)

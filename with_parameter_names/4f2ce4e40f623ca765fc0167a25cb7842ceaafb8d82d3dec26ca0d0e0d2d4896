@@ -1,1 +1,0 @@
-PoolCreated(address indexed token,address indexed dao);PoolCreated(address _pool,address _token)

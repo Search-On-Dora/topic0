@@ -1,1 +1,0 @@
-ChangeFeesForWhitelistedSell(uint8 indexed liquidityFeeOnSell,uint8 indexed marketingFeeOnSell,uint8 indexed HuHdistributionFeeOnSell)

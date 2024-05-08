@@ -1,1 +1,0 @@
-ClaimReward(address indexed to,uint256 fixedAmount,uint256 dynamicAmount)

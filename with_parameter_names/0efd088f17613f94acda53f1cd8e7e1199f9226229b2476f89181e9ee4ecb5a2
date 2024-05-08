@@ -1,1 +1,0 @@
-RecvAirdrop(address indexed user,uint256 indexed tokenid,uint256 prodid,uint256 power)

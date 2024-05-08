@@ -1,1 +1,0 @@
-PrizeCollected(address indexed _winner,uint256 _tokenId)

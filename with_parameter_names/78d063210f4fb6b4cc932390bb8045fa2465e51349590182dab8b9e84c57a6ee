@@ -1,1 +1,0 @@
-NewTokenRegistered(address indexed nativeToken,address indexed bridgedToken)

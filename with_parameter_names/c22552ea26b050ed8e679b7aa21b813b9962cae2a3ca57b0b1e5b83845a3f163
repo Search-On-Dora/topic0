@@ -1,1 +1,0 @@
-CreateTokenMapped(address indexed creator,address indexed token,address indexed tokenMapped)

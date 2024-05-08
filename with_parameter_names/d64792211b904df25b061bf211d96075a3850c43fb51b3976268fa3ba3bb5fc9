@@ -1,1 +1,0 @@
-ApplyStakingEvent(uint256 indexed sid,address indexed addr,string info)

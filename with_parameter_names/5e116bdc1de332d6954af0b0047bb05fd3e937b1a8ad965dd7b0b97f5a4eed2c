@@ -1,1 +1,0 @@
-AddCornEvent(address indexed _from,address indexed pool,uint256 value)

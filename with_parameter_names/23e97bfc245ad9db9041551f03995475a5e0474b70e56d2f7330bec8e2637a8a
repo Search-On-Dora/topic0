@@ -1,1 +1,0 @@
-ChangedPriceForSale(address seller,uint256 tokenId,uint256 newPrice)

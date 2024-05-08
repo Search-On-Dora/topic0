@@ -1,1 +1,0 @@
-RefundeeAllowedSet(address indexed addr,bool indexed allowed)

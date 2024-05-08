@@ -1,1 +1,0 @@
-Claimed(address indexed account,uint256 eth,uint256 token);Claimed(address indexed user,uint256 indexed pid,uint256 amount)

@@ -1,1 +1,0 @@
-RequestRandomnessFullfilled(bytes32 indexed requestId,tuple request)

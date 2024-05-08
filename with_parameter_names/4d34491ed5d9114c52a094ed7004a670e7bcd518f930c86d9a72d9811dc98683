@@ -1,1 +1,0 @@
-WhitelistToken(uint256 chainId,address indexed l1Token,address indexed l2Token,address indexed bridgePool)

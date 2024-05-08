@@ -1,1 +1,0 @@
-BuyCoin(address user,uint256 amount,address applyAddress,uint256 makeCoinAmount,uint256 txid)

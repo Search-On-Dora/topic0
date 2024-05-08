@@ -1,1 +1,0 @@
-Deprecate(address newAddress);Deprecate(address indexed account)

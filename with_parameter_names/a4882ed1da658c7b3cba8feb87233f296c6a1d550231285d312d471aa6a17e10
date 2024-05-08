@@ -1,1 +1,0 @@
-SetAssetPrecision(address indexed asset,uint256 oldAssetPrecision,uint256 newAssetPrecision)

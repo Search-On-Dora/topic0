@@ -1,1 +1,0 @@
-BondRedeemed(uint256 indexed payout,uint256 indexed remaining)

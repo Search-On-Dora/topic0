@@ -1,1 +1,0 @@
-RemoveLiquidity(address indexed pair,uint256 token0,uint256 token1)

@@ -1,1 +1,0 @@
-SetRewardAddress(address indexed user,uint256 rewardKey,address rwardAddress)

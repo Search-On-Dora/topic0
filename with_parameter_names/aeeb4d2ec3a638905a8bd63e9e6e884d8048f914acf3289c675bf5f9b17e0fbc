@@ -1,1 +1,0 @@
-AuctionStarted(string hash,uint256 basePrice,uint256 timestamp)

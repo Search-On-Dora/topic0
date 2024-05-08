@@ -1,1 +1,0 @@
-TransferedFee(address indexed pool,address token,address feeRecipient,uint256 feeAmount)

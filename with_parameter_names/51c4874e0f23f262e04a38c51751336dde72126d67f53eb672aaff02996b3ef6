@@ -1,1 +1,0 @@
-PauserTransferred(address indexed previousPauser,address indexed newPauser)

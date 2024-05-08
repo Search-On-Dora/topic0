@@ -1,1 +1,0 @@
-PresaleMint(address minter,uint256 amountOfNfts);PresaleMint(address indexed _minter,uint256 _amount)

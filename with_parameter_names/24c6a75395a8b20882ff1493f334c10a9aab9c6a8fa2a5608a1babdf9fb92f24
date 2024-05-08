@@ -1,1 +1,0 @@
-SetFees(string destination,uint256 _feeMin,uint256 _feePercent)

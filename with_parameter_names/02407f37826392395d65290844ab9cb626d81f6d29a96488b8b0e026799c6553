@@ -1,1 +1,0 @@
-DefaultFeesCollector(address indexed feesCollector,address indexed prevFeesCollector)

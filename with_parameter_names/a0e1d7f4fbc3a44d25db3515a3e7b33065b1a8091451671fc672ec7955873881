@@ -1,1 +1,0 @@
-UpdateBurnAccount(address indexed oldAdmin,address indexed newAdmin)
