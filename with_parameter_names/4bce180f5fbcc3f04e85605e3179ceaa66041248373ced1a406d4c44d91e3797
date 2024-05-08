@@ -1,0 +1,1 @@
+UpdateAssetLiquidationFactor(address indexed cometProxy,address indexed asset,uint64 oldLiquidationFactor,uint64 newLiquidationFactor)

@@ -1,0 +1,1 @@
+CollectionCreated(uint256 id,address author,uint256 price,uint64 editions,uint16 royalty,address freeMinter,uint8 status,string metadata,address tokenContractAddress)

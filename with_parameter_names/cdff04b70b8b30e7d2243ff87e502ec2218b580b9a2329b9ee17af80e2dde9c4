@@ -1,0 +1,1 @@
+LockedUp(uint256 indexed lockUpId,address indexed token,bool isERC20,address indexed receiver,uint256 amount,uint40 unlockTime)

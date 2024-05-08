@@ -1,0 +1,1 @@
+MemberAdded(uint256 indexed _communityID,address indexed _member)

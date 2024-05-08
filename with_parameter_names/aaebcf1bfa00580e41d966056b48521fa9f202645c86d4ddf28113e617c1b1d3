@@ -1,0 +1,1 @@
+FeeRecipientUpdated(address indexed oldRecipient,address indexed newRecipient)

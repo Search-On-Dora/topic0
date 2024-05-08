@@ -1,0 +1,1 @@
+ChannelOpen(uint256 indexed channelId,address indexer,address consumer,uint256 total,uint256 price,uint256 expiredAt,bytes32 deploymentId,bytes callback)

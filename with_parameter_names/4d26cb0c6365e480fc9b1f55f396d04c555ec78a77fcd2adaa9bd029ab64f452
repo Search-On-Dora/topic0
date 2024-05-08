@@ -1,0 +1,1 @@
+RecepientAddressUpdated(bytes32 indexed userAddressInBytes,address indexed currentRecepientWallet,address indexed newRecepientWallet)

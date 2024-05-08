@@ -1,0 +1,1 @@
+NomadModuleControllerUpdated(address indexed previousController,address indexed newController,uint32 indexed previousDomain,uint32 newDomain)

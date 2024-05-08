@@ -1,0 +1,1 @@
+TransferCollateral(bytes32 indexed _cType,address indexed _src,address indexed _dst,uint256 _wad)

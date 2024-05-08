@@ -1,0 +1,1 @@
+AddVault(address indexed vault,bytes datas,string strat)

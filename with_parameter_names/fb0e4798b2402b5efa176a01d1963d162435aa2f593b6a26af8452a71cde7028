@@ -1,0 +1,1 @@
+HintListDelegateRemoved(address indexed namespace,bytes32 indexed list,address indexed oldDelegate)

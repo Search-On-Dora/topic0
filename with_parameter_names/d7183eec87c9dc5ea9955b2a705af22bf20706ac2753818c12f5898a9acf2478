@@ -1,0 +1,1 @@
+Bided(uint256 roundNum,address bidder,uint8 side,uint256 amount)

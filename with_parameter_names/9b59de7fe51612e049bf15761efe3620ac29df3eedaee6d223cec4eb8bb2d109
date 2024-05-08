@@ -1,0 +1,1 @@
+ProfitReport(address projectAddr,uint256 paymentValue,uint256 energyDelta)

@@ -1,0 +1,1 @@
+_Voted(uint256 indexed proposalID,uint256 numTokens,address indexed voter)

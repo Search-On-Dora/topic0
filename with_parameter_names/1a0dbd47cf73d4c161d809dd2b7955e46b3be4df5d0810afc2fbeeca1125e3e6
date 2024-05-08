@@ -1,0 +1,1 @@
+AggregateRootPropagated(bytes32 indexed aggregateRoot,bytes32 domainsHash)

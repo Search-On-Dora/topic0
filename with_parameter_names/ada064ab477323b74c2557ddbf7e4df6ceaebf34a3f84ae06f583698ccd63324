@@ -1,0 +1,1 @@
+AutocompoundSet(address indexed lst,address indexed user,bool compound)

@@ -1,0 +1,1 @@
+CreateRecipe(address indexed creator,tuple[] inputs,tuple[] outputs)

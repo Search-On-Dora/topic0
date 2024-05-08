@@ -1,0 +1,1 @@
+VerifyBatches(uint32 indexed rollupID,uint64 numBatch,bytes32 stateRoot,bytes32 exitRoot,address indexed aggregator)

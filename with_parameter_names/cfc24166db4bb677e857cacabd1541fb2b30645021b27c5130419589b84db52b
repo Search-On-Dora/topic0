@@ -1,0 +1,1 @@
+NodeRemoved(address _id);NodeRemoved(address indexed nodeAddress)

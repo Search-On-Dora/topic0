@@ -1,0 +1,1 @@
+PaymentCollected(address indexed treasury,address[] tokens,uint256[] amounts)

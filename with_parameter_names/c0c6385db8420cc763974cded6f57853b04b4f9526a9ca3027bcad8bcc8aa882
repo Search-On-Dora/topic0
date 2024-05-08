@@ -1,0 +1,1 @@
+DeckSeedRequested(bytes32 indexed requestId,address indexed player)

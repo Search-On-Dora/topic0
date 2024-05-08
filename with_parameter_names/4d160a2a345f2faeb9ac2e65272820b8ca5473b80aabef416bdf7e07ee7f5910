@@ -1,0 +1,1 @@
+AuctionCleared(uint256 indexed auctionId,uint96 soldAuctioningTokens,uint96 soldBiddingTokens,bytes32 clearingPriceOrder)

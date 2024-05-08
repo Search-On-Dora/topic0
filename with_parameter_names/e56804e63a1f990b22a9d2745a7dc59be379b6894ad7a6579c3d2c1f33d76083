@@ -1,0 +1,1 @@
+Airdropped(address nftContract,uint256 nftId,address paymentReceiver,address[] recipients,uint256[] amounts)

@@ -1,0 +1,1 @@
+ClaimedRewards(address indexed rewardRecipient,uint256 indexed amount,uint8 indexed rewardType)

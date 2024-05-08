@@ -1,0 +1,1 @@
+PublicCapabilityUpdated(address indexed target,bytes4 indexed functionSig,bool enabled)

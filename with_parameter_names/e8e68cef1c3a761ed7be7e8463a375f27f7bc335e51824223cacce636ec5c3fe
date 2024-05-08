@@ -1,0 +1,1 @@
+OperatorRegistered(address indexed operator,bytes32 indexed operatorId)

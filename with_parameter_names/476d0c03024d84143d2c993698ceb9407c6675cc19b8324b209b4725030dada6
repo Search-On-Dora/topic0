@@ -1,0 +1,1 @@
+tournamentRemovePlayer(bytes32 indexed tourneyid,uint256 indexed playerid,uint256 remainingParticipants)

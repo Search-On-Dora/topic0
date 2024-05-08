@@ -1,0 +1,1 @@
+FarmData(address indexed stakingAddress,uint256 indexed tvlUSD,uint256 indexed rewardsUSDPerYear)

@@ -1,0 +1,1 @@
+NewDelayedOracle(address indexed _delayedOracle,address _priceSource,uint256 _updateDelay)

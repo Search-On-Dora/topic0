@@ -1,0 +1,1 @@
+DepositDowngraded(address indexed downgrader,uint256 indexed depositId,uint256 downgradeReward)

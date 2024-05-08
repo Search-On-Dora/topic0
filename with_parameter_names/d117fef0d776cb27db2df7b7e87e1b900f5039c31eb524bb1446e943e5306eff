@@ -1,0 +1,1 @@
+LogSetLockDuration(uint256 lockDuration)

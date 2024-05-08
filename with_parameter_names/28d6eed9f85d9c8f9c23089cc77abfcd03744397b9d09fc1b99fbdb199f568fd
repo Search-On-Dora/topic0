@@ -1,0 +1,1 @@
+TradeIssuerTokenRedeemedAndMinted(address indexed recipient,address indexed chamberToRedeem,address indexed chamberToMint,uint256 redeemAmount,uint256 mintAmount)

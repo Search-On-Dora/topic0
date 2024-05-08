@@ -1,0 +1,1 @@
+ProductAdded(string name,string barcode,uint256 price,uint256 quantity,uint256 discountPercentage,string description,string[] allClientsEmails)

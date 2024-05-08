@@ -1,0 +1,1 @@
+VaultLiquidated(address indexed liquidator,address indexed receiver,address indexed vaultOwner,uint256 auctionPrice,uint256 auctionStartingRound,uint256 collateralPayout,uint256 debtAmount,uint256 vaultId)

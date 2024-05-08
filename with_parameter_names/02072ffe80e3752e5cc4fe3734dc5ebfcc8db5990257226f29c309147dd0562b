@@ -1,0 +1,1 @@
+StrategyPosSizeUpdated(uint256 strategyId,uint256 minCollSize,uint256 maxPosSize)

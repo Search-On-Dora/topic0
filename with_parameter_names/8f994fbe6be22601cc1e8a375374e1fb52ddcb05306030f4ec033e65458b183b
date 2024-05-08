@@ -1,0 +1,1 @@
+CyberMarketTokenTransfered(address nftAddress,uint256 indexed tokenId,address indexed from,address indexed to,uint256 total)

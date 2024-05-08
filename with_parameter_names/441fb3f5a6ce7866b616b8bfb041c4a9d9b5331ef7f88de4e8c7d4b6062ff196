@@ -1,0 +1,1 @@
+LogOracleProposed(uint256 oracleId,bytes32 name,address oracleContract)

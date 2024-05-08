@@ -1,0 +1,1 @@
+RaffleClosed(uint256 indexed raffleId,address indexed winner)

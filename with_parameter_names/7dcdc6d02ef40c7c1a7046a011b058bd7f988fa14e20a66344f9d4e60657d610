@@ -1,0 +1,1 @@
+TokensDeregistered(bytes32 indexed poolId,address[] tokens)

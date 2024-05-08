@@ -1,0 +1,1 @@
+TvlChanged(address currency,uint256 totalLocked,uint256 totalRaised)

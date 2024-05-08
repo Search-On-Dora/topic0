@@ -1,0 +1,1 @@
+GlobalDailyUpdateStats(uint256 indexed day,uint256 indexed mintCost,uint256 mintableHlx,uint256 mintPowerBonus,uint256 EAABonus)

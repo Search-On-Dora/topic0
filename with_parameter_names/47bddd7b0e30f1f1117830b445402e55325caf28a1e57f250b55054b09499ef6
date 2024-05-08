@@ -1,0 +1,1 @@
+BackupWalletChanged(address user,address newBackupWallet)

@@ -1,0 +1,1 @@
+TWAPConfigUpdated(address account,uint32 maxTWAPTickDifference,uint32 TWAPSeconds)

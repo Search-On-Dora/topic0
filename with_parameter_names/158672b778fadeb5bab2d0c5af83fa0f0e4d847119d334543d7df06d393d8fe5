@@ -1,0 +1,1 @@
+Initiated(address[] voters,uint256[] powers,address[] proxies,uint256 activePeriod,uint256 quorumThreshold,uint256 fastPassThreshold)

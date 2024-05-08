@@ -1,0 +1,1 @@
+VaultHandlerRemoved(address indexed _owner,address indexed _tokenHandler)

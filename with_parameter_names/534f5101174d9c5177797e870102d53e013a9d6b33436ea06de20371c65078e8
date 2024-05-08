@@ -1,0 +1,1 @@
+EarningBipsForReferrersChanged(address[] indexed referrers,uint256 newEraningBips)

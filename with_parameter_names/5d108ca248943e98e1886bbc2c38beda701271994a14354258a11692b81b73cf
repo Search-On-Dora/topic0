@@ -1,0 +1,1 @@
+TokenChanged(address _token);TokenChanged(address indexed _token)

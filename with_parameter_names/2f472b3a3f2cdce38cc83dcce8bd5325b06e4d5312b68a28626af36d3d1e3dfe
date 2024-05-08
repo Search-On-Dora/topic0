@@ -1,0 +1,1 @@
+DisputeResolverUpdateApplied(uint256 indexed disputeResolverId,tuple disputeResolver,tuple pendingDisputeResolver,address indexed executedBy)

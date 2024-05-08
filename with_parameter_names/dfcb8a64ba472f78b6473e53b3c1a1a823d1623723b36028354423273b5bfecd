@@ -1,0 +1,1 @@
+ChallengeFundsMoved(uint256 challengeId,address[] winners,uint256[] winnersProfit,address[] losers,uint256[] losersLoss)

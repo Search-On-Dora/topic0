@@ -1,0 +1,1 @@
+DepositMoverDeployed(address proxyAddr,address executorAddr,address massDepositMover)

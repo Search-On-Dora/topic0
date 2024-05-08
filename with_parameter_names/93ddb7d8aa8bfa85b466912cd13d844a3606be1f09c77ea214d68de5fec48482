@@ -1,0 +1,1 @@
+SetupComplete(address indexed moloch,address shaman,address[] extraShamans,address[] summoners,uint256[] summonerShares,uint256[] summonerLoot)

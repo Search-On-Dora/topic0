@@ -1,0 +1,1 @@
+CollateralStatusChanged(uint8 indexed oldStatus,uint8 indexed newStatus)

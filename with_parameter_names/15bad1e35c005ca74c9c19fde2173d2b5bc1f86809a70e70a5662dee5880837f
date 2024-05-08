@@ -1,0 +1,1 @@
+UpdatedBowlStatus(uint256 bowlId,bool bowlStatus,address updatedBy)

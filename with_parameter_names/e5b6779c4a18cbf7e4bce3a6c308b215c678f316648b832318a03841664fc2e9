@@ -1,0 +1,1 @@
+Add(uint256 indexed allocPoint,address indexed lpToken,uint256 withdrawFeeBP)

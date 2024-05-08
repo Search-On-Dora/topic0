@@ -1,0 +1,1 @@
+BalanceUpdated(address indexed token,address indexed user,uint256 balance,uint256 totalSupply)

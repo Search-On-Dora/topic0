@@ -1,0 +1,1 @@
+CyberBoxRandomNFTMinted(uint256 token_id,string token_uri,address nftAddress,address boxAddress,address collectionAddress)

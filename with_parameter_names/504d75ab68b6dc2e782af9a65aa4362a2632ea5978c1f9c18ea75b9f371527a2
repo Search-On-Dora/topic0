@@ -1,0 +1,1 @@
+NewTicket(uint128 currentDraw,uint256 ticketId,uint128 drawId,address indexed user,uint120 combination,address indexed frontend,address indexed referrer)

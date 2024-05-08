@@ -1,0 +1,1 @@
+RedeemConsolidated(address indexed entity,uint256 amountBaseToken,uint256 amountAssets,uint256 fee)

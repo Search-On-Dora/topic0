@@ -1,0 +1,1 @@
+tournamentInit(bytes32 indexed tourneyid,uint256 entryPrice,address indexed organizer,address indexed payoutAddress,uint256 startTime,string details)

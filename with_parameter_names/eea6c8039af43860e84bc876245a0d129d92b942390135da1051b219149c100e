@@ -1,0 +1,1 @@
+BountyIssued(uint256 _bountyId,address _creator,address[] _issuers,address[] _approvers,string _data,uint256 _deadline,address _token,uint256 _tokenVersion)

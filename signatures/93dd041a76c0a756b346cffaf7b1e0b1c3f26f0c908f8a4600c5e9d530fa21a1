@@ -1,0 +1,1 @@
+SetTaxBeneficiary(uint8,address,uint24[3])

@@ -1,0 +1,1 @@
+PriceUpdated(uint256 newPrice);PriceUpdated(uint256 indexed price_)

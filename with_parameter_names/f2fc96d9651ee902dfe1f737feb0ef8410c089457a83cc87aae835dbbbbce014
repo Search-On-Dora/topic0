@@ -1,0 +1,1 @@
+RedemptionFee(address indexed _redemptionFeeAddress,uint256 _redemptionFee)

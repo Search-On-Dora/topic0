@@ -1,0 +1,1 @@
+ContractAllowStatusUpdate(address indexed contractAddress,bool isPermit)

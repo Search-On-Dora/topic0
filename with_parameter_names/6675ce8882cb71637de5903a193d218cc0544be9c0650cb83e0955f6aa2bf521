@@ -1,0 +1,1 @@
+InboxToggle(address indexed inbox,bool enabled)

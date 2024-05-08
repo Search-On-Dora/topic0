@@ -1,0 +1,1 @@
+UpdateStakeFees(uint256 indexed poolID,uint256 stakeFee,uint256 unStakeFee)

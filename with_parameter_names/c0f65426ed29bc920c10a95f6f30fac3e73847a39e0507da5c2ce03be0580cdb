@@ -1,0 +1,1 @@
+RandomMarketTokenBought(address nftAddress,uint256 tokenId,address fromAddress,address toAddress,uint256 total,uint256 value,uint256 fees)

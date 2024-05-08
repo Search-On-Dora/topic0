@@ -1,0 +1,1 @@
+PoolBeaconLogicUpdated(address indexed beaconProxy,address newBeaconLogic)

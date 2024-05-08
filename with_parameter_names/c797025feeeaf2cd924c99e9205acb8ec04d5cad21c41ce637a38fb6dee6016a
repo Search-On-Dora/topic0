@@ -1,0 +1,1 @@
+NewTransmission(uint32 indexed aggregatorRoundId,int192 answer,address transmitter,uint32 observationsTimestamp,int192[] observations,bytes observers,int192 juelsPerFeeCoin,bytes32 configDigest,uint40 epochAndRound)

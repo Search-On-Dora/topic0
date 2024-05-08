@@ -1,0 +1,1 @@
+ContractRegistrySet(address indexed contractRegistry);ContractRegistrySet(address contractRegistry)

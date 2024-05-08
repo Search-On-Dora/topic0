@@ -1,0 +1,1 @@
+DrawPaid(uint32 indexed drawId,uint256 totalPayout,address[] winners,uint256[] winningPicks,uint256[] payouts,uint64 indexed timestamp)

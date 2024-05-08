@@ -1,0 +1,1 @@
+Burn(uint256 burnAmount);Burn(uint256 indexed burnAmount)

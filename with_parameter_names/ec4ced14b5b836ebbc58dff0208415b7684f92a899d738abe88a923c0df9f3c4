@@ -1,0 +1,1 @@
+SetManagerFeeBPS(address indexed vault,uint16 managerFeeBPS)

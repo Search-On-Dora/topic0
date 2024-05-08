@@ -1,0 +1,1 @@
+stakerRewarded(address lighting,address staker,address rewardToken,uint256 rewardAmount)

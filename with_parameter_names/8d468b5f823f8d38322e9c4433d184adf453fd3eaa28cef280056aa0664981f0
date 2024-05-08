@@ -1,0 +1,1 @@
+newCoinInfo(string name,string symbol,uint256 price,uint256 supply,uint256 lastUpdateTimestamp)

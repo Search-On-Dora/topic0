@@ -1,0 +1,1 @@
+ERC20TokenCreated(address indexed erc20Token,uint256 indexed counter,string tokenName,string tokenSymbol)

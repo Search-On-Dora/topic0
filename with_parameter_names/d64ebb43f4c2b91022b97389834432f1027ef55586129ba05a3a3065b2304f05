@@ -1,0 +1,1 @@
+NewForgeAllocated(address indexed bidder,address indexed forger,uint128 indexed slotToForge,uint128 burnAmount,uint128 donationAmount,uint128 governanceAmount)

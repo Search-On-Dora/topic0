@@ -1,0 +1,1 @@
+BountyClaimed(address indexed claimant,address indexed collectionAddress,uint256 bountyIndex,uint256 tokenId,uint256 price)

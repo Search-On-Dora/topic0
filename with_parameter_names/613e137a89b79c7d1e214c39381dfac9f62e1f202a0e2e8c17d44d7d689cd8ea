@@ -1,0 +1,1 @@
+EventAdded(uint256 indexed eventId,address indexed minter,bytes32 indexed role)

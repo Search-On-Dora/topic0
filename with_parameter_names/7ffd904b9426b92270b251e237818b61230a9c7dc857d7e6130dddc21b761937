@@ -1,0 +1,1 @@
+QuestCreated(address indexed creator,address indexed contractAddress,string questId,string questType,address rewardToken,uint256 endTime,uint256 startTime,uint256 totalParticipants,uint256 rewardAmountOrTokenId)

@@ -1,0 +1,1 @@
+PairCreated(address indexed token0,address indexed token1,bool stable,address pair,uint256 )

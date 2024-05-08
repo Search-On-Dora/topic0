@@ -1,0 +1,1 @@
+CircleBridgeParamsSet(address circleBridge,address circleMinter,uint32 defaultDestinationCCTPDomain)

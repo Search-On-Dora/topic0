@@ -1,0 +1,1 @@
+feeDonated(uint256 indexed amountDonated,address indexed donator)

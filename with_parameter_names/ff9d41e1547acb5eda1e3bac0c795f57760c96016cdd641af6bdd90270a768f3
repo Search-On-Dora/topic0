@@ -1,0 +1,1 @@
+RoundEnded(uint256 indexed maxExpiryTimestamp,uint256 pricePerToken,uint256 totalQuoteAmountReserved,uint256 tokensBurnableForRound)

@@ -1,0 +1,1 @@
+AuctionBid(uint256 _index,address _bidder,uint256 amount)

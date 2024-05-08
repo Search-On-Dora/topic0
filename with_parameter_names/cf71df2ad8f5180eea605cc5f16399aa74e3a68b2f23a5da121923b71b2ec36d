@@ -1,0 +1,1 @@
+PoolAdded(uint256 indexed pid,address indexed token,uint256 startOfEmissions,uint256 endOfEmissions)

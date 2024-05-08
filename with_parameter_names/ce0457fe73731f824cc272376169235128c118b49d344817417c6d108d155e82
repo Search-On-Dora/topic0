@@ -1,0 +1,1 @@
+NewOwner(bytes32 indexed node,bytes32 indexed label,address owner)

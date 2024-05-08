@@ -1,0 +1,1 @@
+NewProposal(uint256 ID,address creator,string metadata,uint8 proposalType,uint256 amount,address asset,address oldAdmin,address recipient,uint8 status,uint256 snapshotID,uint256 timestamp)

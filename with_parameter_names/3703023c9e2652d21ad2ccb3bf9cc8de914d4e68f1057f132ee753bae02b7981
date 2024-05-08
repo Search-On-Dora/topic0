@@ -1,0 +1,1 @@
+FreeCollateral(bytes32 indexed collateralType,address sender,int256 collateralAmount)

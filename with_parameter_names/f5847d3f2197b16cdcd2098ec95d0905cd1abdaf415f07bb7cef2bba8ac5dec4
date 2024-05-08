@@ -1,0 +1,1 @@
+TokensRegistered(bytes32 indexed poolId,address[] tokens,address[] assetManagers)

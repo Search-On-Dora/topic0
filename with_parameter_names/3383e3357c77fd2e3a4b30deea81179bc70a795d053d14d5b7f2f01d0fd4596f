@@ -1,0 +1,1 @@
+LogTake(bytes32 id,bytes32 indexed pair,address indexed maker,address pay_gem,address buy_gem,address indexed taker,uint128 take_amt,uint128 give_amt,uint64 timestamp)

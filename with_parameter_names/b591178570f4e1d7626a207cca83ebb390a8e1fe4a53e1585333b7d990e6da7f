@@ -1,0 +1,1 @@
+WithdrawAdded(address indexed user,uint256 addedAmount,uint256 totalAmount)

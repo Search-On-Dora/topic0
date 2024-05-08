@@ -1,0 +1,1 @@
+OneTimeTipClaimed(bytes32 indexed _queryId,uint256 indexed _amount,address indexed _reporter)

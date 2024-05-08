@@ -1,0 +1,1 @@
+Deployed(address _addr);Deployed(address indexed token)

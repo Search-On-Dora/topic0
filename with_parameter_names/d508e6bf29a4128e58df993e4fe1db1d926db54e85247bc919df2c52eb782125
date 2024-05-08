@@ -1,0 +1,1 @@
+ApproveBurnStakes(address indexed user,address indexed project,uint256 indexed amount)

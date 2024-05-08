@@ -1,0 +1,1 @@
+GenesisStakeChanged(address indexed newGenesisStake,address indexed prevGenesisStake)

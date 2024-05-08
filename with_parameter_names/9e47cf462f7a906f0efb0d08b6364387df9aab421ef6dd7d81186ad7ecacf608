@@ -1,0 +1,1 @@
+CyberMarketTokenBidAccepted(address nftAddress,uint256 indexed tokenId,address indexed owner,address indexed bidder,uint256 total,uint256 value,uint256 fees)

@@ -1,0 +1,1 @@
+TierActiveProductLimitSet(uint8 indexed tier,uint256 indexed activeProductLimit)

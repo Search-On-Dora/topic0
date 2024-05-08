@@ -1,0 +1,1 @@
+FeeDivisorChanged(uint256 indexed previousFeeDivisor,uint256 indexed newFeeDivisor)

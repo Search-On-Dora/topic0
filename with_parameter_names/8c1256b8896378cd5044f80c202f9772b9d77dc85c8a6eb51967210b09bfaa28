@@ -1,0 +1,1 @@
+Recovered(address token,uint256 amount);Recovered(address indexed token,uint256 amount)

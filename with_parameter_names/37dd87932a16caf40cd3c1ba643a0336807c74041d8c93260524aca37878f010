@@ -1,0 +1,1 @@
+DefaultRoyaltyUpdate(address indexed sender,address newRecipient,uint256 newPercentage)

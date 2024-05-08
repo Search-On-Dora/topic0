@@ -1,0 +1,1 @@
+ContributedAllowedNFT(address indexed contributor,uint256 indexed amount,uint256 indexed tokensAmount,address collection,uint256 tokenId)

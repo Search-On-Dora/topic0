@@ -1,0 +1,1 @@
+BountyClaimed(uint256 indexed bountyId,address indexed claimer,bytes32 privateKey)

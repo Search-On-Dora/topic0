@@ -1,0 +1,1 @@
+CampaignWithdrawn(uint256 campaignId,address owner,uint256 amount)

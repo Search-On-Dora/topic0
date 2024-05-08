@@ -1,0 +1,1 @@
+NewSellOrder(uint64 indexed userId,uint96 buyAmount,uint96 sellAmount)

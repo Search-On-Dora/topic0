@@ -1,0 +1,1 @@
+UpdatedFeeCollector(address indexed previousFeeCollector,address indexed newFeeCollector)

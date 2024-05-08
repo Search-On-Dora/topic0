@@ -1,0 +1,1 @@
+ProductAvailabilityUpdated(uint256 indexed productId,uint256 indexed quantity)

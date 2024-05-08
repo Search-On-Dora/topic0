@@ -1,0 +1,1 @@
+NewBet(address,address,uint256,uint256,uint64,uint128,uint64,uint128[2])

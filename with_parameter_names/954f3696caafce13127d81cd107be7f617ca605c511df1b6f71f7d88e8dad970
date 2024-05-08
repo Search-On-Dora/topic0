@@ -1,0 +1,1 @@
+AuctionBid(address owner,address nftAddress,uint256 tokenId,address tokenPayment,address bidder,uint256 bidPrice)

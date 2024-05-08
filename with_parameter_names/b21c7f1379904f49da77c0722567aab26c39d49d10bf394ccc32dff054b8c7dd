@@ -1,0 +1,1 @@
+deletedProp(bytes32 indexed wagerid,bool isDeleted,uint256 numberOfWagers)

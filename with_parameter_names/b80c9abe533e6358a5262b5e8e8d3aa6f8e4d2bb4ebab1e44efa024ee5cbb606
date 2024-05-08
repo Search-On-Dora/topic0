@@ -1,0 +1,1 @@
+AmountAndUSD(address indexed user,uint256 amount,int256 usd)

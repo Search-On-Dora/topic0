@@ -1,0 +1,1 @@
+ReservesReduced(address admin,uint256 reduceAmount,uint256 newTotalReserves)

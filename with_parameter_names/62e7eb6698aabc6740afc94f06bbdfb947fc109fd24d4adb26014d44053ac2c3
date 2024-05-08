@@ -1,0 +1,1 @@
+PositionLiquidated(uint256 indexed id,address indexed account,address indexed liquidator,int256 size,uint256 price,uint256 fee)

@@ -1,0 +1,1 @@
+ReplacedProtectedModule(address _oldModule,address _newModule,address[] _newExtensions)

@@ -1,0 +1,1 @@
+StrategyAllocBPSUpdated(address indexed strategy,uint256 allocBPS)

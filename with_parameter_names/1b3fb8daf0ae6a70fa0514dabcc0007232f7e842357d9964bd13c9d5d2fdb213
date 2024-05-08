@@ -1,0 +1,1 @@
+CommunityAdded(uint256 pos,string community_name,address community_registry,uint32 community_id)

@@ -1,0 +1,1 @@
+PoolConnectionUpdated(address indexed token,address indexed pool,address indexed account,bool connected,bytes userData)

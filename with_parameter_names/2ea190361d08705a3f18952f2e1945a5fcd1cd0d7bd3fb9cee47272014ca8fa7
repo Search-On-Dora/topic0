@@ -1,0 +1,1 @@
+TokenUpgraded(address indexed ,uint8 redeemedTokenId,uint8 burntTokenId)

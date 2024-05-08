@@ -1,0 +1,1 @@
+ConditionResolved(uint256 indexed oracleConditionId,uint256 indexed conditionId,uint64 outcomeWin,uint8 state,uint256 amountForLp)

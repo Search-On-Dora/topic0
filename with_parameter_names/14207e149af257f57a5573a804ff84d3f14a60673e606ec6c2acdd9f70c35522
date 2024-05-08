@@ -1,0 +1,1 @@
+StakingRestrictionChanged(uint256 minStakingAmount,uint256 minRewardAmount)

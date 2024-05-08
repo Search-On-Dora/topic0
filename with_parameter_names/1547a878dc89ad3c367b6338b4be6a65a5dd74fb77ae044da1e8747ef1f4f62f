@@ -1,0 +1,1 @@
+AbsorbDebt(address indexed absorber,address indexed borrower,uint256 basePaidOut,uint256 usdValue)

@@ -1,0 +1,1 @@
+LandEnabled(address indexed user,address indexed token,uint256 amountLocked)

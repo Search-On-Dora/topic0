@@ -1,0 +1,1 @@
+NftQuantityDelisted(uint256 indexed tokenId,uint256 amount,address seller,address contractAddress)

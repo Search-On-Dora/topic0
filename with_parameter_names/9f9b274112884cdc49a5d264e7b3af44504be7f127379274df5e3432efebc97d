@@ -1,0 +1,1 @@
+TokenBidAccepted(string tokenId,address indexed owner,address indexed bidder,uint256 total)

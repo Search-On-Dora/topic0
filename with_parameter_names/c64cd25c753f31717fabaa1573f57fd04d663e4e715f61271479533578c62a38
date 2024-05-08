@@ -1,0 +1,1 @@
+CounterChanged(string eventType,int256 prevCounter,int256 newCounter,address indexed userAddress)

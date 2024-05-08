@@ -1,0 +1,1 @@
+WrappedAgTokenCreated(address wrappedAgToken,string name,string symbol,uint8 decimals,address agToken)

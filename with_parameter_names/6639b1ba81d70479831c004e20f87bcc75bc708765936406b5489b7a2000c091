@@ -1,0 +1,1 @@
+bitjOffered(uint256 indexed bitjIndex,uint256 minValue,address indexed toAddress)

@@ -1,0 +1,1 @@
+CollectionDeployed(address indexed deployer,address indexed contractAddress,uint8 contractType,string initialVersion)

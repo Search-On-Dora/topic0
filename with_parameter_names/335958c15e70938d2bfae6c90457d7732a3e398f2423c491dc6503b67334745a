@@ -1,0 +1,1 @@
+SpaceAdded(bytes32 spaceId,bytes32 facilityId,uint256 capacity,uint256 pricePerNightWei,bool active,string dataURI)

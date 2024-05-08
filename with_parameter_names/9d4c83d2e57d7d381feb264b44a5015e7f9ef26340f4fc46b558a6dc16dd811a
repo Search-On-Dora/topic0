@@ -1,0 +1,1 @@
+Dispatch(bytes32 indexed messageHash,uint256 indexed leafIndex,uint64 indexed destinationAndNonce,bytes32 committedRoot,bytes message)

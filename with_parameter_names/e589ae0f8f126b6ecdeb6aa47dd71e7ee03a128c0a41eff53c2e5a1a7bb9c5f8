@@ -1,0 +1,1 @@
+DepositedFlux(uint256 depositId,address indexed user,uint256 amount,uint256 timestamp)

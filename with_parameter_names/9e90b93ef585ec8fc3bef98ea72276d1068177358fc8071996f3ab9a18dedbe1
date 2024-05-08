@@ -1,0 +1,1 @@
+ClaimantsAdded(address[] indexed claimants,uint256[] indexed amounts)

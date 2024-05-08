@@ -1,0 +1,1 @@
+IssuanceDebtRatioEntry(address indexed account,uint256 debtRatio,uint256 debtEntryIndex,uint256 feePeriodStartingDebtIndex)

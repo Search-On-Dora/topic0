@@ -1,0 +1,1 @@
+OptionsSettled(uint256 indexed listingId,address indexed optionOwner,uint256 strike,uint256 priceAtExpiry,uint8 tradeType,uint256 amount)

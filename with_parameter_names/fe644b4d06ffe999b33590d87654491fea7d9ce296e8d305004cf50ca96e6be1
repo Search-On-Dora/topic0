@@ -1,0 +1,1 @@
+BasePurchased(address indexed caller,uint256 quoteSpent,uint256 amountPurchased)

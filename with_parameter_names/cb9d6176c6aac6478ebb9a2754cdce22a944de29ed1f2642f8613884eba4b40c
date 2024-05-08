@@ -1,0 +1,1 @@
+LogDelete(address keeper,uint256 id)

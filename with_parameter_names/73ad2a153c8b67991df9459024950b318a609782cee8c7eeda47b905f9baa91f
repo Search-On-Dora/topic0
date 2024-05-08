@@ -1,0 +1,1 @@
+AllowedRecipientChanged(address indexed _recipient,bool _allowed)

@@ -1,0 +1,1 @@
+CreatedLongShortPair(address indexed longShortPair,address indexed deployerAddress,address longToken,address shortToken)

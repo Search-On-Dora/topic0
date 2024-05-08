@@ -1,0 +1,1 @@
+Swapped(address indexed sender,address indexed receiver,address indexed srcToken,address dstToken,uint256 amount,uint256 result,uint256 srcAdditionBalance,uint256 dstRemovalBalance,address referral)

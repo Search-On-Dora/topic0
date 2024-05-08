@@ -1,0 +1,1 @@
+NftDelegationRegistryUpdate(address indexed sender,address indexed prevNftDelegationRegistry,address indexed newNftDelegationRegistry)

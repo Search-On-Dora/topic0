@@ -1,0 +1,1 @@
+LodgingFacilityActiveState(bytes32 facilityId,bool active)

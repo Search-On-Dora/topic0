@@ -1,0 +1,1 @@
+NewUsername(address user,string username,uint256 registeredAt)

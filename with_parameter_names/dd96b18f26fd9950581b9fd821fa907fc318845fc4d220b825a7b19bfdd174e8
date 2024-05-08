@@ -1,0 +1,1 @@
+ShortOtokenBurned(address indexed otoken,address indexed AccountOwner,address indexed from,uint256 vaultId,uint256 amount)

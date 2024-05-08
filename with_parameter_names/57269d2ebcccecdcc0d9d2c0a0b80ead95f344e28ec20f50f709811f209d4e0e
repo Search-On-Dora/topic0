@@ -1,0 +1,1 @@
+FlowUpdated(address indexed token,address indexed sender,address indexed receiver,int96 flowRate,int256 totalSenderFlowRate,int256 totalReceiverFlowRate,bytes userData)

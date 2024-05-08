@@ -1,0 +1,1 @@
+Deposited(address _user,uint256 _pid,uint256 _amount,bool _stake);Deposited(address indexed from,uint256 celoAmount,uint256 savingsAmount,bool direct)

@@ -1,0 +1,1 @@
+Bridged(address receiver,uint256 amount);Bridged(address indexed stable,uint256 stableBridged)

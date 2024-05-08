@@ -1,0 +1,1 @@
+ERC20Deposited(address indexed erc20token,uint256 amount,address indexed from)

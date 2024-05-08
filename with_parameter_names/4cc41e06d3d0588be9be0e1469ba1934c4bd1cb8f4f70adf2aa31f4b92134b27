@@ -1,0 +1,1 @@
+VrfCoordinatorSet(address vrfCoordinator);VrfCoordinatorSet(address indexed vrfCoordinator)

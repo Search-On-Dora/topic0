@@ -1,0 +1,1 @@
+CommunityTemplateUpdated(address indexed oldCommunityTemplate,address indexed newCommunityTemplate)

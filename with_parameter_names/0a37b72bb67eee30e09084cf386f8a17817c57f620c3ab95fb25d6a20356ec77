@@ -1,0 +1,1 @@
+BuyTokens(address indexed user,uint256 amount,uint256 newTotalSupply);BuyTokens(address buyer,uint256 amountOfETH,uint256 amountOfTokens)

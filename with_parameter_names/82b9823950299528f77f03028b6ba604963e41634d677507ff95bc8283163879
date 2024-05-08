@@ -1,0 +1,1 @@
+FundsRedeemedFromExternalPool(uint256 totalAmount,uint256 totalGamePrincipal,uint256 netTotalGamePrincipal,uint256 totalGameInterest,uint256 totalIncentiveAmount,uint256[] totalRewardAmounts)

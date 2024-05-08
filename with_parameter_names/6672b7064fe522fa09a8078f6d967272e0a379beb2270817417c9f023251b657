@@ -1,0 +1,1 @@
+MaxBeneficiariesUpdated(uint256 oldMaxBeneficiaries,uint256 newMaxBeneficiaries);MaxBeneficiariesUpdated(uint256 indexed oldMaxBeneficiaries,uint256 indexed newMaxBeneficiaries)

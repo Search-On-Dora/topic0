@@ -1,0 +1,1 @@
+SetSupportedOptionTypes(uint32 dstEid,uint8[] optionTypes)

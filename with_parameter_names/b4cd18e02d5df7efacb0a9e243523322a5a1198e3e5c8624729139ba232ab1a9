@@ -1,0 +1,1 @@
+FarmEntry(uint256 indexed keyId,uint256 indexed wiseLendingNFT,uint256 indexed leverage,uint256 amount,uint256 timestamp)

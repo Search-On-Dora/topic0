@@ -1,0 +1,1 @@
+CharacterSupplyUpdated(uint8 indexed character,uint256 amount)

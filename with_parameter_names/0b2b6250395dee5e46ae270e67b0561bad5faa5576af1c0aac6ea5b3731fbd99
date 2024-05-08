@@ -1,0 +1,1 @@
+RollupTokenAdded(address indexed token,uint96 minBuyIn,uint96 maxBuyIn)

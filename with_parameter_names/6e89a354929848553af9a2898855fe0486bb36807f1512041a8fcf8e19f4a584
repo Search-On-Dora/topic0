@@ -1,0 +1,1 @@
+NFTIssued(uint256 tokenId,address receiver,int96 flowRate)

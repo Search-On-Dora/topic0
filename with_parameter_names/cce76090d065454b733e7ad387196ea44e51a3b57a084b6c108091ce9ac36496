@@ -1,0 +1,1 @@
+SetPrimaryReceiver(bytes32 indexed _cType,address indexed _receiver)

@@ -1,0 +1,1 @@
+PerpsTracking(bytes32 indexed trackingCode,bytes32 baseAsset,bytes32 marketKey,int256 sizeDelta,uint256 fee)

@@ -1,0 +1,1 @@
+LogDepositLock(address indexed user,bool locked)

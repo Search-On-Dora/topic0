@@ -1,0 +1,1 @@
+MultisigFreezeVotingSetup(address indexed owner,address indexed parentGnosisSafe)

@@ -1,0 +1,1 @@
+LogProductSetState(uint256 productId,uint8 state)

@@ -1,0 +1,1 @@
+PendingTokensBridged(uint32 siblingChainSlug,address receiver,uint256 mintAmount,uint256 pendingAmount,bytes32 identifier)

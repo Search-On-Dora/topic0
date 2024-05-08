@@ -1,0 +1,1 @@
+EmergencyShutdown(uint256 timestamp,uint256 price,uint256 finalCollateral)

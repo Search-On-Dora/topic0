@@ -1,0 +1,1 @@
+OffchainStorageRootRemoved(address indexed account,bytes url,uint256 index)

@@ -1,0 +1,1 @@
+Registered(address indexed recipientId,bytes data,address sender)

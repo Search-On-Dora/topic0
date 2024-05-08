@@ -1,0 +1,1 @@
+SupplyIncreased(address indexed to,uint256 value)

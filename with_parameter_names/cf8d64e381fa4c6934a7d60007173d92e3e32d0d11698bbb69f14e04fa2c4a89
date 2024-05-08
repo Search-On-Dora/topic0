@@ -1,0 +1,1 @@
+StreamAllowed(address indexed lender,address indexed token,address indexed friend,uint256 amount)

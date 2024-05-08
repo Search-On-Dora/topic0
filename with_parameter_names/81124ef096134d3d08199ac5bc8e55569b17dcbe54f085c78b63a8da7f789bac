@@ -1,0 +1,1 @@
+BridgeFeeEarned(address indexed from,uint16 indexed dstChainId,uint256 amount)

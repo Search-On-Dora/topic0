@@ -1,0 +1,1 @@
+AddExistingRollup(uint32 indexed rollupID,uint64 forkID,address rollupAddress,uint64 chainID,uint8 rollupCompatibilityID,uint64 lastVerifiedBatchBeforeUpgrade)

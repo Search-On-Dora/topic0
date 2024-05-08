@@ -1,0 +1,1 @@
+SwapExecuted(address indexed sellToken,address indexed buyToken,uint256 sellAmount,uint256 buyAmount,uint256 indexed period)

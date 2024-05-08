@@ -1,0 +1,1 @@
+BillInitialized(tuple billTerms,uint256 lastDecay)

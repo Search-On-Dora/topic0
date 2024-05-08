@@ -1,0 +1,1 @@
+ClaimBatch(address indexed caller,address[] withdrawalAddresses)

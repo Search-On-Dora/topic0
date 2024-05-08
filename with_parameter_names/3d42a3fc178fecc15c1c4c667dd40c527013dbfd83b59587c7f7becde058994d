@@ -1,0 +1,1 @@
+MaxPremintedVouchersChanged(uint256 maxPremintedVouchers,address indexed executedBy)

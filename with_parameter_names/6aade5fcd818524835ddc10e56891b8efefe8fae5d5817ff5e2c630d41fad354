@@ -1,0 +1,1 @@
+SetCustomFeeRatio(address indexed creator,uint256 customFeeRatio)

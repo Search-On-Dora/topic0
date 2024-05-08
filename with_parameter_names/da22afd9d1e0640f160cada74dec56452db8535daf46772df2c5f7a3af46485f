@@ -1,0 +1,1 @@
+onSetAdditionalCollector(uint256 lockId,address additionalCollector)

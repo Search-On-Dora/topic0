@@ -1,0 +1,1 @@
+AssetPriceOracleUpdate(address indexed asset,address indexed priceOracle)

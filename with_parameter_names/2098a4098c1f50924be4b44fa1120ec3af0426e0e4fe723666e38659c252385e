@@ -1,0 +1,1 @@
+MaintainerUpdated(address maintainer,bool active);MaintainerUpdated(address indexed maintainer,bool active)

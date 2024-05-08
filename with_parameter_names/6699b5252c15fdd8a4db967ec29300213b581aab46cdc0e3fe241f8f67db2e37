@@ -1,0 +1,1 @@
+SubscriptionEdited(uint256 indexed subscriptionId,address editor,address payableToken,uint32 paymentPeriod,uint256 setupPrice,uint256 paymentPeriodPrice,bool isPaused,bool extendable)

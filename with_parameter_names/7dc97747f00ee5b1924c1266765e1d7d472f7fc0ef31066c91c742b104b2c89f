@@ -1,0 +1,1 @@
+DisputeOpened(uint32 requestId,uint32 indexed sessionId,uint32 schnorrSignatureId,address indexed user)

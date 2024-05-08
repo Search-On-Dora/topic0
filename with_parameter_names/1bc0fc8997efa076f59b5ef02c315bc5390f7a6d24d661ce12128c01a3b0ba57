@@ -1,0 +1,1 @@
+RatesUpdated(bytes32[] currencyKeys,uint256[] newRates)

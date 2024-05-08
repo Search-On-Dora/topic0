@@ -1,0 +1,1 @@
+SizesAtAmountChanged(uint256 _maxTxnAmount,uint256 _maxWalletSize,uint256 percent)

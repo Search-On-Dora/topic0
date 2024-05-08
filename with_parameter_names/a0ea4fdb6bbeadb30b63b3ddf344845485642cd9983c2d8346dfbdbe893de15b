@@ -1,0 +1,1 @@
+SetMaxTotal(uint256 newMaxTotal)

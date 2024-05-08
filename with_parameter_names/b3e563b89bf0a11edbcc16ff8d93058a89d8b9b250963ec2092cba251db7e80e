@@ -1,0 +1,1 @@
+SetPathPerCollateralOfframp(address asset,bytes path,bool doReset)

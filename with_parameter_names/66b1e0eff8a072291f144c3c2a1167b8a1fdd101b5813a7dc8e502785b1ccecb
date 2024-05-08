@@ -1,0 +1,1 @@
+burdDisabled(address indexed operator,string indexed tokenURI)

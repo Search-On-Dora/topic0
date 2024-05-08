@@ -1,0 +1,1 @@
+ImportSyncCommitteeRoot(uint256 indexed period,bytes32 indexed syncCommitteeRoot)

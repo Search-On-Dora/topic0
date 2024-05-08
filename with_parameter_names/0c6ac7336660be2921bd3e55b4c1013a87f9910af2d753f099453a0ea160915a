@@ -1,0 +1,1 @@
+CommunityImplementationUpdated(address indexed oldCommunityImplementation,address indexed newCommunityImplementation)

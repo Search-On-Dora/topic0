@@ -1,0 +1,1 @@
+DeBridgeTokenDeployed(address asset,string name,string symbol,uint8 decimals)

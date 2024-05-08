@@ -1,0 +1,1 @@
+MigrationExecuted(address indexed vaultProxy,address indexed prevFundDeployer,address indexed nextFundDeployer,address nextVaultAccessor,address nextVaultLib,uint256 executableTimestamp)

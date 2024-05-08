@@ -1,0 +1,1 @@
+ChangeMerkleRoot(address indexed factory,address indexed daoAddress,bytes32 newMerkleRoot)

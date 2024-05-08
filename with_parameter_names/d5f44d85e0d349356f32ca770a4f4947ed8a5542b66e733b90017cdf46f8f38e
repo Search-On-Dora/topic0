@@ -1,0 +1,1 @@
+UserCeloStaked(address indexed _address,address indexed _validatorGroup,uint256 indexed amount)

@@ -1,0 +1,1 @@
+NewTransferAdded(address indexed asset,uint256 lpUsdValue)

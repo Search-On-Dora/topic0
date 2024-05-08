@@ -1,0 +1,1 @@
+UpdateAssetBorrowCollateralFactor(address indexed cometProxy,address indexed asset,uint64 oldBorrowCF,uint64 newBorrowCF)

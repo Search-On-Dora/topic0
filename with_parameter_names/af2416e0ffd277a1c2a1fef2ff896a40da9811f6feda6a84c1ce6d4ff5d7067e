@@ -1,0 +1,1 @@
+PriceFeedUpdated(bytes32 ccy,uint256 decimals,address[] indexed priceFeeds)

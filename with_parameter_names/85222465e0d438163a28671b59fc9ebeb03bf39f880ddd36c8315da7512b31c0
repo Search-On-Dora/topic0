@@ -1,0 +1,1 @@
+BurnerRemoved(address indexed removedBurner,address indexed removedBy)

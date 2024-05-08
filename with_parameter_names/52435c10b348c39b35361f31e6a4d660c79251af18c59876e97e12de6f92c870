@@ -1,0 +1,1 @@
+FixedPriceSaleCreated(uint256 saleID,address seller,uint256 price,uint256 amount)

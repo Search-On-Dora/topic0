@@ -1,0 +1,1 @@
+LotteryDeployed(address token,tuple indexed drawSchedule,uint256 ticketPrice,uint8 indexed selectionSize,uint8 indexed selectionMax,uint256 expectedPayout,uint256[] fixedRewards)

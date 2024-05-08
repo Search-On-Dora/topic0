@@ -1,0 +1,1 @@
+OracleUpdated(address indexed newOracle);OracleUpdated(address newOracle)

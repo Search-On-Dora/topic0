@@ -1,0 +1,1 @@
+ProtocolFeeRecevied(address indexed user,uint256 indexed day,uint256 indexed amount)

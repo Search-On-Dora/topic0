@@ -1,0 +1,1 @@
+FeesClaimed(address account,uint256 sUSDAmount,uint256 snxRewards)

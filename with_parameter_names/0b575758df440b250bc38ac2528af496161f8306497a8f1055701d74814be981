@@ -1,0 +1,1 @@
+BridgeDeposit(address indexed sender,uint256 indexed targetChainId,address targetLockerAddress,address indexed targetAddress,uint256 amount)

@@ -1,0 +1,1 @@
+SetBridgeAddressProposalCreated(uint256 proposalId,address target,uint8 bridgeType,address bridgeAddr)

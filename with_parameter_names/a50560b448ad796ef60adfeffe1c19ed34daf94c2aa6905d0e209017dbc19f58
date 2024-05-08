@@ -1,0 +1,1 @@
+VaultProxyDeployed(address indexed fundDeployer,address indexed owner,address vaultProxy,address indexed vaultLib,address vaultAccessor,string fundName)

@@ -1,0 +1,1 @@
+WrapperMintFeeRateUpdated(address wrapper,int256 rate)

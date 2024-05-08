@@ -1,0 +1,1 @@
+RegisterUserKitEvent(string indexed kitID,string indexed userID)

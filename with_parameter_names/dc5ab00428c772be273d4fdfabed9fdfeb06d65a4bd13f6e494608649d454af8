@@ -1,0 +1,1 @@
+SetMaxPerWallet(address indexed sender,uint256 maxPerWallet)

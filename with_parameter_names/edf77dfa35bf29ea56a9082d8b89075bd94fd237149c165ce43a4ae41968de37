@@ -1,0 +1,1 @@
+AddressSetFeeExempt(address indexed feeExemptAddress)

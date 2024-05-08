@@ -1,0 +1,1 @@
+CreateDaoErc20(address indexed deployerAddress,address indexed proxy,string name,string symbol,uint256 distributionAmount,uint256 pricePerToken,uint256 minDeposit,uint256 maxDeposit,uint256 ownerFee,uint256 _days,uint256 quorum,uint256 threshold,address depositTokenAddress,address emitter,address gnosisAddress,bool isGovernanceActive,bool isTransferable,bool assetsStoredOnGnosis)

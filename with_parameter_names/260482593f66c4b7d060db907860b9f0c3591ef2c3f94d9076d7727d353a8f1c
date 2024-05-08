@@ -1,0 +1,1 @@
+DefineContracts(address indexed factory,address ERC20ImplementationAddress,address ERC721ImplementationAddress,address emitterImplementationAddress)

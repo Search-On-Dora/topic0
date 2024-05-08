@@ -1,0 +1,1 @@
+LogSetModule(address indexed vault,address module,bytes[] payloads)

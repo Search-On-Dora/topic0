@@ -1,0 +1,1 @@
+VaultSettled(address indexed accountOwner,address indexed oTokenAddress,address to,uint256 payout,uint256 vaultId,uint256 indexed vaultType)

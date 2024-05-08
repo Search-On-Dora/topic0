@@ -1,0 +1,1 @@
+LockupPenaltyPoolCreated(address indexed pool,uint256 version,address stakingToken,address rewardToken,address dividendToken,uint256 lockup,uint256 lockDuration,uint256 rewardPerBlock,uint256 depositFee,uint256 withdrawFee,address deployer)

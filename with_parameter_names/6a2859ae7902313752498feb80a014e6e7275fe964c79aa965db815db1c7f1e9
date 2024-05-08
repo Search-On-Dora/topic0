@@ -1,0 +1,1 @@
+DestroyedBlockedFunds(address indexed blacklistedUser,uint256 balance)

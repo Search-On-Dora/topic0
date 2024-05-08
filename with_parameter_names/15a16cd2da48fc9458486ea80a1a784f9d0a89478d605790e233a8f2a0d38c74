@@ -1,0 +1,1 @@
+StoreReferrerSet(address indexed store,address indexed referrer)

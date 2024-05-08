@@ -1,0 +1,1 @@
+ContractDeployed(address indexed deployedContract,bytes32 indexed deployId,bytes32 indexed subscriptionId,string deployName,address tokenAddress,uint256 tokenDecimals,bool allowAccumulate,address backofficeAddress,address tenantAdminAddress,address signer,address implementation)

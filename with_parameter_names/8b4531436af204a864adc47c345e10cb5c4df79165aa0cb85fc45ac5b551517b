@@ -1,0 +1,1 @@
+NewTreasuryAddress(address indexed treasury);NewTreasuryAddress(address treasuryAddress)

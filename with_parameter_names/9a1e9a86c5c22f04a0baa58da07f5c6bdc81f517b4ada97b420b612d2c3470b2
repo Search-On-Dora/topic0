@@ -1,0 +1,1 @@
+Vote(address insuranceOwner,address newBackupWallet,address validator)

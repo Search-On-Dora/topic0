@@ -1,0 +1,1 @@
+SetLpPool(address indexed pairAddress,bool isLp)

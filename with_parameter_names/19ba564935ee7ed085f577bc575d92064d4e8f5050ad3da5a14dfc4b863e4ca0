@@ -1,0 +1,1 @@
+StorageRequest(address indexed uploader,string cid,string config,uint256 fileCost,string fileName,uint256 fileSize,uint256 timestamp)

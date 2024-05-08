@@ -1,0 +1,1 @@
+DisputeResolved(uint256 indexed _disputeID,bool _ratified,bytes _judgement)

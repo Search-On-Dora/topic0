@@ -1,0 +1,1 @@
+SpaceshipsSold(uint256 indexed location,address indexed fleetOwner,uint256 numSpaceships)

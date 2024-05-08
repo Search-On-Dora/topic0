@@ -1,0 +1,1 @@
+InterestFetched(address indexed holder,address indexed token,uint256 timestamp,uint256 interest)

@@ -1,0 +1,1 @@
+SuperAdminTransferred(address indexed previousSuperAdmin,address indexed newSuperAdmin,address[] genArt721CoreAddressesToUpdate)

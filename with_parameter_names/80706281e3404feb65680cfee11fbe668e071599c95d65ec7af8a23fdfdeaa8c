@@ -1,0 +1,1 @@
+MonitoredSupplyChanged(address indexed fromAddress,address indexed toAddress,uint256 fromAmount,uint256 toAmount)

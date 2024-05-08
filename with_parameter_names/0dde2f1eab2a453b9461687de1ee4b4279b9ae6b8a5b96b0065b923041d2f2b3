@@ -1,0 +1,1 @@
+NewPollVote(uint256 pollID,address member,uint256 optionID,uint256 votesFor,uint256 amount)

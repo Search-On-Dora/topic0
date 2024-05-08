@@ -1,0 +1,1 @@
+ClaimFailed(address indexed user,address indexed lst,string reason)

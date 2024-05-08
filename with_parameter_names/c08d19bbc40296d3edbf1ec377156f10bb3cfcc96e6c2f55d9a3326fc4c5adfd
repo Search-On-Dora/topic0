@@ -1,0 +1,1 @@
+PaymentNote(address indexed receiver,address indexed token,uint256 indexed amount,bytes16 iv,bytes32 xCoord,bytes32 yCoord,bytes32 ctBuf0,bytes32 ctBuf1,bytes32 ctBuf2,bytes32 mac)

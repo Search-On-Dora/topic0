@@ -1,0 +1,1 @@
+LotteryNumberDrawn(uint256 indexed lotteryId,uint256 finalNumber,uint8 winnerCount,uint256 winTicketId1,uint256 winTicketId2,uint256 winTicketId3)

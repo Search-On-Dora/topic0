@@ -1,0 +1,1 @@
+SetPool(uint256 indexed pid,uint256 allocPoint)

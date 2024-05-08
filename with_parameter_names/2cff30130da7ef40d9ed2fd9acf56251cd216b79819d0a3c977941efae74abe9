@@ -1,0 +1,1 @@
+RewardMetadataUpdated(address indexed token,bytes32 merkleRoot,uint256 indexed updateCount)

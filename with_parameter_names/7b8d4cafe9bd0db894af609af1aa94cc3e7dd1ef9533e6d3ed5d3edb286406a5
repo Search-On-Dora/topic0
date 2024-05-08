@@ -1,0 +1,1 @@
+RevenueAdded(address indexed property,address[] users,uint256[] amounts,uint256 fromTime,uint256 toTime)

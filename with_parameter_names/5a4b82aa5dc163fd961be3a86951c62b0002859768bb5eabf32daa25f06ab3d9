@@ -1,0 +1,1 @@
+AssetStrategyUpdate(address indexed asset,address indexed strategy)

@@ -1,0 +1,1 @@
+RemoveParticipantRequested(uint32 requestId,uint32 indexed sessionId,address indexed participant,uint96 amount)

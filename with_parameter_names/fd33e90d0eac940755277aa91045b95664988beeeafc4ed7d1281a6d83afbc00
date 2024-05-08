@@ -1,0 +1,1 @@
+Log(address indexed producer,string message,uint256 indexed NumberOfBlocksCensored)

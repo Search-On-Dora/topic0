@@ -1,0 +1,1 @@
+GroupCreated(uint256 indexed groupId,uint256 indexed sellerId,tuple group,tuple condition,address indexed executedBy)

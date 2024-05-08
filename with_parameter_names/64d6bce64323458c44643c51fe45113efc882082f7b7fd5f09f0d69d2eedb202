@@ -1,0 +1,1 @@
+RequestTypeRegistered(bytes32 indexed typeHash,string typeStr)

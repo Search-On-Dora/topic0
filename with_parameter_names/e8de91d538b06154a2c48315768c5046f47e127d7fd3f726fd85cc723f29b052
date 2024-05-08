@@ -1,0 +1,1 @@
+ERC20Transferred(address indexed _token,address indexed _recipient,uint256 _amount)

@@ -1,0 +1,1 @@
+NewBotSubaccount(address indexed master,address indexed operator,uint256 botSubaccountIndex,address botSubaccountAddress)

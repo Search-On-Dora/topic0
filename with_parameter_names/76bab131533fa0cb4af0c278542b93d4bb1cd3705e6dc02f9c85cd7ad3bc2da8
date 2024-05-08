@@ -1,0 +1,1 @@
+AuthUserUpdated(address indexed user,bool value)

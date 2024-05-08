@@ -1,0 +1,1 @@
+RemoveWhitelistAddress(address indexed _daoAddress,address indexed _address)

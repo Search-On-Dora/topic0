@@ -1,0 +1,1 @@
+NewCommunity(uint256 ID,string metadata,uint8 governanceType,uint8 privacyType,address reputationTokenAddress,bool downvotesEnabled,address tokenAddress,uint256 tokenNetwork,uint256 minimumTokenBalance,bytes32 balancesMerkleRoot,uint256 timestamp)

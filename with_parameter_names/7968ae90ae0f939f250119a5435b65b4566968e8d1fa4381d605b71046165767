@@ -1,0 +1,1 @@
+SeasonCreated(uint256 indexed season,address[] nfts,uint256 startOfSale)

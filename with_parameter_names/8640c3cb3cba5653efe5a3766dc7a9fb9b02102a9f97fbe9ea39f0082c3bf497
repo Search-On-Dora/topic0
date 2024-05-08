@@ -1,0 +1,1 @@
+ContractMinted(address indexed _htlc,uint256 indexed _amount)

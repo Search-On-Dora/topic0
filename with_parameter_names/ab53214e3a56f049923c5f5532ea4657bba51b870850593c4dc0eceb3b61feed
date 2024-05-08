@@ -1,0 +1,1 @@
+SyncBatchRoot(uint256 batchNumber,bytes32 l2LogsRootHash,uint256 forwardEthAmount)

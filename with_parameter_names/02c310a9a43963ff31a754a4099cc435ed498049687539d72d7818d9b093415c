@@ -1,0 +1,1 @@
+Cancel(address indexed makerAddress,address indexed feeRecipientAddress,bytes makerAssetData,bytes takerAssetData,address senderAddress,bytes32 indexed orderHash)

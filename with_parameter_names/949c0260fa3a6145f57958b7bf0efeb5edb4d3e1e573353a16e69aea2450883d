@@ -1,0 +1,1 @@
+PauseRoleUpdated(address indexed addr,bool flag)

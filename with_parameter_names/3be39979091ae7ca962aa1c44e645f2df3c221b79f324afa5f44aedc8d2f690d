@@ -1,0 +1,1 @@
+PauseAction(bool supplyPaused,bool transferPaused,bool withdrawPaused,bool absorbPaused,bool buyPaused)

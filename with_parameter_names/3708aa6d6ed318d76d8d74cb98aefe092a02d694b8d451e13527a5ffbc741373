@@ -1,0 +1,1 @@
+InitializeLitexEvent(uint8 forgeL1L2BatchTimeout,uint256 feeAddToken,uint64 withdrawalDelay)

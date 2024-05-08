@@ -1,0 +1,1 @@
+ChannelTerminate(uint256 indexed channelId,uint256 spent,uint256 terminatedAt,bool terminateByIndexer)

@@ -1,0 +1,1 @@
+Init(bytes32 indexed _betid,uint256 indexed _playeridInitiated,uint256 _amount,uint256 _betterCount,address token)

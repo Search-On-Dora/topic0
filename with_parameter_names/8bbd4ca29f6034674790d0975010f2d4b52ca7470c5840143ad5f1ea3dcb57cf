@@ -1,0 +1,1 @@
+MintNft(address indexed _to,address indexed _daoAddress,string _tokenURI,uint256 _tokenId)

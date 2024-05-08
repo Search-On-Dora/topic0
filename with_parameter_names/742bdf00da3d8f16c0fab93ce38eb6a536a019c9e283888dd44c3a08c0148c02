@@ -1,0 +1,1 @@
+PrimitiveAdded(address indexed primitive,address aggregator,uint8 rateAsset,uint256 unit)

@@ -1,0 +1,1 @@
+USDDeposited(address indexed user,uint256 shares,uint256 amount,uint256 daiAmount)

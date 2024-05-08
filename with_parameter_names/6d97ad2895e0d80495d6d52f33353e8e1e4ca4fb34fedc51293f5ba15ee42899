@@ -1,0 +1,1 @@
+DebtTransferred(uint256 indexed _communityID,address indexed _project,address indexed _investor,address _to,uint256 _totalAmount)

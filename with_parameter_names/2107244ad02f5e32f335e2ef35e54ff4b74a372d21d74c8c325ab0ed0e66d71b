@@ -1,0 +1,1 @@
+LogOracleContractUpdated(uint256 oracleId,address prevContract,address nextContract)

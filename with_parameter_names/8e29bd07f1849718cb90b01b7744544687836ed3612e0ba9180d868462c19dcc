@@ -1,0 +1,1 @@
+SpaceshipsForSale(uint256 indexed location,address indexed owner,uint256 pricePerUnit,uint256 spaceshipsToKeep,uint256 spaceshipsToSell)

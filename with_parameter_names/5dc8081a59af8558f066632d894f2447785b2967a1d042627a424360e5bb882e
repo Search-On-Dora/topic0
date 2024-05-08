@@ -1,0 +1,1 @@
+TokenLockCreated(address indexed contractAddress,bytes32 indexed initHash,address indexed beneficiary,address token,uint256 managedAmount,uint256 startTime,uint256 endTime,uint256 periods,uint256 releaseStartTime,uint256 vestingCliffTime,uint8 revocable,bool canDelegate)

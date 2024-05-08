@@ -1,0 +1,1 @@
+MinterManagerSet(address indexed _oldMinterManager,address indexed _newMinterManager)

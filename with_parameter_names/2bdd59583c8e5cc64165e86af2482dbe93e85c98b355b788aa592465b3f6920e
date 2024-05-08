@@ -1,0 +1,1 @@
+Purchased(address indexed _buyer,uint256 _type,uint256 _quantity,uint256 _price);Purchased(address buyer,uint256 analogAmt,uint256 usdDeposited,uint256 ethDeposited)

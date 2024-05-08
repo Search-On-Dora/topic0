@@ -1,0 +1,1 @@
+AddLiquidity(address indexed wallet,uint256 amountTokens,uint256 amountDAI)

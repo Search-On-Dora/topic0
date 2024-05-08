@@ -1,0 +1,1 @@
+RewardClaimed(address indexed user,uint256 bal,uint256 aura,uint256 gem)

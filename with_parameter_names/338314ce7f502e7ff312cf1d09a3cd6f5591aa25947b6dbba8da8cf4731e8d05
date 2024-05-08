@@ -1,0 +1,1 @@
+EventAppCreated(bytes32 indexed creatorUsername,uint64 indexed appId)

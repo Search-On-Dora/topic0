@@ -1,0 +1,1 @@
+ProtocolFeePercentageCacheUpdated(uint256 indexed feeType,uint256 protocolFeePercentage)

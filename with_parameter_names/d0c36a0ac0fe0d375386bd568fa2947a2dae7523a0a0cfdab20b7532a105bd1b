@@ -1,0 +1,1 @@
+AssetProtectionRoleSet(address indexed oldAssetProtectionRole,address indexed newAssetProtectionRole)

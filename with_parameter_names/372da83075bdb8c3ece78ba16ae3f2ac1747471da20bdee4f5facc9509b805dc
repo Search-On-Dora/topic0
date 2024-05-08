@@ -1,0 +1,1 @@
+Publish(address indexed user,string title,string content,uint256 index)

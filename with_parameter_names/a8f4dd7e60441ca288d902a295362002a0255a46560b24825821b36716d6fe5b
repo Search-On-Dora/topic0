@@ -1,0 +1,1 @@
+RewardTokenRegistered(address indexed reward,uint256 startIndex)

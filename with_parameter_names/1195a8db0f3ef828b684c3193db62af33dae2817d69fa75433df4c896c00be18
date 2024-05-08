@@ -1,0 +1,1 @@
+SwapAndArbitrage(address indexed user,address indexed swapTokenIn,address indexed swapTokenOut,uint256 swapAmountIn,uint256 swapAmountOut,uint256 arbitrageProfit)

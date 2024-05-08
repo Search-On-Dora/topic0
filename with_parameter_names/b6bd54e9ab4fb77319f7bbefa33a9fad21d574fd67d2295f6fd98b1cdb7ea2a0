@@ -1,0 +1,1 @@
+RaritySeedRemoved(address caller,address indexed from,uint256 indexed id,uint256 indexed seed)

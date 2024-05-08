@@ -1,0 +1,1 @@
+NewBid(uint128 indexed slot,uint128 bidAmount,address indexed bidder)

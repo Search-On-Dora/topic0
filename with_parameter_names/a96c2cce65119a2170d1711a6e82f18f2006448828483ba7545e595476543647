@@ -1,0 +1,1 @@
+NewStaker(address indexed _staker,uint256 indexed _amount)

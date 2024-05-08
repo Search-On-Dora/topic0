@@ -1,0 +1,1 @@
+MoleculesCreated(uint256 indexed moleculesId,uint256 indexed ipnftId,address indexed tokenContract,address emitter,uint256 amount,string agreementCid,string name,string symbol)

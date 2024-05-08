@@ -1,0 +1,1 @@
+LpMiningRewardHarvest(address _user,uint256 _pid,uint256 _amount)

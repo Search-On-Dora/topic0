@@ -1,0 +1,1 @@
+BorrowAllowanceDelegated(address indexed fromUser,address indexed toUser,address asset,uint256 amount)

@@ -1,0 +1,1 @@
+NewBeer(address indexed from,uint256 timestamp,string message,string name)

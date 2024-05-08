@@ -1,0 +1,1 @@
+InvoiceReport(address projectAddr,uint256 energyDelta,uint256 paymentValue,uint256 rawPaymentValue)

@@ -1,0 +1,1 @@
+CertificationNFTMinted(address owner,uint256 tokenType,uint256 tokenId,uint256 year,uint256 month,uint256 price,uint256 c02)

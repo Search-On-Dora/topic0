@@ -1,0 +1,1 @@
+AggregateRootProposed(bytes32 indexed aggregateRoot,uint256 indexed rootTimestamp,uint256 indexed endOfDispute,uint32 domain)

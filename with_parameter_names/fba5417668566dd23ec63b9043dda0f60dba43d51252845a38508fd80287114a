@@ -1,0 +1,1 @@
+PositionClaimed(uint256 id,address trader,uint256 amountClaimed,uint256 principalRepaid,uint256 interestPaid,uint256 feeAmount)

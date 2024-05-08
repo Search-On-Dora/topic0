@@ -1,0 +1,1 @@
+MintGoldDustNFTMinted(uint256 indexed tokenId,string tokenURI,address owner,uint256 royalty,uint256 amount,bool isERC721,uint256 collectorMintId,bytes memoir)

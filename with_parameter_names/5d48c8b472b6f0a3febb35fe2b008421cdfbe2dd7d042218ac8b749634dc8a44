@@ -1,0 +1,1 @@
+RageQuit(address delegate,address token,bool notified,string reason)

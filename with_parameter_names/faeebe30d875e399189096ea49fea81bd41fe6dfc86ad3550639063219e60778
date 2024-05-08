@@ -1,0 +1,1 @@
+MinQuorumVotesBPSSet(uint16 oldMinQuorumVotesBPS,uint16 newMinQuorumVotesBPS)

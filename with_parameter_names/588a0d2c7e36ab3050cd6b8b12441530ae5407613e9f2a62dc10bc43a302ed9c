@@ -1,0 +1,1 @@
+BountyChanged(uint256 _bountyId,address _changer,address[] _issuers,address[] _approvers,string _data,uint256 _deadline)

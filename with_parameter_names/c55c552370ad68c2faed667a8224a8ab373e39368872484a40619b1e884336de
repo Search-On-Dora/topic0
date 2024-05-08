@@ -1,0 +1,1 @@
+ContributionsRefunded(uint256 _bountyId,address _issuer,uint256[] _contributionIds)

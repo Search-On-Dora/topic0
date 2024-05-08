@@ -1,0 +1,1 @@
+OfferRoyaltyInfoUpdated(uint256 indexed offerId,uint256 indexed sellerId,tuple royaltyInfo,address indexed executedBy)

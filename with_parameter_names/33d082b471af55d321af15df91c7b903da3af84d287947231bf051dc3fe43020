@@ -1,0 +1,1 @@
+NftPutOnSale(address indexed owner,address indexed nftAddress,uint256 tokenId,address indexed tokenPayment,uint256 price)

@@ -1,0 +1,1 @@
+UpdatedVotes(address indexed voter,uint256 newVotes)

@@ -1,0 +1,1 @@
+TroveUpdated(address indexed _borrower,uint256 _debt,uint256 _coll,uint256 stake,uint8 operation)

@@ -1,0 +1,1 @@
+Fee(address indexed partner,address indexed token,uint256 partnerFee,uint256 protocolFee)

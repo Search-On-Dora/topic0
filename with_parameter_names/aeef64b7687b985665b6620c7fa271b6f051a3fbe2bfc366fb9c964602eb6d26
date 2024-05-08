@@ -1,0 +1,1 @@
+BurnCompleted(bytes32 indexed id,bytes32 indexed crossChainID,address indexed to,uint256 amount,uint256 bridgingFee,address token)

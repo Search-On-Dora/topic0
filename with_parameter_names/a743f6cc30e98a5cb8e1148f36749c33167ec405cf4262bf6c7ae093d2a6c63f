@@ -1,0 +1,1 @@
+VotingConfigUpdated(uint8 indexed accessLevel,uint24 votingDuration,uint24 coolDownBeforeVotingStart,uint256 yesThreshold,uint256 yesNoDifferential,uint256 minPropositionPower)

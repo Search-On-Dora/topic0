@@ -1,0 +1,1 @@
+MakeTroublesomeCollection(address msgSender,address originalCollection,address troublesomeCollection,string name,string symbol)

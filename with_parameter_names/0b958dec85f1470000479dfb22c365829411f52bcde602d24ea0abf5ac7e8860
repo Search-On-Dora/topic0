@@ -1,0 +1,1 @@
+ManageRootUpdated(address indexed strategist,bytes32 oldRoot,bytes32 newRoot)

@@ -1,0 +1,1 @@
+CyberMarketTokenListed(address nftAddress,uint256 indexed tokenId,address indexed fromAddress,uint256 minValue)

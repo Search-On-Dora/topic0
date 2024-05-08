@@ -1,0 +1,1 @@
+CommunityMigrated(address[] managers,address indexed communityAddress,address indexed previousCommunityAddress)

@@ -1,0 +1,1 @@
+DisableRoute(address token,uint32 destinationDomain)

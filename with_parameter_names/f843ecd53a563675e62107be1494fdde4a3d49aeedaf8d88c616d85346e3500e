@@ -1,0 +1,1 @@
+OperatorRemovedFromQuorums(address operator,bytes32 operatorId,bytes quorumNumbers)

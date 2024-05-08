@@ -1,0 +1,1 @@
+ERC1155DummyClaim(uint96 indexed rewardId,uint96 indexed userId,address userAddress)

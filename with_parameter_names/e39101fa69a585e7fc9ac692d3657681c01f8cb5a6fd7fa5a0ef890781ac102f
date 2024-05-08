@@ -1,0 +1,1 @@
+RecordDeleted(string initiator,address indexed nominator,address indexed proxy,address indexed delivery,uint256 timestamp,uint256 provider)

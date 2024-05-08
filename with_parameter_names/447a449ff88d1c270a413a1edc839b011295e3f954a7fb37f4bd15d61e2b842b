@@ -1,0 +1,1 @@
+CancelMultipleOrders(address user,uint256[] orderNonces,uint64 timestamp)

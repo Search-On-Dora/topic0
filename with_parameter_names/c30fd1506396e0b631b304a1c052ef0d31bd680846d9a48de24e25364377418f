@@ -1,0 +1,1 @@
+PrepareCoinsForRedeeming(address indexed sender,uint256 coinBag)

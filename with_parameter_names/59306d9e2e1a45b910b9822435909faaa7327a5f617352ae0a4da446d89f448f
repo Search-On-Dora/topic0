@@ -1,0 +1,1 @@
+CanSetPriceEdited(address[] account,bool[] _canSetPrice)

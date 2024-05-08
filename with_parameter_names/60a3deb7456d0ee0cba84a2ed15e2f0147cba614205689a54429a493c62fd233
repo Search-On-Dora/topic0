@@ -1,0 +1,1 @@
+RewardRateChanged(address token,uint256 oldRewardRate,uint256 newRewardRate)

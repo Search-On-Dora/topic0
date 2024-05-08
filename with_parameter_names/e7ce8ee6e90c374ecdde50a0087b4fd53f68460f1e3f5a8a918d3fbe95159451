@@ -1,0 +1,1 @@
+SetVaultOwner(address indexed vault,address indexed oldOwner,address indexed newOwner)

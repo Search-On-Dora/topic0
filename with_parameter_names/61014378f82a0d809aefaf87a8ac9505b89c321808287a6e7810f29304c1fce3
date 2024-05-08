@@ -1,0 +1,1 @@
+UpdateGlobalExitRoot(bytes32 indexed mainnetExitRoot,bytes32 indexed rollupExitRoot)

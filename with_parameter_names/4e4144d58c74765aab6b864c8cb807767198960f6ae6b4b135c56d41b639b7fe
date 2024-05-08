@@ -1,0 +1,1 @@
+SetMaxSupply(uint256 previousMaxSupply,uint256 newMaxSupply)

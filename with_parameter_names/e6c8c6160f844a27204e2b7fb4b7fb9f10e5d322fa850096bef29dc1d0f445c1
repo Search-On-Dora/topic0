@@ -1,0 +1,1 @@
+ProjectCurrencyInfoUpdated(uint256 indexed _projectId,address indexed _currencyAddress,string _currencySymbol)

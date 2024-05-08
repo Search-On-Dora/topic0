@@ -1,0 +1,1 @@
+Swapped(address fromAsset,address toAsset,uint256 fromAmount,uint256 receivedAmount);Swapped(address indexed fromAsset,address indexed toAsset,uint256 fromAmount,uint256 receivedAmount)

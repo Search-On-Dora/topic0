@@ -1,0 +1,1 @@
+NewEntry(bytes32 indexed msg,address indexed signer)

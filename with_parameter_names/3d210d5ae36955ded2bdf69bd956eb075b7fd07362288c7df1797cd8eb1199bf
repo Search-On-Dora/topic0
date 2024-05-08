@@ -1,0 +1,1 @@
+WinnerSelected(uint256 indexed auctionID,address indexed bidder,uint256 unitPrice,uint256 quantity);WinnerSelected(uint256 indexed raffleId,address winnerAddress,uint256 ticketId,uint256 timestamp)

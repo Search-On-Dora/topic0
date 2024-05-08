@@ -1,0 +1,1 @@
+StakingConditionChanged(uint256 remainingRewards,uint64 programLastAccruedRewardsAt,uint64 programRewardsDepletionAt)

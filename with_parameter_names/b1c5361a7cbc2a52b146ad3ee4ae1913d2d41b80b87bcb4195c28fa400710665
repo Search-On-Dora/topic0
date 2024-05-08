@@ -1,0 +1,1 @@
+SubscriptionUpgraded(uint256 indexed fromSubscriptionId,uint256 indexed toSubscriptionId,address indexed user,address payableToken,uint32 paymentPeriod,uint256 paymentPeriodPrice,uint256 compensation,uint256 paidAmount,uint256 setupPrice,uint256 startedAt,uint256 expiresAt)

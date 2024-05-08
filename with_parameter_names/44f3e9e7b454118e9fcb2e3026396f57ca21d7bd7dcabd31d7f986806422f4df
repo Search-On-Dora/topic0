@@ -1,0 +1,1 @@
+FullPauserUpdated(address indexed oldFullPauser,address indexed newFullPauser)

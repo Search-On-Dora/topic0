@@ -1,0 +1,1 @@
+AdminStoreDurationIncreased(address indexed store,uint256 indexed intervals)

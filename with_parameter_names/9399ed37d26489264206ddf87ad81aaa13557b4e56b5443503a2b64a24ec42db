@@ -1,0 +1,1 @@
+ProtocolFeeCollected(uint256 indexed exchangeId,address indexed exchangeToken,uint256 amount,address indexed executedBy)

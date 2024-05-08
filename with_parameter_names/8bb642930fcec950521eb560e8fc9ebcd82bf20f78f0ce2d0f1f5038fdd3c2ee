@@ -1,0 +1,1 @@
+TokenPriceLimitMinSet(address indexed token,uint256 price)

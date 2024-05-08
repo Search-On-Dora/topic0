@@ -1,0 +1,1 @@
+WalletDeployed(address indexed safe,address indexed owner,address indexed guard,address delegationOwner,address protocolOwner,address sender)

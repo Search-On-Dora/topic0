@@ -1,0 +1,1 @@
+NFTListed(address nftContract,uint256 tokenId,address seller,address owner,uint256 price)

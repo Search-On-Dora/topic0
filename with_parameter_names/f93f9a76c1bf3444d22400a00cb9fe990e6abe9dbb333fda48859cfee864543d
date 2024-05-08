@@ -1,0 +1,1 @@
+WhitelistUpdated(address indexed addr,bool whitelisted);WhitelistUpdated(address indexed _user,bool indexed _isActive);WhitelistUpdated(address user,bool status)

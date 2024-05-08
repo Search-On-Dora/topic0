@@ -1,0 +1,1 @@
+BidPlaced(uint256 indexed auctionID,address indexed bidder,uint256 bidIndex,uint256 unitPrice,uint256 quantity)

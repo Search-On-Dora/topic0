@@ -1,0 +1,1 @@
+AccountMerged(address indexed accountToMerge,address destinationAddress,uint256 escrowAmountMerged,uint256[] entryIDs,uint256 time)

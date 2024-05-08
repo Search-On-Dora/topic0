@@ -1,0 +1,1 @@
+FlowOperatorUpdated(address indexed token,address indexed sender,address indexed flowOperator,uint8 permissions,int96 flowRateAllowance)

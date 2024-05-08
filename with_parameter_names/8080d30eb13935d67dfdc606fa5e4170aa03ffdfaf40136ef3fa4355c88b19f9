@@ -1,0 +1,1 @@
+FundsEncumbered(uint256 indexed entityId,address indexed exchangeToken,uint256 amount,address indexed executedBy)

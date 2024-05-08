@@ -1,0 +1,1 @@
+AdminUpdated(address user,bool isAdmin);AdminUpdated(address indexed signer,bool isAdmin)

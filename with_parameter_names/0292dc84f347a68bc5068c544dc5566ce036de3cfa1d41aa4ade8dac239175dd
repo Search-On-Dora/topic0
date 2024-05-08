@@ -1,0 +1,1 @@
+StakeToGno(uint256 stakeAmount,uint256 gnoAmount,address indexed grantee)

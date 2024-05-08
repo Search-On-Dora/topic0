@@ -1,0 +1,1 @@
+AdventurerClaimed(address indexed account,bytes32 indexed profileId,uint8 character)

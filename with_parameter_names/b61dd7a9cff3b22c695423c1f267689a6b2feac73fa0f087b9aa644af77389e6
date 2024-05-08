@@ -1,0 +1,1 @@
+SetNewParams(uint256 limitOfParticipants,uint256 betAmount,address betTokenAddress)

@@ -1,0 +1,1 @@
+VoterUpdateProposalCreated(uint256 proposalId,address[] voters,uint256[] powers)

@@ -1,0 +1,1 @@
+TransferSAFECollateralAndDebt(bytes32 indexed _cType,address indexed _src,address indexed _dst,int256 _deltaCollateral,int256 _deltaDebt)

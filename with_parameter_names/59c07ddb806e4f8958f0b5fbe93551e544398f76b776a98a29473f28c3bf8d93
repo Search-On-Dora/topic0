@@ -1,0 +1,1 @@
+AuctionNFTCanceled(address indexed contractNFT,uint256 tokenId,uint256 price,uint256 deadline,bool isERC1155,address seller)

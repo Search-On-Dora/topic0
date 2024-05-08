@@ -1,0 +1,1 @@
+RoomConfigured(string name,uint256 maxRoomQty,uint256 maxWalletQty,uint256 price)

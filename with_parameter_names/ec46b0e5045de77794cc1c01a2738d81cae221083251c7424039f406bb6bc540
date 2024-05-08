@@ -1,0 +1,1 @@
+StoreCreated(address indexed store,bytes32 indexed domain,string storeNameAscii)

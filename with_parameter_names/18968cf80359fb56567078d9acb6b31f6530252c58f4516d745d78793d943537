@@ -1,0 +1,1 @@
+RandomnessRequested(uint32 indexed drawId,uint32 indexed requestId,uint32 indexed lockBlock,uint32 numbersCount)

@@ -1,0 +1,1 @@
+LiquidityAdded(address indexed tokenA,address indexed tokenB,uint256 addedAmountA,uint256 addedAmountB,uint256 addedLiquidity)

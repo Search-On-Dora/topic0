@@ -1,0 +1,1 @@
+AttributeRemoved(uint256 indexed tokenId,string key,uint256 totalAfter)

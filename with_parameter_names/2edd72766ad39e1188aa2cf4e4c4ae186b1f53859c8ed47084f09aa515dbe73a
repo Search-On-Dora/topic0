@@ -1,0 +1,1 @@
+AdminChanged(uint256 indexed tokenId,address admin)

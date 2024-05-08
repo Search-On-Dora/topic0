@@ -1,0 +1,1 @@
+RemoveFactory(bytes32 indexed factoryType,uint8 indexed version,address indexed factory)

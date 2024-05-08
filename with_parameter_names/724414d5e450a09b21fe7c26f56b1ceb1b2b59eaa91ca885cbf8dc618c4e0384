@@ -1,0 +1,1 @@
+NFTDeposited(address indexed depositor,address indexed nftAddress,uint256 tokenId,uint256 sentenceDuration)

@@ -1,0 +1,1 @@
+InversePriceFrozen(bytes32 currencyKey,uint256 rate,uint256 roundId,address initiator)

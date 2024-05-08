@@ -1,0 +1,1 @@
+TokenDelisted(string tokenId,address indexed fromAddress)

@@ -1,0 +1,1 @@
+BlankSwapped(address indexed sender,address from,address to,bytes1 interval)

@@ -1,0 +1,1 @@
+AgreementLiquidatedBy(address liquidatorAccount,address indexed agreementClass,bytes32 id,address indexed penaltyAccount,address indexed bondAccount,uint256 rewardAmount,uint256 bailoutAmount)

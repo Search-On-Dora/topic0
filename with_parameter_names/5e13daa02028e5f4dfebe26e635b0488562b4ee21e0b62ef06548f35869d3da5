@@ -1,0 +1,1 @@
+NftMinted(address nftAddress,uint256 initialTokenId,uint256 finalTokenId,address owner,string uri)

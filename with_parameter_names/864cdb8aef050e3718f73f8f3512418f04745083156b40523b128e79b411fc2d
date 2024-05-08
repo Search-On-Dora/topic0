@@ -1,0 +1,1 @@
+SetStoreFrontPriceFactor(address indexed cometProxy,uint64 oldStoreFrontPriceFactor,uint64 newStoreFrontPriceFactor)

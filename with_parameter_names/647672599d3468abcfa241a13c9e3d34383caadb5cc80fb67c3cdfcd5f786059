@@ -1,0 +1,1 @@
+FeeReceiverChanged(address newFeeReceiver);FeeReceiverChanged(address indexed newFeeReceiver)

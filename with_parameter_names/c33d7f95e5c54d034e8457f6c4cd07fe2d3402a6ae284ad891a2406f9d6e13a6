@@ -1,0 +1,1 @@
+StakePercentage(uint8 indexed percentage,address indexed changedBy)

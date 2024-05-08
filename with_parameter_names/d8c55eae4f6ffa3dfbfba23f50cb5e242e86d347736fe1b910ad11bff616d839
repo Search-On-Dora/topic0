@@ -1,0 +1,1 @@
+LootBoxOpened(uint256 indexed optionId,address indexed buyer,uint256 boxesPurchased,uint256 itemsMinted)

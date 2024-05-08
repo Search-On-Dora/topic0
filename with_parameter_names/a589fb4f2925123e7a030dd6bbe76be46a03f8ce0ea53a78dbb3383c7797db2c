@@ -1,0 +1,1 @@
+BeneficiaryUnlocked(address indexed manager,address indexed beneficiary)

@@ -1,0 +1,1 @@
+Cancelled(bytes32 tradeHash,uint128 relayerGasSpent)

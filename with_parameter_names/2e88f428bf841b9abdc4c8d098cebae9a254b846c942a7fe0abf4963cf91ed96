@@ -1,0 +1,1 @@
+CollectionStory(address indexed creatorAddress,string creatorName,string story)

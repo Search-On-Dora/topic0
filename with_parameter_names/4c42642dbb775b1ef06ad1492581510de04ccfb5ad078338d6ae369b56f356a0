@@ -1,0 +1,1 @@
+ResetSignersProposalCreated(uint256 proposalId,address target,address[] signers,uint256[] powers)

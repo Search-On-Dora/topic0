@@ -1,0 +1,1 @@
+SkewAdjustmentFactorSet(address indexed _contractAddress,uint256 _skewAdjustmentFactor)

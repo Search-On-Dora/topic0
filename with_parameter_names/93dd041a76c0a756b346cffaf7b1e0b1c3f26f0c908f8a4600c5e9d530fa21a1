@@ -1,0 +1,1 @@
+SetTaxBeneficiary(uint8 slot,address account,uint24[3] percent)

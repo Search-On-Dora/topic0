@@ -1,0 +1,1 @@
+SetL2TokenBridge(address indexed l2Token,address indexed tokenBridge)

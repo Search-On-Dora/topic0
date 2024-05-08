@@ -1,0 +1,1 @@
+VoucherBeaconAddressChanged(address indexed voucherBeaconAddress,address indexed executedBy)

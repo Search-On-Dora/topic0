@@ -1,0 +1,1 @@
+CrossDomainMessageGasLimitChanged(uint8 gasLimitType,uint256 newLimit)

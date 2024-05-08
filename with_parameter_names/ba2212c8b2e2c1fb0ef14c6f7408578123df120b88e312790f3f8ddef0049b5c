@@ -1,0 +1,1 @@
+ProposalFailed(uint256 ID,bool quorumReached,bool proposalPassed,uint256 timestamp)

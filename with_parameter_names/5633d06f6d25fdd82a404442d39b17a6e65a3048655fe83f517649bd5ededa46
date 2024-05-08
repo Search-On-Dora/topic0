@@ -1,0 +1,1 @@
+AddedBatch(address indexed batcher,uint256 nonce,bytes32 batch,bytes ipfsData)

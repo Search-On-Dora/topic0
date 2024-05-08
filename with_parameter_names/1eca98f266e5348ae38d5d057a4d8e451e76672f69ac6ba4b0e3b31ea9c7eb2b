@@ -1,0 +1,1 @@
+MarketLiquidity(uint256 indexed marketId,uint256 value,uint256 price,uint256 timestamp)

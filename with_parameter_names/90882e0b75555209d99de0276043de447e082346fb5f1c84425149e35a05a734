@@ -1,0 +1,1 @@
+OnWhiteListEnabled(uint256 indexed positionId,bool enabled)
