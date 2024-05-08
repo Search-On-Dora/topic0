@@ -1,0 +1,1 @@
+FunctionDisabled(string indexed name,bytes4 indexed functionSelector,tuple extMetadata)

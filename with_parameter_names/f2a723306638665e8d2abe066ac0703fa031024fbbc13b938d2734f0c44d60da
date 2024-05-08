@@ -1,0 +1,1 @@
+FeeRecipientClosed(address indexed feeRecipient)

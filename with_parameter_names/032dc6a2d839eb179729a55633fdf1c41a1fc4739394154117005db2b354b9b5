@@ -1,1 +1,1 @@
-SetFee(uint256 indexed oldFee,uint256 indexed newFee)
+SetFee(uint256 oldValue,uint256 newValue);SetFee(uint256 indexed oldFee,uint256 indexed newFee)

@@ -1,0 +1,1 @@
+VeArcMinted(address indexed account,uint256 fromTokenId,uint256 toTokenId,uint256 amount,uint256 fromLockEnd,uint256 toLockEnd)

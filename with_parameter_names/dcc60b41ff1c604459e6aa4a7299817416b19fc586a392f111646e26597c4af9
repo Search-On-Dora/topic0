@@ -1,0 +1,1 @@
+BulkWithdraw(address indexed asset,uint256 shareAmount)

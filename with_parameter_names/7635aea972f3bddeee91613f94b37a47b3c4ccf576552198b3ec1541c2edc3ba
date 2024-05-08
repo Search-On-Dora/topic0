@@ -1,0 +1,1 @@
+UpdateStatus(bool isKilled,uint256 timestamp)

@@ -1,0 +1,1 @@
+SetTransmitterStatus(address indexed transmitter,bool status)

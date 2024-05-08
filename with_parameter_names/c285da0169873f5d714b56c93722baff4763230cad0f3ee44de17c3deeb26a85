@@ -1,1 +1,1 @@
-LogStake(uint256 amt,uint256 getId,uint256 setId)
+LogStake(uint256 nodeId,uint256 amount,uint256 staked)

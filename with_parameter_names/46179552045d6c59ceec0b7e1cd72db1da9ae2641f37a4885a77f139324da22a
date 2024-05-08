@@ -1,0 +1,1 @@
+NewPost(uint256 ID,address creator,uint256 communityID,string metadata,uint256 parentPostID,bool archived,uint256 timestamp)

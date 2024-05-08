@@ -1,1 +1,1 @@
-SetTaxFeePercent(uint256 taxFee)
+SetTaxFeePercent(uint256 amount)

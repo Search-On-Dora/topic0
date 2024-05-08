@@ -1,0 +1,1 @@
+LogVoter(uint256 indexed blockId,address indexed voter,uint256 vote)

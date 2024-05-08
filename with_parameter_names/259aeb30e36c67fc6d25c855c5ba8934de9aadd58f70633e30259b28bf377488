@@ -1,0 +1,1 @@
+UpdateFeeReceiveAddress(address indexed oldAddress,address indexed newAddress)

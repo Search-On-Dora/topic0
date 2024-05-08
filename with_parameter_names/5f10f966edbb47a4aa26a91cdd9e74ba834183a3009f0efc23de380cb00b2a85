@@ -1,0 +1,1 @@
+NewProposalVote(address member,uint256 _proposalId,bool _vote,uint256 _balance)

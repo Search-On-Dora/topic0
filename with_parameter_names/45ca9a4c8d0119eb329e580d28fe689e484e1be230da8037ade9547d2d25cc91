@@ -1,0 +1,1 @@
+VoteForGauge(uint256 time,address indexed user,address indexed gauge,uint256 weight)

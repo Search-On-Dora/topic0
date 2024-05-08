@@ -1,0 +1,1 @@
+OPNMigrationComplete(address indexed user,uint256 amountGET,uint256 amountXGET,uint256 amountOPNToUserForGETMigration,uint256 amountXOPNToUserForGETMigration,uint256 amountXOPNToUserForXGETMigration,uint256 amountOPNStakedForGETMigration,uint256 amountGETRedeemedByXGET,uint256 amountOPNMintedForXGETMigration)

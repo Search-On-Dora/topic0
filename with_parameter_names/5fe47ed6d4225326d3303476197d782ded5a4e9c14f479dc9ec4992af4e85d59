@@ -1,0 +1,1 @@
+Deposit(address indexed sender,address indexed walletAddress,address indexed token,uint256 amountAfterFees,uint256 feeTaken)

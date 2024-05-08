@@ -1,0 +1,1 @@
+MinResolutionPeriodChanged(uint256 minResolutionPeriod,address indexed executedBy)

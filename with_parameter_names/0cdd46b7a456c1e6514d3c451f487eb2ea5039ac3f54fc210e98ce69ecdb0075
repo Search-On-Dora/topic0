@@ -1,0 +1,1 @@
+SpaceUpdated(bytes32 spaceId,uint256 capacity,uint256 pricePerNightWei,string dataURI)

@@ -1,1 +1,1 @@
-RelayerThresholdChanged(uint256 indexed newThreshold)
+RelayerThresholdChanged(uint256 indexed newThreshold);RelayerThresholdChanged(uint256 newThreshold)

@@ -1,1 +1,1 @@
-Withdrawal(address indexed user,uint256 nAmount,uint256 arAmount,uint256 timestamp)
+Withdrawal(address indexed player,uint256 amount,uint256 playerReward,uint256 playerIncentive)

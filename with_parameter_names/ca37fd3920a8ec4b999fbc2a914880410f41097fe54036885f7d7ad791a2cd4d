@@ -1,0 +1,1 @@
+MultipleSCInvited(address indexed _project,uint256[] _taskList,address[] _scList)

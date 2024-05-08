@@ -1,1 +1,1 @@
-RouterUpdated(address prevRouter,address newRouter)
+RouterUpdated(address indexed by,address indexed routerAddress);RouterUpdated(address prevRouter,address newRouter)

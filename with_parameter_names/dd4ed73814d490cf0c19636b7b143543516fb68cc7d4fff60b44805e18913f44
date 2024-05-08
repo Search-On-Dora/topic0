@@ -1,0 +1,1 @@
+setSoulboundKeyAmount(address operator,address keyHolder,uint256 keyId,uint256 amount)

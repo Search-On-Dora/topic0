@@ -1,0 +1,1 @@
+PoolChanged(uint16 indexed pid,uint128 rewardRate,uint16 lockPeriodInDays,uint32 endDate,uint256 hardCap)

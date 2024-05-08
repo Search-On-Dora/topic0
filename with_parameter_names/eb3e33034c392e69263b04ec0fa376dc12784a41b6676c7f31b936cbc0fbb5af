@@ -1,0 +1,1 @@
+RemovedSharedMember(uint256 indexed roleId,address indexed oldMember,address indexed manager)

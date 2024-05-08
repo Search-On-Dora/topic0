@@ -1,0 +1,1 @@
+Locked(uint256 tokenId,address wallet,uint256 season,uint128 lockupExpires)

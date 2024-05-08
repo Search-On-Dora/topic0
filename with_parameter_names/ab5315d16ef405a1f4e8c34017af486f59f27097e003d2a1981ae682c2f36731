@@ -1,1 +1,1 @@
-WithdrawSuccess(bytes32 id,address token_address,uint256 withdraw_balance)
+WithdrawSuccess(bytes32 id,address token_address,uint256 withdraw_balance);WithdrawSuccess(bytes32 indexed id,address indexed token_address,uint256 withdraw_balance)

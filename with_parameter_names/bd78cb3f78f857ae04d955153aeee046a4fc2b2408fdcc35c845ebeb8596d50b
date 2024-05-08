@@ -1,0 +1,1 @@
+MapChange(uint256 indexed mapToken1,uint256 indexed mapToken2,uint256 indexed token2)

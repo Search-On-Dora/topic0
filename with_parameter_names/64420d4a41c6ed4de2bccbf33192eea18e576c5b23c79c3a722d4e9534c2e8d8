@@ -1,0 +1,1 @@
+NewOwnerProposed(address indexed oldOwner,address indexed oldProposedOwner,address indexed newProposedOwner)

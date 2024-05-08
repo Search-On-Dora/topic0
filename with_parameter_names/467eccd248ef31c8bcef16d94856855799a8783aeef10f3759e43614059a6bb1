@@ -1,0 +1,1 @@
+IndexDistributionClaimed(address indexed token,address indexed publisher,uint32 indexed indexId,address subscriber,uint256 amount)

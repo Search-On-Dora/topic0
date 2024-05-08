@@ -1,0 +1,1 @@
+TemplateLaunched(address indexed template,uint256 templateId,address templateDeployer,string metadataContentHash)

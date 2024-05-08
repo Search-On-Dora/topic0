@@ -1,1 +1,1 @@
-Withdrawn(uint256 reqID)
+Withdrawn(uint256 reqID);Withdrawn(uint256 indexed poolId)

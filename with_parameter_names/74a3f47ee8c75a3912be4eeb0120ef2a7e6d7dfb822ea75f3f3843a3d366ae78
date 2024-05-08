@@ -1,0 +1,1 @@
+LogSetContract(uint8 contractType,address indexed _contract)

@@ -1,1 +1,1 @@
-PendingOwnerSet(address indexed owner_,address indexed pendingOwner_)
+PendingOwnerSet(address indexed oldPendingOwner,address indexed newPendingOwner)

@@ -1,0 +1,1 @@
+VotingActivated(uint256 indexed proposalId,bytes32 indexed snapshotBlockHash,uint24 votingDuration)

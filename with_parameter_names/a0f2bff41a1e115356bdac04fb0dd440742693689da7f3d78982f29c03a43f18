@@ -1,0 +1,1 @@
+LogOracleRevokedFromOracleType(bytes32 oracleTypeName,uint256 oracleId)

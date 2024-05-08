@@ -1,0 +1,1 @@
+BridgeLimitsSet(uint256 _mintingLimit,uint256 _burningLimit,address indexed _bridge)

@@ -1,1 +1,1 @@
-TokenCreated(address newTokenAddress)
+TokenCreated(address newTokenAddress);TokenCreated(address indexed token)

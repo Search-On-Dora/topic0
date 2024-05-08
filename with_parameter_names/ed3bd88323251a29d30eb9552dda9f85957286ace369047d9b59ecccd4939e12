@@ -1,0 +1,1 @@
+LogForfeit(address indexed recipient,uint256 memoAmount,uint256 timeAmount)

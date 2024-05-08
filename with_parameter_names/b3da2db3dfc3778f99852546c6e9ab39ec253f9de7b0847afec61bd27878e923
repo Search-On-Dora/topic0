@@ -1,1 +1,1 @@
-TradingEnabled(uint256 startDate)
+TradingEnabled(uint256 startDate);TradingEnabled(uint256 indexed timestamp)

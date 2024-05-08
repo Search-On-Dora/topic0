@@ -1,0 +1,1 @@
+AddBadge(uint256 indexed _badgeId)

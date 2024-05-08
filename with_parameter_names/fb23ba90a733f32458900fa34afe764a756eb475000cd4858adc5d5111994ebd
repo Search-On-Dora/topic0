@@ -1,0 +1,1 @@
+RewardsRollover(uint256 indexed questID,uint256 newRewardPeriod,uint256 newMinRewardPerVote,uint256 newMaxRewardPerVote)

@@ -1,0 +1,1 @@
+NewDataFeed(bytes32 indexed _queryId,bytes32 indexed _feedId,bytes _queryData,address _feedCreator)

@@ -1,0 +1,1 @@
+SetVaultStrat(address indexed vault,bytes32 strat)

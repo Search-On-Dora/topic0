@@ -1,0 +1,1 @@
+SignerAuthorizationStarted(address indexed account,address signer,bytes32 indexed role)

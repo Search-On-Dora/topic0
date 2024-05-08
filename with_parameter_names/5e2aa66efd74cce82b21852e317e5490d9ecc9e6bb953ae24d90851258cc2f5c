@@ -1,1 +1,1 @@
-Supply(uint256 rebalanceAmt,uint256 totalSupply)
+Supply(uint256 prevSupply,uint256 supply)

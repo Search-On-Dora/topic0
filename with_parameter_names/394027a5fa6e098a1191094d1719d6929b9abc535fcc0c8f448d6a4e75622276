@@ -1,0 +1,1 @@
+Ruling(address indexed _arbitrator,uint256 indexed _disputeID,uint256 _ruling)

@@ -1,0 +1,1 @@
+SetSecondaryReceiver(bytes32 indexed _cType,address indexed _receiver,uint256 _taxPercentage,bool _canTakeBackTax)

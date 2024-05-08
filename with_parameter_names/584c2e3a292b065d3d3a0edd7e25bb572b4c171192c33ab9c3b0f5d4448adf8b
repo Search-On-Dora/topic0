@@ -1,0 +1,1 @@
+CollectTax(bytes32 indexed _cType,uint256 _latestAccumulatedRate,int256 _deltaRate)

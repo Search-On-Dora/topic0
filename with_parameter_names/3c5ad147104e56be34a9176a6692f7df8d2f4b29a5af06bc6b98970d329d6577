@@ -1,1 +1,1 @@
-Debug(string message,uint256 n)
+Debug(string name,uint256 value)

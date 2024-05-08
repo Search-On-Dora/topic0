@@ -1,1 +1,1 @@
-ProposalVote(uint8 indexed originChainID,uint64 indexed depositNonce,uint8 indexed status,bytes32 resourceID)
+ProposalVote(uint8 originDomainID,uint64 depositNonce,uint8 status,bytes32 dataHash);ProposalVote(uint8 indexed originChainID,uint64 indexed depositNonce,uint8 indexed status,bytes32 resourceID)

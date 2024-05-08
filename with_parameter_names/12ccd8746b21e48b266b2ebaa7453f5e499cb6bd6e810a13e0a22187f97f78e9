@@ -1,0 +1,1 @@
+ContractDeployed(bytes32 indexed version,address indexed contractAddress)

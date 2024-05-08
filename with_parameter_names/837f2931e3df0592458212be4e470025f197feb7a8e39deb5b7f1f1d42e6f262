@@ -1,0 +1,1 @@
+MintReputation(address indexed _sender,address indexed _to,uint256 _amount)

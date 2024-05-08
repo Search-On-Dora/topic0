@@ -1,1 +1,1 @@
-OwnerCanceled(address indexed owner,address indexed canceledOwner)
+OwnerCanceled(address indexed previousOwner,address indexed potentialNewOwner)

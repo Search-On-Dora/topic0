@@ -1,0 +1,1 @@
+NodeUpdated(address indexed nodeAddress,string indexed url,uint256 indexed isNew,uint256 lastSeen)

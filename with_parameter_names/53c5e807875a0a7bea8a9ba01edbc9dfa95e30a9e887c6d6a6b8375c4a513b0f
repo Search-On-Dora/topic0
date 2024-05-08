@@ -1,0 +1,1 @@
+TwinCreated(uint256 indexed twinId,uint256 indexed sellerId,tuple twin,address indexed executedBy)

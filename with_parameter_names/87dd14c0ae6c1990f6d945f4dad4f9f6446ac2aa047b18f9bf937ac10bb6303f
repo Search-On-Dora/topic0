@@ -1,1 +1,0 @@
-AllBidsCanceled(address indexed bidder,uint256 cancelNonce)

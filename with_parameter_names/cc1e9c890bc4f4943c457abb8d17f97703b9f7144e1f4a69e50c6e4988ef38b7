@@ -1,1 +1,1 @@
-NewClone(address _clone)
+NewClone(address indexed vault)

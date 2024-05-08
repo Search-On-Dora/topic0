@@ -1,0 +1,1 @@
+StakeEnded(address indexed user,uint256 indexed globalStakeId,uint256 hlxAmount,uint256 indexed penalty,uint256 penaltyAmount)

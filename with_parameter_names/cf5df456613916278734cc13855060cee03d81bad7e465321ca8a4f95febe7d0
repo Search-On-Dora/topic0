@@ -1,0 +1,1 @@
+CommunityTokenOwnershipInitialized(uint256 ID,address tokenAddress,uint256 tokenNetwork,uint256 minimumTokenBalance)

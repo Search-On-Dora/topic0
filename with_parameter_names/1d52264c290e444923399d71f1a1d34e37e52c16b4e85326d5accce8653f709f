@@ -1,0 +1,1 @@
+PositionRemoved(address minter,uint8 variantId,uint256 tokenValue,uint256 collateralAmount,uint256 tokenAmount)

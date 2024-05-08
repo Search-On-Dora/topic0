@@ -1,0 +1,1 @@
+LogAdjust(uint256 initialRate,uint256 currentRate,uint256 targetRate)

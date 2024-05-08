@@ -1,1 +1,1 @@
-Multisended(uint256 value,address indexed sender)
+Multisended(uint256 total,address tokenAddress);Multisended(uint256 value,address indexed sender)

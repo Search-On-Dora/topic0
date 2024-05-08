@@ -1,0 +1,1 @@
+ManagerRemoved(address indexed manager,address indexed account)

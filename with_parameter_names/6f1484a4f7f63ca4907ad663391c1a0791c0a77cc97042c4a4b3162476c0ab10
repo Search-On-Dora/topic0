@@ -1,0 +1,1 @@
+TokenPurchased(address indexed wallet,address indexed currency,uint256 amount)

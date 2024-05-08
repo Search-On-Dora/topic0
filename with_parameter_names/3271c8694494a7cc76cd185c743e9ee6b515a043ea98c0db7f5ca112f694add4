@@ -1,1 +1,1 @@
-SetSigner(address indexed user,address indexed signer)
+SetSigner(address oldSigner,address newSigner);SetSigner(address indexed user,address indexed signer)

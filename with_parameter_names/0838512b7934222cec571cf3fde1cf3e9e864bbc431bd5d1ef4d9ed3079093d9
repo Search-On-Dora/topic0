@@ -1,0 +1,1 @@
+NewSwapPool(address indexed deployer,address swapAddress,address[] pooledTokens)

@@ -1,0 +1,1 @@
+MarketAdded(address optionMarket,address liquidityPool,address liquidityCertificate,address optionGreekCache,address optionMarketPricer,address poolHedger,address shortCollateral,address quoteAsset,address baseAsset,address optionToken)

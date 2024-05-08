@@ -1,0 +1,1 @@
+LoanPartiallyLiquidated(address indexed account,uint256 id,address liquidator,uint256 amountLiquidated,uint256 collateralLiquidated)

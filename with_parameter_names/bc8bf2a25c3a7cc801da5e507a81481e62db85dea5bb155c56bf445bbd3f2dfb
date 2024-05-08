@@ -1,0 +1,1 @@
+ProjectAdded(uint256 _projectID,address indexed _project,address indexed _builder,address indexed _currency,bytes _hash)

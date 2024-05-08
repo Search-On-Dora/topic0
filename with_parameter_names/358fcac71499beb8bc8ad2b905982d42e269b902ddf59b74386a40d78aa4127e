@@ -1,0 +1,1 @@
+UpdateBribeManager(address _oldManager,address _newManager)

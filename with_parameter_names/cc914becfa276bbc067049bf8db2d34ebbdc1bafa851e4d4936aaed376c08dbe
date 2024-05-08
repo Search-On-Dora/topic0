@@ -1,0 +1,1 @@
+ProposalCreated(uint256 indexed proposalId,address indexed creator,uint8 indexed accessLevel,bytes32 ipfsHash)

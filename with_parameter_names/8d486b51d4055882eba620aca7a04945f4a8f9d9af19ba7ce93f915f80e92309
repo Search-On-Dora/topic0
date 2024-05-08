@@ -1,0 +1,1 @@
+AddVesting(address indexed account,uint256 amount,uint256 tgeAmounts,uint256 cliff,uint256 duration)

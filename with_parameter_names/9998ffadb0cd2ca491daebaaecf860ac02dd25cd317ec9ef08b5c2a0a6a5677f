@@ -1,0 +1,1 @@
+AmbassadorReplaced(uint256 ambassadorIndex,address indexed entityAccount,address indexed oldAmbassador,address indexed newAmbassador)

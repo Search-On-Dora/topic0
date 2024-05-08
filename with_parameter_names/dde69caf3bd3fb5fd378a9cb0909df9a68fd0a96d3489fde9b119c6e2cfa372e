@@ -1,0 +1,1 @@
+TokenPausedUpdate(uint16 indexed token,bool paused)

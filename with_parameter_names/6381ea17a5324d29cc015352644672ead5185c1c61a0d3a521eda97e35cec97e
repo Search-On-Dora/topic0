@@ -1,1 +1,1 @@
-Staked(address indexed user,uint256 amount,uint256 index,uint256 sinceBlock,uint256 untilBlock,uint256 rewardRate)
+Staked(address indexed user,uint256 amount,uint256 index,uint256 sinceBlock,uint256 untilBlock,uint256 rewardRate);Staked(address indexed user,uint256 indexed id,uint256 amount,uint256 startTime,uint256 endTime,uint256 weight)

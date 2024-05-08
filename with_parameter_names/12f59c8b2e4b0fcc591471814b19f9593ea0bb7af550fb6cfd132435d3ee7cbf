@@ -1,0 +1,1 @@
+ContributionDeductionAndBurningLog(uint256 _marketing_contribution,uint256 _development_contribution,uint256 _holder_contribution,uint256 _burn_amount)

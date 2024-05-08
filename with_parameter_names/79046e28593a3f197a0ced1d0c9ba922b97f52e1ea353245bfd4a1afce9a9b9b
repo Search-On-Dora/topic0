@@ -1,0 +1,1 @@
+FeeTokenSet(address indexed feeToken,address indexed priceFeed)

@@ -1,0 +1,1 @@
+MintClaimed(address indexed user,uint256 indexed hRank,uint256 rewardMinted,uint256 indexed penalty,uint256 mintPenalty)

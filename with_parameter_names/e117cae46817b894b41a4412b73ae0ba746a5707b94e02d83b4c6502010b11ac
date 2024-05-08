@@ -1,0 +1,1 @@
+FeeVoteUpdate(address indexed user,uint256 fee,bool isDefault,uint256 amount)

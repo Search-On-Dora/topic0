@@ -1,1 +1,1 @@
-Withdraw(address indexed user,uint256 indexed pid,uint256 amount);Withdraw(address indexed user,uint256 withdrawAmount,uint256 winAmount);Withdraw(address ,uint256 ,uint256 );Withdraw(address indexed to,uint256 indexed amount,uint256 indexed timestamp)
+Withdraw(address indexed user,uint256 indexed pid,uint256 amount);Withdraw(address indexed sender,uint256 amount,uint256 shares);Withdraw(address ,uint256 ,uint256 );Withdraw(address indexed staker,uint256 amount,uint256 indexed timestamp);Withdraw(address indexed to,uint256 indexed amount,uint256 indexed timestamp)

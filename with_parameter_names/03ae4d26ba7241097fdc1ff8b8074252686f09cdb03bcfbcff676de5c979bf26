@@ -1,0 +1,1 @@
+ONFTMinted(address indexed minter,address indexed referrer,uint256 indexed mintId,uint256 referralEarnings,uint256 protocolEarnings)

@@ -1,0 +1,1 @@
+ERC1155Claim(uint96 rewardId,uint96 indexed userId,uint256 indexed tokenId,address indexed userAddress,uint256 amountToClaim)

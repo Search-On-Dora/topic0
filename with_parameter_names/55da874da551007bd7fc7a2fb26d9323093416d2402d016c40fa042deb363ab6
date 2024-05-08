@@ -1,0 +1,1 @@
+AssetFeeRatioUpdated(address indexed tokenAddress,uint256 feeRatio)

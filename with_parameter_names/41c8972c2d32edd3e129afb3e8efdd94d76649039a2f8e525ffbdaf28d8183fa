@@ -1,0 +1,1 @@
+UpdateAccumulatedRate(bytes32 indexed _cType,address _surplusDst,int256 _rateMultiplier)

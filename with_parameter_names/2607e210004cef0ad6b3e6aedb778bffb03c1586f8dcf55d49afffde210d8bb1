@@ -1,0 +1,1 @@
+LongOtokenDeposited(address indexed otoken,address indexed accountOwner,address indexed from,uint256 vaultId,uint256 amount)

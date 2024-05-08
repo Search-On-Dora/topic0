@@ -1,0 +1,1 @@
+SequenceBatches(uint64 indexed numBatch,bytes32 l1InfoRoot)

@@ -1,0 +1,1 @@
+NewMember(uint256 ID,uint256 communityID,address member,uint8 role,uint256 timestamp)

@@ -1,0 +1,1 @@
+FactoryCreated(address indexed _ERC20Implementation,address indexed _ERC721Implementation,address _wrappedTokenAddress,address indexed _factory,address _emitter)

@@ -1,0 +1,1 @@
+Trade(address indexed token,address who,bytes ref,int256 amount,address base,uint256 totPrice,uint256 fee,uint256 newprice)

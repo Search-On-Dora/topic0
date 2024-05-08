@@ -1,1 +1,1 @@
-Pause(uint256 epoch)
+Pause(uint256 timestamp)

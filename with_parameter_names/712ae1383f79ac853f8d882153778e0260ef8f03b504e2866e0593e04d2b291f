@@ -1,1 +1,1 @@
-ProposalExecuted(uint256 id)
+ProposalExecuted(uint256 id);ProposalExecuted(uint256 indexed proposalId)

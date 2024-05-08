@@ -1,0 +1,1 @@
+VotingPortalUpdated(address indexed votingPortal,bool indexed approved)

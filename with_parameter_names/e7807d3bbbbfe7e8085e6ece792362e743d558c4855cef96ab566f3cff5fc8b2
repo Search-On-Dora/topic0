@@ -1,0 +1,1 @@
+NFTOwnershipTransferred(uint256 indexed collectionId,address newOwner)

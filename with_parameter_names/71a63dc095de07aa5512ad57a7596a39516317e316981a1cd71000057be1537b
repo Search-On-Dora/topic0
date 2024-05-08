@@ -1,0 +1,1 @@
+AgreementTerminated(address indexed agreementClass,bytes32 id)

@@ -1,0 +1,1 @@
+PricePerTokenInWeiUpdated(uint256 indexed _projectId,uint256 indexed _pricePerTokenInWei)

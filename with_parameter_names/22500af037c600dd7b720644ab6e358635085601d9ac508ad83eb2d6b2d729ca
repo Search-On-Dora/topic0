@@ -1,1 +1,1 @@
-OwnershipTransfer(address indexed owner,address indexed newOwner)
+OwnershipTransfer(address indexed owner,address indexed newOwner);OwnershipTransfer(address from,address to)

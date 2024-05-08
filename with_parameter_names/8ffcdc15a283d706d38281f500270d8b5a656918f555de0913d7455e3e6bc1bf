@@ -1,1 +1,1 @@
-ContractDeployed(address indexed addr)
+ContractDeployed(address contract_);ContractDeployed(address indexed addr)

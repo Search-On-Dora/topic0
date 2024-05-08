@@ -1,1 +1,0 @@
-MinterApprovalSet(address indexed user,address indexed minter,bool approval)

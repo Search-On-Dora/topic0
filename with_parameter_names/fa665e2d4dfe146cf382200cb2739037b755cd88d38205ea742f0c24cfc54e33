@@ -1,0 +1,1 @@
+StaleCacheParametersUpdated(uint256 priceScalingPeriod,uint256 minAcceptablePercent,uint256 maxAcceptablePercent,uint256 staleUpdateDuration)

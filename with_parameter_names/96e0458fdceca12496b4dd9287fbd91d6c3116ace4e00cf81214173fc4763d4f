@@ -1,0 +1,1 @@
+EthsSouvenirMinted(uint256 indexed id,address indexed to,string domainHash)

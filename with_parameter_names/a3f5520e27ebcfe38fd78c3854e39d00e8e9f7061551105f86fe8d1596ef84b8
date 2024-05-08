@@ -1,0 +1,1 @@
+GameCompleted(uint256 indexed gameID,uint8 coinSide,uint256 amountForEachWinner)

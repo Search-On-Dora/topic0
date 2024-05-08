@@ -1,0 +1,1 @@
+SetWhitelisted(address _address,bool _isExempt)

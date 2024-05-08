@@ -1,1 +1,1 @@
-UNSTAKED(address staker,uint256 tokens,uint256 unstakingFee)
+UNSTAKED(address staker,uint256 tokens,uint256 unstakingFee);UNSTAKED(address indexed staker,uint256 tokens,uint256 unstakingFee)

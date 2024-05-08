@@ -1,1 +1,1 @@
-ReceivedEther(address sender,uint256 amount)
+ReceivedEther(address sender,uint256 amount);ReceivedEther(address indexed sender,uint256 amount)

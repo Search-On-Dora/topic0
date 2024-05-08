@@ -1,0 +1,1 @@
+VaccineApplied(uint256 vaccineId,uint256 porkId,uint8 vaccinationProgress)

@@ -1,0 +1,1 @@
+CreationSuccess(uint256 total_tokens,bytes32 indexed id,string name,string message,address indexed creator,uint256 creation_time,address token_address,uint256 packet_number,uint256 duration,uint256[] token_ids)

@@ -1,0 +1,1 @@
+Logger(uint256 shortIndex,uint256 longIndex,uint256 indexed shortRebase_,uint256 indexed longRebased_)

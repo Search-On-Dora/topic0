@@ -1,1 +1,1 @@
-VaultPull(tuple asset,address indexed origin)
+VaultPull(tuple asset,address indexed beneficiary)

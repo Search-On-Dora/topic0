@@ -1,1 +1,1 @@
-Won(address who,uint256 amount)
+Won(address who,uint256 amount);Won(address indexed winner,uint256 indexed betAmount)

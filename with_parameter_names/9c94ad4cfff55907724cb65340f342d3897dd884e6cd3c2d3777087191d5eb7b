@@ -1,0 +1,1 @@
+ValueSetBool(bytes32 contractName,bytes32 record,bool value)

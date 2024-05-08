@@ -1,0 +1,1 @@
+ValidatorRemoved(address indexed validator);ValidatorRemoved(address _removedValidator)

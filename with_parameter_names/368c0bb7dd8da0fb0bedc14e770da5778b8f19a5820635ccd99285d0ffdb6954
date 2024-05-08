@@ -1,0 +1,1 @@
+FundingRecomputed(int256 funding,uint256 index,uint256 timestamp)

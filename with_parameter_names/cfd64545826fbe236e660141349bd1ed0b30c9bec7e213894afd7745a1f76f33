@@ -1,0 +1,1 @@
+TaskCreated(address taskCreator,address execAddress,bytes4 selector,address resolverAddress,bytes32 taskId,bytes resolverData,bool useTaskTreasuryFunds,address feeToken,bytes32 resolverHash)

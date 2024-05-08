@@ -1,0 +1,1 @@
+EventChunkWriteStakingRewards(uint256 cvgCycle,uint256 totalGaugeWeight,tuple[] inflationInfos)

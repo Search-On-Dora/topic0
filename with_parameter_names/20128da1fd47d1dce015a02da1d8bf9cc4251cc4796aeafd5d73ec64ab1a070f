@@ -1,0 +1,1 @@
+RewardUpdated(address indexed user,uint256 balIntegral,uint256 auraIntegral,uint256[] extraRewardIntegrals)

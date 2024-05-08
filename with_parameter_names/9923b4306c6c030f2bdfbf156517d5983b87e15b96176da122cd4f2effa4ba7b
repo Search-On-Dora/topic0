@@ -1,1 +1,1 @@
-TokensClaimed(address indexed user,uint256 indexed poolId,uint256 amount)
+TokensClaimed(address indexed user,uint256 amount,uint256 timestamp);TokensClaimed(address indexed user,uint256 indexed poolId,uint256 amount)

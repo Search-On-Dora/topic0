@@ -1,0 +1,1 @@
+OptedIntoSlashing(address indexed operator,address indexed contractAddress)

@@ -1,1 +1,0 @@
-RegisterClaimManager(bytes32 indexed saleId,address indexed claimManager)

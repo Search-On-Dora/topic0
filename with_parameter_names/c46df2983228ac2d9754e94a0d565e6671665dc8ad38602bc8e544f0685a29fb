@@ -1,0 +1,1 @@
+SetDstChainIdToTransferGas(uint16 _dstChainId,uint256 _dstChainIdToTransferGas)

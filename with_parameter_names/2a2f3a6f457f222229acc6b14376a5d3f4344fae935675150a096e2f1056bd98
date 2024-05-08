@@ -1,1 +1,1 @@
-AirDrop(address _receiver,uint256 _amount)
+AirDrop(address _recipient,uint256 _amount)

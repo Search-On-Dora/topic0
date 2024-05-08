@@ -1,1 +1,0 @@
-MaxMintableRangeSet(address indexed edition,uint128 indexed mintId,uint32 maxMintableLower,uint32 maxMintableUpper)

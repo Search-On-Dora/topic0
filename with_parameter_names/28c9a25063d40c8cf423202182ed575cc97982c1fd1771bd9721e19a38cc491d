@@ -1,0 +1,1 @@
+LodgingFacilityCreated(bytes32 facilityId,address indexed owner,string dataURI)

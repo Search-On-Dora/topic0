@@ -1,0 +1,1 @@
+SettledBids(uint256[] nonces,address[] vaults,address indexed counterparty)

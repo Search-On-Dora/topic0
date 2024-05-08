@@ -1,0 +1,1 @@
+WithdrawPenalty(address indexed user,uint256 penaltyAmount)

@@ -1,1 +1,1 @@
-Claimed(address sender,address indexed receiver,uint256 expiration_block,uint256 transferred)
+Claimed(address sender,address indexed receiver,uint256 expiration_block,uint256 transferred);Claimed(address indexed user,address indexed token,uint256 amount,uint256 time);Claimed(address indexed tokenAddress,address indexed user,uint256 amount,uint256 indexed timestamp)

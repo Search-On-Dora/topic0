@@ -1,1 +1,1 @@
-WhitelistedAddressRemoved(address addr)
+WhitelistedAddressRemoved(address addr);WhitelistedAddressRemoved(address indexed addr)

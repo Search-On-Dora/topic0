@@ -1,0 +1,1 @@
+TokenRoyaltySet(uint256 indexed tokenId,address indexed receiver,uint96 feeNumerator);TokenRoyaltySet(uint256 tokenId,address receiver,uint96 fee)

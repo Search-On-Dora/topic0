@@ -1,1 +1,1 @@
-BaseURISet(string baseURI)
+BaseURISet(string newBaseURI)

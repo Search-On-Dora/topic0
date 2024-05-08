@@ -1,1 +1,1 @@
-TransferOwnerClaim(address indexed sender,address indexed recipient)
+TransferOwnerClaim(address indexed from,address indexed to)

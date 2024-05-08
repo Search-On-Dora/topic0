@@ -1,0 +1,1 @@
+DaosMinted(uint256 id,uint256 price,address seller,address owner,string attributes,uint256 rarity_rank,address contract_address,string market_status)

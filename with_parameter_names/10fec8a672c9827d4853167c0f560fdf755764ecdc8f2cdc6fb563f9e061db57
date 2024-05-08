@@ -1,1 +1,1 @@
-TransferSurplus(address dst,uint256 surplusAmount)
+TransferSurplus(address dst,uint256 surplusAmount);TransferSurplus(address indexed _extraSurplusReceiver,uint256 _surplusTransferred)

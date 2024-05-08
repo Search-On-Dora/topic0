@@ -1,1 +1,0 @@
-UpdateMerkleRoot(bytes32 indexed saleId,bytes32 merkleRoot)

@@ -1,0 +1,1 @@
+HintListStatusChanged(address indexed namespace,bytes32 indexed list,bool indexed revoked)

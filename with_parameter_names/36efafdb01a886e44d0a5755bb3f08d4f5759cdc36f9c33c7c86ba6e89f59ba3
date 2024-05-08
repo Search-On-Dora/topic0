@@ -1,0 +1,1 @@
+statusChanged(string indexed POAV,address indexed subject,uint8 _status)

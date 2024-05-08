@@ -1,0 +1,1 @@
+LogWhiteListMasterContract(address indexed masterContract,bool approved)

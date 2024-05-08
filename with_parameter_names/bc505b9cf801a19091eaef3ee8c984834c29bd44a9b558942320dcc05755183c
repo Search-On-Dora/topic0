@@ -1,0 +1,1 @@
+CampaignReported(uint256 campaignId,address reporter)

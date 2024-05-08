@@ -1,1 +1,1 @@
-AccountBlocked(address user)
+AccountBlocked(address user);AccountBlocked(address indexed account)

@@ -1,0 +1,1 @@
+TipAdded(bytes32 indexed _queryId,uint256 indexed _amount,bytes _queryData,address _tipper)

@@ -1,0 +1,1 @@
+Deposited(address indexed receiver,address indexed ambasador,uint256 size,uint8 indexed option,uint256 tokensReleased,uint256 saleStage)

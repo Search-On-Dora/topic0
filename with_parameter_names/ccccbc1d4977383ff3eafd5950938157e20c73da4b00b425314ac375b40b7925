@@ -1,0 +1,1 @@
+DataUpdated(address erc1155Addr,uint256 tokenId,uint256 weiPerToken,uint256 maxTokenHold)

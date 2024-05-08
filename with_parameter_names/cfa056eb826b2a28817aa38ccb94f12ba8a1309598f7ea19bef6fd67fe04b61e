@@ -1,1 +1,1 @@
-StakingUpdated(address beforeAddress,address afterAddress)
+StakingUpdated(address indexed oldStaking,address indexed newStaking);StakingUpdated(address beforeAddress,address afterAddress)

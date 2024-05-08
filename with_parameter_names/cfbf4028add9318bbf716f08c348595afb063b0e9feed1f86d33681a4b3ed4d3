@@ -1,1 +1,1 @@
-ImplementationChanged(address newImpl,address oldImpl)
+ImplementationChanged(address indexed oldImplementation,address indexed newImplementation)

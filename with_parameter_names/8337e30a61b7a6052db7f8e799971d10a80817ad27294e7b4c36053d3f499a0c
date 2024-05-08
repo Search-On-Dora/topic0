@@ -1,0 +1,1 @@
+EntryUpserted(bytes32 indexed scope,bytes4 indexed sig,address submitter,bytes cid)

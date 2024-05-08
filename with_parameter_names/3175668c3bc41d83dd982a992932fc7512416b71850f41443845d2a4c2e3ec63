@@ -1,1 +1,1 @@
-WhitelistMint(address minter,uint256 amountOfNfts)
+WhitelistMint(address minter,uint256 minCount)

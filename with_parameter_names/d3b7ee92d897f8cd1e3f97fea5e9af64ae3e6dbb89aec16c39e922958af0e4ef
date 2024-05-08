@@ -1,0 +1,1 @@
+SetPathPerCollateral(address asset,bytes path,bool doReset)

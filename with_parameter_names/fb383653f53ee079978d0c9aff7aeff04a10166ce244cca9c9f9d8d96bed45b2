@@ -1,0 +1,1 @@
+SetBatchFee(uint256 newBatchFee)

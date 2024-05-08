@@ -1,1 +1,1 @@
-RewardsClaimed(address indexed staker,uint256 rewardAmount)
+RewardsClaimed(address indexed staker,uint256 rewardAmount);RewardsClaimed(address who,uint256 amount)

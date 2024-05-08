@@ -1,0 +1,1 @@
+TicketsPurchased(uint256 indexed raffleId,address indexed participant,uint256 ticketCount)

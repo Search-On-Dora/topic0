@@ -1,0 +1,1 @@
+DemoteVault(address author,string version,address vault,uint8 status)

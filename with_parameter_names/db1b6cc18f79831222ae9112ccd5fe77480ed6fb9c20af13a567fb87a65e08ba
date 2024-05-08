@@ -1,0 +1,1 @@
+userRequestForAffirmationETH(address from,address to,uint256 amountETH,uint256 amountUsdlite,uint256 date,uint256 nonce,bytes signature)

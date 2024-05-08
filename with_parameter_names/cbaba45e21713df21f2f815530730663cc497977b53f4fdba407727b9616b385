@@ -1,0 +1,1 @@
+ExchangeRegistered(string indexed exchange,address indexed routerAddress)

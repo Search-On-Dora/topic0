@@ -1,0 +1,1 @@
+AmbassadorToCommunityUpdated(address indexed fromAmbassador,address indexed toAmbassador,address indexed community)

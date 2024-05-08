@@ -1,0 +1,1 @@
+AssetBought(address indexed oldOwner,address indexed newOwner,uint256 mainId,uint256 subId,uint256 salePrice,uint256 payPrice,uint256 fractions,address token)

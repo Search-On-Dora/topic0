@@ -1,0 +1,1 @@
+SchnorrSignatureUpdated(uint32 indexed sessionId,address indexed combinedPublicKey)

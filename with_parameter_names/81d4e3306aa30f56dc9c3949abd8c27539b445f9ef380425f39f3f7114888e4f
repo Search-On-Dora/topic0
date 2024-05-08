@@ -1,0 +1,1 @@
+ClaimedPrize(address indexed vault,address indexed winner,address indexed recipient,uint24 drawId,uint8 tier,uint32 prizeIndex,uint152 payout,uint96 claimReward,address claimRewardRecipient)

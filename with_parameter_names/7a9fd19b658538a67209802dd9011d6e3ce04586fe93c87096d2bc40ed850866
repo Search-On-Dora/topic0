@@ -1,0 +1,1 @@
+CampaignCreation(address indexed creator,address campaign,address eventContract,address marketFactory,address marketMaker,uint24 fee,uint256 funding,uint256 deadline)

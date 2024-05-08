@@ -1,1 +1,1 @@
-TreasuryAddressSet(address treasuryAddress)
+TreasuryAddressSet(address treasuryAddress);TreasuryAddressSet(address indexed treasuryAddress)

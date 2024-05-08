@@ -1,0 +1,1 @@
+oracleResponsed(string indexed _jh,uint32 _requestId,uint256 _randomResult,uint256[] _cards)

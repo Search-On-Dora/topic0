@@ -1,0 +1,1 @@
+TemplateInitialized(address tokenIn,address tokenOut,uint256 auctionStartDate,uint256 auctionEndDate,uint256 tokensForSale,uint96 minPrice,uint96 minBuyAmount,uint256 minRaise,uint256 orderCancelationPeriodDuration,uint256 minimumBiddingAmountPerOrder)

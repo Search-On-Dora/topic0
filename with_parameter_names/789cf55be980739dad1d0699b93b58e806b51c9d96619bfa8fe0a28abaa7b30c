@@ -1,1 +1,1 @@
-ProposalCanceled(uint256 id)
+ProposalCanceled(uint256 id);ProposalCanceled(uint256 indexed proposalId)

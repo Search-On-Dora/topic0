@@ -1,0 +1,1 @@
+PositionOpened(uint256 positionId,address trader,address currency,address collateralCurrency,uint256 downPayment,uint256 principal,uint256 collateralAmount,uint256 feesToBePaid)

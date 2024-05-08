@@ -1,0 +1,1 @@
+MarketOutcomePrice(uint256 indexed marketId,uint256 indexed outcomeId,uint256 value,uint256 timestamp)

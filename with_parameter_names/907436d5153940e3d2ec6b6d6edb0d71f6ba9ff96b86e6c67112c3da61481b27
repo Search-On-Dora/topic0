@@ -1,0 +1,1 @@
+EscrowCreated(uint256 escrowId,address partyA,address partyB,address partyArbitrator,uint256 arbitratorFeeBps,string description,uint256 createTime,uint256 determineTime,bool started,bool closed,tuple pendingAssetB)

@@ -1,1 +1,1 @@
-NewOperator(address indexed newOperator)
+NewOperator(address operator);NewOperator(address indexed operatorAddress)

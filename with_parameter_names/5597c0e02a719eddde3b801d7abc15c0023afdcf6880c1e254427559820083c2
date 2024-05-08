@@ -1,1 +1,1 @@
-LiquidityFeeUpdated(uint256 indexed newLiquidityFee)
+LiquidityFeeUpdated(uint256 liquidityFee);LiquidityFeeUpdated(uint256 indexed newLiquidityFee)

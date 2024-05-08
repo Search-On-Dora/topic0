@@ -1,0 +1,1 @@
+MintNFT(address indexed minter,uint256 indexed id);MintNFT(address _by,uint256 _amount)

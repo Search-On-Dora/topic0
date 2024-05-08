@@ -1,0 +1,1 @@
+AttributeAdded(uint256 indexed tokenId,string key,string value,uint256 totalAfter)

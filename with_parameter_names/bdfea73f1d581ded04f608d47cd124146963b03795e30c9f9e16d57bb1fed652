@@ -1,0 +1,1 @@
+UpdateAssetLiquidateCollateralFactor(address indexed cometProxy,address indexed asset,uint64 oldLiquidateCF,uint64 newLiquidateCF)

@@ -1,0 +1,1 @@
+RequestFulfilled(uint256 indexed requestId,uint256 indexed randomNumber)

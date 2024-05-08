@@ -1,1 +1,1 @@
-Blacklisted(address indexed target);Blacklisted(address wallet)
+Blacklisted(address indexed target);Blacklisted(address account)

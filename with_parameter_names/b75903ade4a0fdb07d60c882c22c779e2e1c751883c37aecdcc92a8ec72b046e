@@ -1,0 +1,1 @@
+PauserRemoved(address indexed removedPauser,address indexed removedBy)

@@ -1,1 +1,1 @@
-Staked(address indexed user,address indexed token,uint256 amount)
+Staked(address indexed user,address indexed token,uint256 amount);Staked(address indexed contractAddress,address indexed walletAddress,uint256 indexed tokenId)

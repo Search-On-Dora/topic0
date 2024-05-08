@@ -1,0 +1,1 @@
+BoughtWithEth(address indexed buyer,uint256 indexed tokenId,uint256 amount,uint256 priceInWei)

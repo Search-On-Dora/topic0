@@ -1,0 +1,1 @@
+MigrationInCancelHookFailed(bytes failureReturnData,address indexed vaultProxy,address indexed prevFundDeployer,address indexed nextFundDeployer,address nextVaultAccessor,address nextVaultLib)

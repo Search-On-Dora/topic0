@@ -1,0 +1,1 @@
+Swap(address indexed sender,address to,address indexed input,address indexed output,uint256 inputAmount,uint256 outputAmount);Swap(address indexed fromAddress,address indexed toAddress,address fromAssetAddress,address toAssetAddress,uint256 amountIn,uint256 amountOut)

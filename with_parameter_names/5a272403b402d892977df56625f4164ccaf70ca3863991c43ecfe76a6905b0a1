@@ -1,1 +1,1 @@
-SetAdmin(address newAdmin)
+SetAdmin(address newAdmin);SetAdmin(address indexed sender)

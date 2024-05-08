@@ -1,0 +1,1 @@
+WormholeDestinationDomainSet(uint256 indexed chainId,uint16 destinationDomain)

@@ -1,0 +1,1 @@
+NomadModuleSetup(address indexed initiator,address indexed owner,address indexed avatar,address target)

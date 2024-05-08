@@ -1,0 +1,1 @@
+DisputeResolverFeesAdded(uint256 indexed disputeResolverId,tuple[] disputeResolverFees,address indexed executedBy)

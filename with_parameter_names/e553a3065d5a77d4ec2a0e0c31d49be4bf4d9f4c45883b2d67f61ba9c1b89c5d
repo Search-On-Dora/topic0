@@ -1,0 +1,1 @@
+DefaultSignerRemoved(address indexed account,address oldSigner,bytes32 role)

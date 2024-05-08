@@ -1,0 +1,1 @@
+NewStrategy(address indexed strategy,address indexed creater)

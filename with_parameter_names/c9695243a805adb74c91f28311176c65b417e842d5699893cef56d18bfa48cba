@@ -1,1 +1,1 @@
-Harvest(address indexed account,uint256 cookAmount)
+Harvest(address indexed sender,uint256 amount);Harvest(address account,uint256 harvestAmount)

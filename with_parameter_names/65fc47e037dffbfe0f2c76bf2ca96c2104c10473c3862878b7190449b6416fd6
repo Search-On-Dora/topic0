@@ -1,0 +1,1 @@
+RewardUpdated(address token_,uint256 maxRewardAmount_,uint48 auctionDuration_)

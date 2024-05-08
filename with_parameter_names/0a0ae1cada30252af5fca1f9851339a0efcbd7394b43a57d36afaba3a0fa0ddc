@@ -1,0 +1,1 @@
+HelpingAdded(uint256 indexed comboId,address indexed owner,bool indexed usingCredits,bool doubleHelping,uint256 premium)

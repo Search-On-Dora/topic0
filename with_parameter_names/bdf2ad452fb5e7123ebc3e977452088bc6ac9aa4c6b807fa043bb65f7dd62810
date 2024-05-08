@@ -1,0 +1,1 @@
+StreamCreated(address indexed from,address indexed to,uint216 amountPerSec,bytes32 streamId)

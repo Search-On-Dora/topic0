@@ -1,0 +1,1 @@
+LandCreated(address indexed user,address indexed token,address indexed tokenToAnswer,uint256 amountLocked)

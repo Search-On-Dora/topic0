@@ -1,1 +1,1 @@
-Sell(uint256 indexed id,address indexed seller,uint256 indexed tokenId,uint256 price)
+Sell(uint256 indexed id,address indexed seller,uint256 indexed tokenId,uint256 price);Sell(uint256 indexed saleId,address indexed seller,uint256 amount,uint256 price)

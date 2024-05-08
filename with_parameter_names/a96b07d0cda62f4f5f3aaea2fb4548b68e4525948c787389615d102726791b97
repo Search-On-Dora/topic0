@@ -1,0 +1,1 @@
+PaalaiSynchronized(address indexed from,address indexed to,address indexed tokenAddress,uint256 amount)

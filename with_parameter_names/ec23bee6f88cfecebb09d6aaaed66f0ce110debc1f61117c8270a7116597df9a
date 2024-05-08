@@ -1,1 +1,0 @@
-EnableSupportedOutboundProof(uint16 indexed chainId,uint16 proofType);EnableSupportedOutboundProof(uint16 chainId,uint16 proofType)

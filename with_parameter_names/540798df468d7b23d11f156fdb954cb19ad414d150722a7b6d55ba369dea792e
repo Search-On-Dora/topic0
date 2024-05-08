@@ -1,1 +1,1 @@
-RewardPaid(address indexed _user,address indexed _rewardsToken,uint256 _reward)
+RewardPaid(address indexed user,address indexed rewardsToken,uint256 claimed)

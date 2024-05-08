@@ -1,0 +1,1 @@
+AssignManager(address indexed assigner,address indexed contractAddress,address previousContractManager,address indexed newContractManager)

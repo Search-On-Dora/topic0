@@ -1,1 +1,1 @@
-Deposited(address sender,uint256 amount,uint256 date)
+Deposited(address indexed user_,uint256 indexed shortAmount_,uint256 indexed longAmount_);Deposited(address from,uint256 value,uint256 fee);Deposited(address indexed from,uint256 celoAmount,uint256 savingsAmount)

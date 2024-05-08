@@ -1,0 +1,1 @@
+Swapped(bool zeroForOne,uint256 amount0Diff,uint256 amount1Diff,uint256 amountOutSwap)

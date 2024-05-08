@@ -1,0 +1,1 @@
+OfferCreated(uint256 indexed offerId,uint256 indexed sellerId,tuple offer,tuple offerDates,tuple offerDurations,tuple disputeResolutionTerms,tuple offerFees,uint256 indexed agentId,address executedBy)

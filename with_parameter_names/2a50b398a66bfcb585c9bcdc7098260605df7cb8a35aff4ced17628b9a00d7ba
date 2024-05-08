@@ -1,0 +1,1 @@
+UpdateGameStats(address indexed player,uint256 totalBalance,uint256 totalGamePrincipal,uint256 netTotalGamePrincipal,uint256 totalGameInterest,uint256 totalIncentiveAmount,uint256[] totalRewardAmounts,uint256 impermanentLossShare)

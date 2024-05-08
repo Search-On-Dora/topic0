@@ -1,0 +1,1 @@
+UpdateCommunityPrivacyType(uint256 ID,uint8 privacyType)

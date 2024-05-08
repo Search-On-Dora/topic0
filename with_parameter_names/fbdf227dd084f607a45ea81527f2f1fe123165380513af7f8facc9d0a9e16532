@@ -1,0 +1,1 @@
+RFPBrokerDeposit(address indexed farmBotAddress,address indexed depositorAddress,uint256 lpGained,uint256 fpGained)

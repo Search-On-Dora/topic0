@@ -1,0 +1,1 @@
+ReporterSlashed(address indexed _reporter,address _recipient,uint256 _slashAmount)

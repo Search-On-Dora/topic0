@@ -1,0 +1,1 @@
+paidRaffle(address indexed _creator,address indexed _winnerAddress,uint256 _winnerTicket,uint256 indexed _raffleId,address _addressPrize,uint256 _idPrize,uint256 _tokenType,uint256 _amount)

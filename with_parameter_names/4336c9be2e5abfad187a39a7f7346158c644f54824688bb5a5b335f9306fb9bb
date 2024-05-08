@@ -1,0 +1,1 @@
+UpdateWhitelistedProposalCreated(uint256 proposalId,address target,uint8 action,address account)

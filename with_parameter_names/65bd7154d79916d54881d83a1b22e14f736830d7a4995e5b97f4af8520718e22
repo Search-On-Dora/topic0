@@ -1,0 +1,1 @@
+THUSDBorrowingFeePaid(address indexed _borrower,uint256 _THUSDFee)

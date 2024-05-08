@@ -1,0 +1,1 @@
+LogMint(address indexed minter,uint256 blockId,uint256 staked,uint256 power)

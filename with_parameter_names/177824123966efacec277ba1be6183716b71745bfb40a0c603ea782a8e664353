@@ -1,0 +1,1 @@
+CyberBoxBoxChangedDetail(string boxName,string boxDescription,string boxAutor,string boxImage,string boxCoverImage,uint256 boxRoyalty,address boxAddress)

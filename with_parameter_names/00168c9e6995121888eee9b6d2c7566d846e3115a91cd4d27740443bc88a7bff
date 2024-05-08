@@ -1,0 +1,1 @@
+LogInstantWithdraw(address indexed user,uint256 amountCs,uint256 amount,uint256 fee)

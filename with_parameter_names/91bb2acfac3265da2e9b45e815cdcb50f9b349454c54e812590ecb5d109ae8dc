@@ -1,0 +1,1 @@
+RewardsPerSecondUpdated(uint256 indexed rewardsPerSecond,bool persist)

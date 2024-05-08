@@ -1,1 +1,1 @@
-EtherReceived(address from,uint256 value)
+EtherReceived(address sender,uint256 value)

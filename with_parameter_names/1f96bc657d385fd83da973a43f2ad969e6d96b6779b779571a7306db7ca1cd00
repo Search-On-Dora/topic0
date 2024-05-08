@@ -1,1 +1,1 @@
-SetMinter(address minter,bool enabled)
+SetMinter(address minter,bool enabled);SetMinter(address indexed user,bool isMinter)

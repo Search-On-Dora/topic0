@@ -1,1 +1,1 @@
-UpgradeStrat(address implementation)
+UpgradeStrat(address implementation);UpgradeStrat(address indexed implementation)

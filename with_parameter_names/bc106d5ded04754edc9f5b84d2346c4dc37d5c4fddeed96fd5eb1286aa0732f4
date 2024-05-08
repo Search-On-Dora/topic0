@@ -1,0 +1,1 @@
+TempTokenCreated(address indexed tokenAddress,address indexed owner,string name,string symbol,uint256 endTimestamp,address protocolFeeDestination,uint256 protocolFeePercent,uint256 streamerFeePercent,uint256 totalSupplyThreshold,uint256 creationBlockNumber)

@@ -1,0 +1,1 @@
+ExcludedFromMaxTransactionAmount(address indexed account,bool isExcluded)

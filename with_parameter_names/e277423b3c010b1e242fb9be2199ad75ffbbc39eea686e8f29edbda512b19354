@@ -1,0 +1,1 @@
+SecretHashSet(address indexed account,bytes27 secretHash,uint32 counter)

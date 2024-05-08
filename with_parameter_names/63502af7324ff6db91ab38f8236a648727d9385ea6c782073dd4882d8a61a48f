@@ -1,0 +1,1 @@
+AddedSharedMember(uint256 indexed roleId,address indexed newMember,address indexed manager)

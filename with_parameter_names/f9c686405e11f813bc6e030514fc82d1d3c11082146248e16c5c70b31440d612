@@ -1,0 +1,1 @@
+WithdrawRewardPool(address indexed withdrawer,uint256 indexed amount,uint256 indexed campaignId)

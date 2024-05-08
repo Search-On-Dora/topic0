@@ -1,0 +1,1 @@
+StrategyReported(address indexed strategy,uint256 gain,uint256 loss,uint256 debtPaid,uint256 gains,uint256 losses,uint256 allocated,uint256 allocationAdded,uint256 allocBPS)

@@ -1,1 +1,1 @@
-SignerRemoved(address signer,address sender)
+SignerRemoved(address indexed account,address indexed signer);SignerRemoved(address signer,address sender)

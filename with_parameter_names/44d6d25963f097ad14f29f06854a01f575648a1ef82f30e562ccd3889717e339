@@ -1,1 +1,1 @@
-AdminAdded(address adminAddress);AdminAdded(address indexed account)
+AdminAdded(address indexed adminAddress);AdminAdded(address adminAddress)

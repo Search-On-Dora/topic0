@@ -1,0 +1,1 @@
+DelegatedVotes(address indexed delegator,address indexed delegatee,uint256 amount)

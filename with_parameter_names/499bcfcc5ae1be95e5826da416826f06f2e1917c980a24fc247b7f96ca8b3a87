@@ -1,0 +1,1 @@
+RewardStakedPartial(address indexed donor,uint256 amount,uint256 lastRewardPeriod)

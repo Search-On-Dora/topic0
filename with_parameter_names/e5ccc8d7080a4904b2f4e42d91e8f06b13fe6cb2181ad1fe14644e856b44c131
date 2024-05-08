@@ -1,0 +1,1 @@
+OutboxEntryCreated(uint256 indexed batchNum,uint256 outboxIndex,bytes32 outputRoot,uint256 numInBatch)

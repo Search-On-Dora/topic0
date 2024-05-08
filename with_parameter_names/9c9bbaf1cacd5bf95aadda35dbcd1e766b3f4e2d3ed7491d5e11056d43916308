@@ -1,0 +1,1 @@
+NewImplementationSet(bytes32 indexed type_,uint8 indexed version_,address indexed implementation_)

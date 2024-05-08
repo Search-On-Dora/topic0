@@ -1,1 +1,1 @@
-Rely(address indexed usr)
+Rely(address party);Rely(address indexed usr)

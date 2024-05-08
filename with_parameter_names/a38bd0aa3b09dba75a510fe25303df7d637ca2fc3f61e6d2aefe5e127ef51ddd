@@ -1,0 +1,1 @@
+Stake(address indexed user,uint16 indexed _pid,uint256[] indexed ids,uint256 time)

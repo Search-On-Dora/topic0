@@ -1,0 +1,1 @@
+NewPubkeyRegistration(address indexed operator,tuple pubkeyG1,tuple pubkeyG2)

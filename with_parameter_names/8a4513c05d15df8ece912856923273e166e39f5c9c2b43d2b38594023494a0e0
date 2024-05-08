@@ -1,0 +1,1 @@
+DeployedVault(address indexed origin,address indexed sender,address[] vaultTokens,bytes options,address owner,address vaultAddress,uint256 vaultNft)

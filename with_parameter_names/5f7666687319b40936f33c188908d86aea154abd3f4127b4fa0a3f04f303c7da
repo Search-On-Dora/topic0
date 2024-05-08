@@ -1,1 +1,1 @@
-TokenMinted(uint256 indexed tokenId,uint256 newGene)
+TokenMinted(uint256 indexed tokenId,uint256 newGene);TokenMinted(uint256 indexed collectionId,uint256 indexed tokenId)

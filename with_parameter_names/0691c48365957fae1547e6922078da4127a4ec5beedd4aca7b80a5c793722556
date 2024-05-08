@@ -1,0 +1,1 @@
+SetNativeWrapProposalCreated(uint256 proposalId,address target,address token)

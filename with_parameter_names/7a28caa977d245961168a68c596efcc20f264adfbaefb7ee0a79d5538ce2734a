@@ -1,0 +1,1 @@
+SetTrustedForwarder(address indexed user,bool allowed)

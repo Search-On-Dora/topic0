@@ -1,0 +1,1 @@
+TemplateInitialized(address tokenIn,address tokenOut,uint256 tokenPrice,uint256 tokensForSale,uint256 startDate,uint256 endDate,uint256 minCommitment,uint256 maxCommitment,uint256 minRaise,bool participantList)

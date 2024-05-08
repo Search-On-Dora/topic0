@@ -1,0 +1,1 @@
+NewUser(bytes32 indexed _userId,address indexed _walletAddress)

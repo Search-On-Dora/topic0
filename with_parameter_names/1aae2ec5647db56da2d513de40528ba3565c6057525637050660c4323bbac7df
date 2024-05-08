@@ -1,1 +1,1 @@
-NewStratCandidate(address implementation)
+NewStratCandidate(address implementation);NewStratCandidate(address indexed implementation)

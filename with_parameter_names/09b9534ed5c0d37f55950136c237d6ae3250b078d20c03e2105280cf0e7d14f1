@@ -1,0 +1,1 @@
+MigrateFLXMessagePublished(uint32 indexed migrateId,address indexed caller,bytes32 indexed sedaAddress,uint256 amount)

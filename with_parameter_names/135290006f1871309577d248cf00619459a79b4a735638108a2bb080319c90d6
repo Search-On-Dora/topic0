@@ -1,1 +1,1 @@
-Deposit(string nickName,uint256 amount)
+Deposit(string userId,uint256 amount)

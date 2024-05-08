@@ -1,0 +1,1 @@
+CancellationFeeRedeemed(uint256 indexed proposalId,address indexed to,uint256 cancellationFee,bool indexed success)

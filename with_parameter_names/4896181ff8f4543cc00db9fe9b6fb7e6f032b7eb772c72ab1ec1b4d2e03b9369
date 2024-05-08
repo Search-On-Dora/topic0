@@ -1,1 +1,1 @@
-Redeemed(address user,uint256 amount)
+Redeemed(address user,uint256 amount);Redeemed(address indexed staker,uint256 vETHBurned)

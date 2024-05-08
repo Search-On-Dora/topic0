@@ -1,0 +1,1 @@
+FeeTokenChanged(address indexed feeToken,uint8 feeTokenDecimals)

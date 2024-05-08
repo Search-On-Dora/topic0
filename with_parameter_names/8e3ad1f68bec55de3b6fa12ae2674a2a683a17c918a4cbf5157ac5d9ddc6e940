@@ -1,0 +1,1 @@
+ExchangeEntrySettled(address indexed from,bytes32 src,uint256 amount,bytes32 dest,uint256 reclaim,uint256 rebate,uint256 srcRoundIdAtPeriodEnd,uint256 destRoundIdAtPeriodEnd,uint256 exchangeTimestamp)

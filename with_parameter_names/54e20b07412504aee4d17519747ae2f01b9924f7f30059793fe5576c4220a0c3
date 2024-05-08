@@ -1,0 +1,1 @@
+BetaDelegateWhitelisterSet(address indexed oldWhitelister,address indexed newWhitelister)

@@ -1,0 +1,1 @@
+Follow(address indexed user,address indexed follower)

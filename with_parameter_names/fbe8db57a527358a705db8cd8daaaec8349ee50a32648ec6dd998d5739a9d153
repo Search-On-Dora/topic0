@@ -1,0 +1,1 @@
+CreditRequestUpdated(address network,address networkMember,uint256 creditLimit,bool approved)

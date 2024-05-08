@@ -1,0 +1,1 @@
+BatchConfirmed(bytes32 indexed batchHeaderHash,uint32 batchId)

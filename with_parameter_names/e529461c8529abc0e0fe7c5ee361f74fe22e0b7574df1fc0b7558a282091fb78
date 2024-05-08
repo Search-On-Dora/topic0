@@ -1,1 +1,1 @@
-AdminAccessSet(address _admin,bool _enabled)
+AdminAccessSet(address indexed _admin,bool _enabled);AdminAccessSet(address _admin,bool _enabled)

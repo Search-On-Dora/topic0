@@ -1,0 +1,1 @@
+SetGasTokenPrice(address indexed token,uint256 price)

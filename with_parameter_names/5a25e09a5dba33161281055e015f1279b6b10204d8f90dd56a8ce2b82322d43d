@@ -1,1 +1,1 @@
-Whitelist(address indexed user,bool status);Whitelist(address addr,bool whitelisted)
+Whitelist(address indexed WhiteListed,bool value);Whitelist(address indexed _target,bool indexed _status);Whitelist(address addr,bool whitelisted)

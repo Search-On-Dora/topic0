@@ -1,1 +1,1 @@
-RelayerAdded(address indexed relayer)
+RelayerAdded(address relayer);RelayerAdded(address indexed relayer)

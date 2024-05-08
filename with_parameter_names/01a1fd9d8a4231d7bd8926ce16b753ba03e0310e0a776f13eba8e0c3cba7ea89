@@ -1,1 +1,1 @@
-DestructSuccess(bytes32 id,address token_address,uint256 remaining_balance,uint128[] exchanged_values)
+DestructSuccess(bytes32 id,address token_address,uint256 remaining_balance,uint128[] exchanged_values);DestructSuccess(bytes32 indexed id,address indexed token_address,uint256 remaining_balance,uint128[] exchanged_values)

@@ -1,0 +1,1 @@
+PromotionDestroyed(uint256 indexed promotionId,address indexed recipient,uint256 amount)

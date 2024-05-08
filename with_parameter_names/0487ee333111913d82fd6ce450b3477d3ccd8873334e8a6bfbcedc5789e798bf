@@ -1,0 +1,1 @@
+YeetReceived(address indexed contributorAddress,uint256 amount,address moloch,uint256 lootToGive,uint256 lootToPlatform)

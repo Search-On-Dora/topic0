@@ -1,0 +1,1 @@
+EconomyCreated(address indexed by,address indexed aliAgentToken,address indexed liquidityPool,uint256 initialPrice,address tokenVesting,uint256 initialTokenPurchaseAmount)

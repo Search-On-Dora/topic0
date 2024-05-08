@@ -1,0 +1,1 @@
+SaleLaunched(address indexed sale,uint256 templateId)

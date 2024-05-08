@@ -1,0 +1,1 @@
+BountyCreated(uint256 indexed bountyId,address indexed creator,uint256 reward,bytes publicKey,uint8 requiredScore,uint8 flag,uint8 locked)

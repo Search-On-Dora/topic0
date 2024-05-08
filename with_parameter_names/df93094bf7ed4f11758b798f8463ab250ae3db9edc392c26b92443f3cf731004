@@ -1,0 +1,1 @@
+UpdateBridgeSupplyCapProposalCreated(uint256 proposalId,address target,address bridge,uint256 cap)

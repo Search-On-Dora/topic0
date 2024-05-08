@@ -1,0 +1,1 @@
+AddOperatorWhitelist(address indexed operator)

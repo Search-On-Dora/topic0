@@ -1,1 +1,1 @@
-OwnerUpdated(address newOwner)
+OwnerUpdated(address newOwner);OwnerUpdated(address indexed newOwner)

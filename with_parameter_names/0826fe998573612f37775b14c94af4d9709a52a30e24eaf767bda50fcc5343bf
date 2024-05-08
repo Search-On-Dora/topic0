@@ -1,0 +1,1 @@
+Wrap(tuple asset,bytes32 indexed assetHash,address indexed sender)

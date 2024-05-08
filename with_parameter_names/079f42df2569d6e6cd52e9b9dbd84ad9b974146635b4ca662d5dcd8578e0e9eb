@@ -1,0 +1,1 @@
+BridgeFeeShareUpdated(uint256 oldBridgeFeeShare,uint256 newBridgeFeeShare)

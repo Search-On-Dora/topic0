@@ -1,0 +1,1 @@
+TokenManagedReaded(address indexed fromAddress,address indexed tokenAdded,uint256 amountAdded)

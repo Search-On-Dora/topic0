@@ -1,0 +1,1 @@
+MarketStateInitialized(bytes32 indexed marketKey,bool legacyContractExists,address legacyState,uint256 legacyFundinSequenceOffset)

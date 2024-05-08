@@ -1,0 +1,1 @@
+PollClosed(uint256 pollID,address member)

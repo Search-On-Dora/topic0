@@ -1,1 +1,1 @@
-OwnerNominated(address newOwner);OwnerNominated(address indexed newOwner)
+OwnerNominated(address newOwner);OwnerNominated(address indexed nominee)

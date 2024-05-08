@@ -1,0 +1,1 @@
+InversePriceConfigured(bytes32 currencyKey,uint256 entryPoint,uint256 upperLimit,uint256 lowerLimit)

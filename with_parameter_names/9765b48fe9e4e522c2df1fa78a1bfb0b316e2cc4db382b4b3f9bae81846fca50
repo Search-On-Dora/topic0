@@ -1,0 +1,1 @@
+TokensPurchase(address indexed buyer,uint256 usdtAmount,uint256 duelAmount,address indexed referrer)

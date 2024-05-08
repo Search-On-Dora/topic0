@@ -1,1 +1,1 @@
-TokensBurned(uint256 ,uint256 )
+TokensBurned(uint256 ethSpent,uint256 tokensBurned)

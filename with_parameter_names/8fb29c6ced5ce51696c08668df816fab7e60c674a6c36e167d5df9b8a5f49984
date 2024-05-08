@@ -1,0 +1,1 @@
+RewardPeriodParamsUpdated(uint256 oldRewardPeriodSize,uint256 oldDecayNumerator,uint256 oldDecayDenominator,uint256 newRewardPeriodSize,uint256 newDecayNumerator,uint256 newDecayDenominator)

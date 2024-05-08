@@ -1,0 +1,1 @@
+GameStarted(uint256 indexed gameId,address indexed creator,uint8 subgame,uint8 numRounds,uint256 betPerRound,uint256 rakePerRound,bool[40] choices,address referrer,uint8 method)

@@ -1,0 +1,1 @@
+NewDenominatedOracle(address indexed _denominatedOracle,address _priceSource,address _denominationPriceSource,bool _inverted)

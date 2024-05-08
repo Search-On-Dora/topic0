@@ -1,1 +1,1 @@
-WithdrawFee(address indexed to,uint256 amount)
+WithdrawFee(address indexed to,uint256 amount);WithdrawFee(address receiver,uint256 amount)

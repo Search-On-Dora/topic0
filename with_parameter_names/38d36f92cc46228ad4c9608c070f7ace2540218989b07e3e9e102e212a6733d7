@@ -1,0 +1,1 @@
+UBICommitteeUpdated(address indexed oldUbiCommittee,address indexed newUbiCommittee)

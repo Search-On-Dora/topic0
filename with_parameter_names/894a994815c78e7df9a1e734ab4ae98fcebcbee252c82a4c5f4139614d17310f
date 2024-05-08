@@ -1,0 +1,1 @@
+Consume(address avatarAddress,uint256 avatarID,address potionAddress,uint256 potionID,uint256 amount,address user)

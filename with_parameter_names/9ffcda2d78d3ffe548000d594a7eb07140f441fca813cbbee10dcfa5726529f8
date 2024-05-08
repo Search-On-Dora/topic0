@@ -1,0 +1,1 @@
+FactoryInitialized(address feeManager,address feeTo,address templateManager,uint256 templateFee,uint256 feeNumerator,uint256 saleFee)

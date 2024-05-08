@@ -1,0 +1,1 @@
+MastercopyChanged(address indexed oldMasterCopy,address indexed newMasterCopy)

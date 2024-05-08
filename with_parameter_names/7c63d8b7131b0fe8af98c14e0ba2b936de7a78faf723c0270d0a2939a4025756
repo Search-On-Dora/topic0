@@ -1,0 +1,1 @@
+PotentialEthscriptionDeposited(address indexed owner,bytes32 indexed potentialEthscriptionId)

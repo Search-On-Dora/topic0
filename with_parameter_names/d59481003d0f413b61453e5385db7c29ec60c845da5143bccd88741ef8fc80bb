@@ -1,0 +1,1 @@
+BridgeSwept(uint32 destinationDomain,address destinationTarget,address delegate,uint256 amount)

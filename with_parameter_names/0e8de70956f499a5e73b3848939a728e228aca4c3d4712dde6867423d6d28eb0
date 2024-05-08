@@ -1,0 +1,1 @@
+AvailableSubscriptionPackageSet(bytes32 indexed subscriptionId,address indexed sender,address indexed paymentTokenAddress,uint256 paymentTokenDecimals,uint256 priceInPaymentTokenWei,uint256 expiryDays,uint256 numberOfContracts)

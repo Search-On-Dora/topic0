@@ -1,1 +1,1 @@
-Burn(address indexed from,uint256 tokens,uint256 propertyValue);Burn(address indexed _burnerAddress,uint256 indexed _tokenId,uint256 indexed _projectId)
+Burn(address indexed user,uint256 amount,uint256 index);Burn(address indexed from,uint256 indexed id,uint256 indexed amount)

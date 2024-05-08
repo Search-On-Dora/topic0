@@ -1,1 +1,1 @@
-Qualification(address account,bool qualified,uint256 blockNumber,uint256 timestamp)
+Qualification(address account,bool qualified,uint256 blockNumber,uint256 timestamp);Qualification(address indexed account,bool qualified,uint256 blockNumber,uint256 timestamp)

@@ -1,0 +1,1 @@
+PriceDiscoveryAddressChanged(address indexed priceDiscoveryAddress,address indexed executedBy)

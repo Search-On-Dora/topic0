@@ -1,0 +1,1 @@
+BurnReputation(address indexed _sender,address indexed _from,uint256 _amount)

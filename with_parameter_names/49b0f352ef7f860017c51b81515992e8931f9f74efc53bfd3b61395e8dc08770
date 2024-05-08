@@ -1,0 +1,1 @@
+LockStatusChanged(address indexed lockedAddress,uint256 indexed tokenId,bool isLocked)

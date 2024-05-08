@@ -1,0 +1,1 @@
+NewItem(uint256 indexed objectId,address indexed tokenAddress)

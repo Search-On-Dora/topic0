@@ -1,0 +1,1 @@
+StreamModified(address indexed from,address indexed oldTo,uint216 oldAmountPerSec,bytes32 oldStreamId,address indexed to,uint216 amountPerSec,bytes32 newStreamId)

@@ -1,0 +1,1 @@
+ProtocolEarningsClaimed(address indexed protocolAddress,uint256 amount)

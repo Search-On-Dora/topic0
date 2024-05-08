@@ -1,1 +1,1 @@
-RewardsAccrued(address user,uint256 amount)
+RewardsAccrued(address indexed user,uint256 amount);RewardsAccrued(address user,uint256 amount)

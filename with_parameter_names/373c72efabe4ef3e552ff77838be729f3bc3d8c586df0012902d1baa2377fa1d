@@ -1,1 +1,1 @@
-BeneficiaryChanged(address indexed beneficiary)
+BeneficiaryChanged(address indexed newBeneficiary);BeneficiaryChanged(address newBeneficiary)

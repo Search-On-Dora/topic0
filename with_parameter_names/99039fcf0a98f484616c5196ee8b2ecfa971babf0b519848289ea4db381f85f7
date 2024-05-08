@@ -1,1 +1,1 @@
-Stake(address indexed pool,address indexed user,uint256 indexed amount)
+Stake(address indexed pool,address indexed user,uint256 indexed amount);Stake(address indexed from,address indexed to,uint256 amount)

@@ -1,0 +1,1 @@
+TipClaimed(bytes32 indexed _feedId,bytes32 indexed _queryId,uint256 indexed _amount,address _reporter)

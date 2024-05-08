@@ -1,0 +1,1 @@
+VoteForwarded(uint256 indexed proposalId,address indexed voter,bool indexed support,tuple[] votingAssetsWithSlot)

@@ -1,0 +1,1 @@
+MaxTxExclusion(address _address,bool excluded)

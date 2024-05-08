@@ -1,1 +1,1 @@
-OwnerAdded(address indexed account);OwnerAdded(address owner)
+OwnerAdded(address indexed owner);OwnerAdded(address owner)

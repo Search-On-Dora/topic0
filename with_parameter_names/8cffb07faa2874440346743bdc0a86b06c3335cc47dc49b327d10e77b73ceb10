@@ -1,1 +1,1 @@
-NewProtocolFeeRecipient(address indexed protocolFeeRecipient)
+NewProtocolFeeRecipient(address indexed protocolFeeRecipient);NewProtocolFeeRecipient(address protocolFeeRecipient)

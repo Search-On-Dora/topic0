@@ -1,0 +1,1 @@
+SellerUpdatePending(uint256 indexed sellerId,tuple pendingSeller,tuple pendingAuthToken,address indexed executedBy)

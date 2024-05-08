@@ -1,1 +1,1 @@
-PauserChanged(address newPauser,address oldPauser)
+PauserChanged(address newPauser,address oldPauser);PauserChanged(address indexed previousPauser,address indexed newPauser)

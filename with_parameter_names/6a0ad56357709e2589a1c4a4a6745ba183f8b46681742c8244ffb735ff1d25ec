@@ -1,0 +1,1 @@
+CliqueFeeChanged(uint256 newCliqueFee,uint256 prevCliqueFee)

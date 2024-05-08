@@ -1,0 +1,1 @@
+ArbitrageWithType(address kantabanVault,address tokenIn,address tokenOut,uint256 amountIn,uint8 arbitrageType,uint256 profit)

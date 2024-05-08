@@ -1,0 +1,1 @@
+StorePlatformFeePaid(address indexed store,address indexed user,uint256 intervals,uint256 tier)

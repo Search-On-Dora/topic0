@@ -1,0 +1,1 @@
+MintTransferERC1155(address indexed sender,address indexed to,address indexed nft,uint256 id,uint256 amount,uint256 giftBoxTokenId,address transferTo)

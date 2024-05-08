@@ -1,0 +1,1 @@
+BooleanUpdated(address owner,uint256 index,bool oldValue,bool newValue)

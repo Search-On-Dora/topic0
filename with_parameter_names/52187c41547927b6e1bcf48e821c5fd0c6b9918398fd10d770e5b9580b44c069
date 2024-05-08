@@ -1,0 +1,1 @@
+UpdatedAllowedSwapTarget(address indexed target,bool isAllowed)

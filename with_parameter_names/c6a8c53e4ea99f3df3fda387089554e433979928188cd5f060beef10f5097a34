@@ -1,0 +1,1 @@
+EventAppSession(uint64 indexed appId,bytes32 indexed username,string iv,string ephemPublicKey,string ciphertext,string mac)

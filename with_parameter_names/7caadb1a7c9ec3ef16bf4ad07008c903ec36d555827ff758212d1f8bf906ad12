@@ -1,0 +1,1 @@
+GroupUpdated(uint256 indexed groupId,address indexed oldIdentityManager,address indexed newIdentityManager)

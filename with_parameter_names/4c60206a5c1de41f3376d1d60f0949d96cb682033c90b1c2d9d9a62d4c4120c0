@@ -1,0 +1,1 @@
+Burned(address indexed account,uint256 principal,uint256 fee,uint256 amountIn)

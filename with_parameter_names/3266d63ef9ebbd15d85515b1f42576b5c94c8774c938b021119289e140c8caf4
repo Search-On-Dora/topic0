@@ -1,0 +1,1 @@
+GasFunded(string indexed strategyId,address indexed seller,bytes32 indexed txHash,uint256 gasCost)

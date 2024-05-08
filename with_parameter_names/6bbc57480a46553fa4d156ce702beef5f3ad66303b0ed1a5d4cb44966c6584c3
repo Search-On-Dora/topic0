@@ -1,1 +1,1 @@
-FeeChanged(uint256 )
+FeeChanged(uint256 newFee)

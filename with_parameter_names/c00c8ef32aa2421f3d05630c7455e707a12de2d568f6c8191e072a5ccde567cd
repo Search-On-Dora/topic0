@@ -1,0 +1,1 @@
+AllowedWalletsMerkleRootSet(bytes32 indexed allowedWalletsMerkleRoot)

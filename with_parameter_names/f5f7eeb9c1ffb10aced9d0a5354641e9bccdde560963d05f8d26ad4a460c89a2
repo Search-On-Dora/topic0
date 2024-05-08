@@ -1,1 +1,0 @@
-OracleNotified(uint16 dstChainId,uint16 _outboundProofType,uint256 blockConfirmations)

@@ -1,0 +1,1 @@
+ContractorInvited(address indexed _project,address indexed _newContractor,uint256[] _phaseCosts)

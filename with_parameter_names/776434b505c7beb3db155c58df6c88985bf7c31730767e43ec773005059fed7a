@@ -1,1 +1,0 @@
-ReceiveFromChain(uint16 indexed _srcChainId,bytes indexed _srcAddress,address indexed _toAddress,uint256 _tokenId)

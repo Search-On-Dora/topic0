@@ -1,0 +1,1 @@
+AddFundEvent(uint256 poolId,address user,uint256 fundAmount)

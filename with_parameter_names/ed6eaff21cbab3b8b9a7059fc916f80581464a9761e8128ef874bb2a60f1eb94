@@ -1,0 +1,1 @@
+SubscriptionPackagePurchased(bytes32 indexed subscriptionId,address indexed sender,address indexed paymentTokenAddress,uint256 paymentTokenDecimals,uint256 priceInPaymentTokenWei,uint256 availablePackageNumberOfContracts,uint256 availablePackageExpiryDays,uint256 numberOfDeployableContracts,uint256 purchaseExpiryTimestamp,address adminWallet)

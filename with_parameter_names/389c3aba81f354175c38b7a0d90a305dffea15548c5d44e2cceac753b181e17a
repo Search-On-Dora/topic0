@@ -1,0 +1,1 @@
+PrimateCreated(address indexed _owner,uint256 indexed _id,string _primateType,uint256 _value)

@@ -1,0 +1,1 @@
+Compound(address indexed by,uint256 lpStaked,uint256 newLPTotalBalance,uint256 compounderFeeAmount,uint256 reserveFeeAmount)

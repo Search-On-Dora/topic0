@@ -1,1 +1,1 @@
-Staked(address indexed token,address indexed staker_,uint256 requestedAmount_,uint256 stakedAmount_)
+Staked(address indexed token,address indexed staker_,uint256 requestedAmount_,uint256 stakedAmount_);Staked(address indexed tokenAddress,address indexed user,uint256 amount,uint256 indexed timestamp)

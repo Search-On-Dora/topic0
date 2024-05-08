@@ -1,1 +1,1 @@
-SignerAdded(address signer,address sender)
+SignerAdded(address indexed account,address indexed signer);SignerAdded(address signer,address sender)

@@ -1,1 +1,1 @@
-Burned(address indexed burner,uint256 burnAmount);Burned(address account,uint256 amount)
+Burned(address indexed account,uint256 value);Burned(address request,uint256 amount)

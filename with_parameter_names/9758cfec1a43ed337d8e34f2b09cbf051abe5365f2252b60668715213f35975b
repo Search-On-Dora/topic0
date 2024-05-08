@@ -1,1 +1,0 @@
-GlobalOfferAcceptance(uint256 indexed txnId,address indexed from,address indexed caller)

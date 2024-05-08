@@ -1,1 +1,1 @@
-FeesDistributed(uint256 amount)
+FeesDistributed(uint256 feeCount)

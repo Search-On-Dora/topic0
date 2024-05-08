@@ -1,1 +1,1 @@
-MaxTxUpdated(uint256 _maxTx)
+MaxTxUpdated(uint256 maxTx)

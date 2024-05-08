@@ -1,0 +1,1 @@
+AssetBalanceWithdrawn(address indexed token,address indexed owner,uint256 balance)

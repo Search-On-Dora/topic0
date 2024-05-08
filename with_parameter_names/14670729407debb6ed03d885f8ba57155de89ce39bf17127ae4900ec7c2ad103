@@ -1,0 +1,1 @@
+AttestationSignerRemoved(address indexed account,address oldSigner)

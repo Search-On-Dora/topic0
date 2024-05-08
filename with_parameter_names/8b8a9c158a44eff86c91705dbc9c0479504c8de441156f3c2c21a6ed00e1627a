@@ -1,0 +1,1 @@
+LBPManagerDeployed(address indexed lbpManager,address indexed admin,bytes metadata)

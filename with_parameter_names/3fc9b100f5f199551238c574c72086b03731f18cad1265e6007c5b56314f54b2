@@ -1,0 +1,1 @@
+BatchNftLocked(address stakerAddress,uint256[] tokenIds,uint256 totalUSAStaked,uint256 activePeriodIndex)

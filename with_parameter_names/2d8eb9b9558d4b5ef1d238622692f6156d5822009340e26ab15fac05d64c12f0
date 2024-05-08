@@ -1,1 +1,1 @@
-tokenMinted(address _sender,uint256 _amount)
+tokenMinted(address _sender,uint256 _amount);tokenMinted(address indexed _owner,uint256 indexed _tokenID)

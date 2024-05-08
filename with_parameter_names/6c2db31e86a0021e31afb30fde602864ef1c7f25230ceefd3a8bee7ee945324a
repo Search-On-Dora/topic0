@@ -1,0 +1,1 @@
+UpdatePlatform(address indexed oldPlatform,address indexed newPlatform)

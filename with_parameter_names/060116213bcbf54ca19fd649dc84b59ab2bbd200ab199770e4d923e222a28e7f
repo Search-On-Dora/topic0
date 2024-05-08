@@ -1,0 +1,1 @@
+InitialSequenceBatches(bytes transactions,bytes32 lastGlobalExitRoot,address sequencer)

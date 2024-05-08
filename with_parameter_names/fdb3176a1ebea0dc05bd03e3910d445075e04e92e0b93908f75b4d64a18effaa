@@ -1,0 +1,1 @@
+VotesActivated(address indexed _validatorGroup,uint256 indexed amount)

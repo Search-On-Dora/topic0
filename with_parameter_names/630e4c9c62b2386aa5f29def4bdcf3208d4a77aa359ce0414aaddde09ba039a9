@@ -1,0 +1,1 @@
+RewardDeposited(address indexed depositor,uint256 indexed amount,uint256 indexed campaignId)

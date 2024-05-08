@@ -1,0 +1,1 @@
+EggBidEntered(uint256 indexed eggIndex,uint256 value,address indexed fromAddress)

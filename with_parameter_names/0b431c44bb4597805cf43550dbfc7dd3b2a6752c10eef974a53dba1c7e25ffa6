@@ -1,0 +1,1 @@
+UpdateRewardToken(address indexed token,uint256 newMinRewardPerVote)

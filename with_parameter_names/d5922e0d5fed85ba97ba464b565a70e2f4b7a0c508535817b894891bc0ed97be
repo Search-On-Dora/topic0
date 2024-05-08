@@ -1,0 +1,1 @@
+AssetRedeemed(address indexed sender,uint256 assetNftId)

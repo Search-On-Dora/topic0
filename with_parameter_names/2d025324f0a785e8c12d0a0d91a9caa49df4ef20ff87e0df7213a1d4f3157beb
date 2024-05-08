@@ -1,1 +1,1 @@
-SignerUpdated(address oldSignerAddress,address newSignerAddress)
+SignerUpdated(address oldSigner,address newSigner);SignerUpdated(address indexed oldSigner,address indexed newSigner)

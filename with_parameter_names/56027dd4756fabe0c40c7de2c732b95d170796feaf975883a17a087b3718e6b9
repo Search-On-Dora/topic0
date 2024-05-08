@@ -1,0 +1,1 @@
+SetSupplyPerYearInterestRateBase(address indexed cometProxy,uint64 oldIRBase,uint64 newIRBase)

@@ -1,0 +1,1 @@
+ReceiveSlaverSyncHash(uint8 slaverChainId,bytes32 syncHash)

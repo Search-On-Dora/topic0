@@ -1,1 +1,1 @@
-PoolCreated(address poolAddress)
+PoolCreated(address indexed pool);PoolCreated(address poolAddress)

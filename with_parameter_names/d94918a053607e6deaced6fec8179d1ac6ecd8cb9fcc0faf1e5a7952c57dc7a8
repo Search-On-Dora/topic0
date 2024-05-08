@@ -1,0 +1,1 @@
+OfferExtended(uint256 indexed offerId,uint256 indexed sellerId,uint256 validUntilDate,address indexed executedBy)

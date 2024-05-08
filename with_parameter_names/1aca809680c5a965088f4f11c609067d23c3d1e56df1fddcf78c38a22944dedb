@@ -1,0 +1,1 @@
+MassSmartAccountCreated(address indexed massSmartAccount,address indexed smartAccountOwner)

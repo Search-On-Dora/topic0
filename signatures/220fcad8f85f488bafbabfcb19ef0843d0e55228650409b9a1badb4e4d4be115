@@ -1,0 +1,1 @@
+CreateDaoErc721(address,address,string,string,string,uint256,uint256,uint256,uint256,uint256,uint256,uint256,address,address,address,bool,bool,bool)

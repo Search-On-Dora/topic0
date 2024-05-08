@@ -1,1 +1,1 @@
-OperatorAdded(address operator);OperatorAdded(address indexed account)
+OperatorAdded(address indexed account)

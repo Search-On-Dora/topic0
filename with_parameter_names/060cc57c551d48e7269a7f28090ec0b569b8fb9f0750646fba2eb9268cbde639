@@ -1,0 +1,1 @@
+PurchaserAddressAdded(bytes32 indexed subscriptionId,address indexed purchaserAddress,address indexed sender)

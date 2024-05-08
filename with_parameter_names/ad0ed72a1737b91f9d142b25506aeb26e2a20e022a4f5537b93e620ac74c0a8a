@@ -1,0 +1,1 @@
+ProposalCreated(address strategy,uint256 proposalId,address proposer,tuple[] transactions,string metadata)

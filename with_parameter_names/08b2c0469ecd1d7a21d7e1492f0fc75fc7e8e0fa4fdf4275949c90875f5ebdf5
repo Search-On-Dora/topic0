@@ -1,1 +1,1 @@
-UpdateWhitelist(address indexed account,bool indexed whitelisted)
+UpdateWhitelist(address indexed addr,bool status);UpdateWhitelist(address indexed account,bool indexed whitelisted)

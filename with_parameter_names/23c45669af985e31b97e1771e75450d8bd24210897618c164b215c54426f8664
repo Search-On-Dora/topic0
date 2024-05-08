@@ -1,0 +1,1 @@
+NameOwnerChanged(bytes32 indexed name,address indexed previousOwner,address indexed newOwner)

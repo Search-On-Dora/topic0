@@ -1,0 +1,1 @@
+PartialPauserUpdated(address indexed oldPartialPauser,address indexed newPartialPauser)

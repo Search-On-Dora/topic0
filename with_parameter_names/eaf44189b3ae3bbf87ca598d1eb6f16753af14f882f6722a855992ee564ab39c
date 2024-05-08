@@ -1,0 +1,1 @@
+DataFeedFunded(bytes32 indexed _queryId,bytes32 indexed _feedId,uint256 indexed _amount,address _feedFunder,tuple _feedDetails)

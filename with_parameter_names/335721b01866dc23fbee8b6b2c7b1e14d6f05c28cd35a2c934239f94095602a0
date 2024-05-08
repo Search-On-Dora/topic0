@@ -1,0 +1,1 @@
+NewResolver(bytes32 indexed node,address resolver)

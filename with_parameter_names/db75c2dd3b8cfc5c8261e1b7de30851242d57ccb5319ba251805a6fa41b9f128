@@ -1,0 +1,1 @@
+PaymentEvent(uint256 idInvestment,string paymentTransaction)

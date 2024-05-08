@@ -1,0 +1,1 @@
+NewPrizeVault(address indexed vault,address indexed yieldVault,address indexed prizePool,string name,string symbol)

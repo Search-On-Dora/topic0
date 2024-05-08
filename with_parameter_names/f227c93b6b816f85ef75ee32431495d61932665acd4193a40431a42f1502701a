@@ -1,0 +1,1 @@
+FeesDistributed(address indexed _operatorFeeRecipient,address indexed _methodologist,uint256 _operatorTake,uint256 _methodologistTake)

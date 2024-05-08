@@ -1,0 +1,1 @@
+Voted(uint256 indexed proposalID,bool position,address indexed voter)

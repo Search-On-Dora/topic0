@@ -1,0 +1,1 @@
+SetDiscountLevel(uint8 level,uint24 percent,uint24 discount)

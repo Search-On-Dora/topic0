@@ -1,0 +1,1 @@
+Swapped(address indexed depositAddress,address indexed swapTarget,address receivedAsset,uint256 receivedAmount)

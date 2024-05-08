@@ -1,1 +1,1 @@
-PerformanceFeeSet(uint256 _performanceFee)
+PerformanceFeeSet(uint256 fee)

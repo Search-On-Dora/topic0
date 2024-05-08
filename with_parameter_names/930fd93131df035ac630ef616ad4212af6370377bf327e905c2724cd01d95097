@@ -1,0 +1,1 @@
+PositionModified(uint256 indexed id,address indexed account,uint256 margin,int256 size,int256 tradeSize,uint256 lastPrice,uint256 fundingIndex,uint256 fee)

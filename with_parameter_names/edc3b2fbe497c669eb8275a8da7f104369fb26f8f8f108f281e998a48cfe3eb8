@@ -1,0 +1,1 @@
+UpdateBridgeProposalCreated(uint256 proposalId,address target,address bridgeAddr)

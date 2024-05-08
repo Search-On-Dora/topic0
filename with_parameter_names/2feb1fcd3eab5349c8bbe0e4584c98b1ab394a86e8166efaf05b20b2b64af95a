@@ -1,0 +1,1 @@
+ToLocalBalanceOnOutBid(uint256 indexed universeId,bool toLocalBalanceOnOutBid)

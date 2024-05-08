@@ -1,0 +1,1 @@
+HasToPayFee(uint256 indexed _claimID,uint8 _party)

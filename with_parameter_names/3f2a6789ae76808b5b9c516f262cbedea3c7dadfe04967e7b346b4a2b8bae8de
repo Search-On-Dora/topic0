@@ -1,0 +1,1 @@
+CollectionRoyaltyRegistered(address indexed forwarder,address indexed collection,uint256 totalShares)

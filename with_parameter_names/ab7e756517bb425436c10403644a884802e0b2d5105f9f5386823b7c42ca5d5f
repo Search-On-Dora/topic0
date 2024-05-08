@@ -1,0 +1,1 @@
+BoardFrozen(uint256 indexed boardId,bool frozen)

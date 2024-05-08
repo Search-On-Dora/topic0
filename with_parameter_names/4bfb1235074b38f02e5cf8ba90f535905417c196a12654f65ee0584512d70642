@@ -1,0 +1,1 @@
+MaxQuorumVotesBPSSet(uint16 oldMaxQuorumVotesBPS,uint16 newMaxQuorumVotesBPS)

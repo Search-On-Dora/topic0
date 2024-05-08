@@ -1,0 +1,1 @@
+ProjectMinterRegistered(uint256 indexed _projectId,address indexed _minterAddress,string _minterType)

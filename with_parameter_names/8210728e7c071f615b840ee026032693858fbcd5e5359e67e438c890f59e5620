@@ -1,1 +1,1 @@
-TokenWithdrawn(address token,address indexed to,uint256 value);TokenWithdrawn(address indexed token,address indexed target,uint256 amount)
+TokenWithdrawn(address token,address indexed to,uint256 value);TokenWithdrawn(address indexed token,address indexed target,uint256 amount);TokenWithdrawn(address indexed receiver,address indexed token,uint256 indexed amount);TokenWithdrawn(address account,address to,uint256 tokenId)

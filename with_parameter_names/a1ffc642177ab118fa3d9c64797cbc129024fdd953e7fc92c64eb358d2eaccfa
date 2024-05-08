@@ -1,0 +1,1 @@
+GamePlayChanceRevealed(uint256 indexed gameID,uint16 indexed gamePlayID,bytes chanceAndSalt)

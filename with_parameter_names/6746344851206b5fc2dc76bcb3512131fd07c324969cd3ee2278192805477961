@@ -1,0 +1,1 @@
+NewQuest(uint256 indexed questID,address rewardToken)

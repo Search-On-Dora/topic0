@@ -1,0 +1,1 @@
+EndCall(address indexed _from,string _number,uint256 _node_id,uint256 _call_id,uint256 _price,uint256 _status,uint256 _duration)

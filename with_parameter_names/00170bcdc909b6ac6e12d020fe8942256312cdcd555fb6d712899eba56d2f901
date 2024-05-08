@@ -1,0 +1,1 @@
+NewTypeWeight(int128 indexed typeId,uint256 time,uint256 weight,uint256 totalWeight)

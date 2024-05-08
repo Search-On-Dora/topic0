@@ -1,0 +1,1 @@
+FeeTransferred(address indexed beneficiary,address tokenAddress,uint256 amount)

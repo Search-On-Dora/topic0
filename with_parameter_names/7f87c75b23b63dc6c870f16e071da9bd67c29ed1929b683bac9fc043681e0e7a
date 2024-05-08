@@ -1,0 +1,1 @@
+EndGameStats(uint256 totalBalance,uint256 totalGamePrincipal,uint256 netTotalGamePricipal,uint256 grossInterest,uint256[] grossRewardTokenAmount,uint256 totalIncentiveAmount,uint256 impermanentLossShare)

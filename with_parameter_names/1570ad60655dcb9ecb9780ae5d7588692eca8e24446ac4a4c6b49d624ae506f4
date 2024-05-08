@@ -1,0 +1,1 @@
+LogRegister(address addr,bytes32 key,string value)

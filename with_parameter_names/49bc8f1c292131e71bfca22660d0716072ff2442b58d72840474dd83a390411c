@@ -1,0 +1,1 @@
+FeeReceiverSet(address indexed _oldReceiver,address indexed _newReceiver)

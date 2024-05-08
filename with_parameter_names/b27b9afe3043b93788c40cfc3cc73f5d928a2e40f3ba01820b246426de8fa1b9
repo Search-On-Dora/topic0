@@ -1,0 +1,1 @@
+CreateIncreaseOrder(address indexed account,uint256 orderIndex,address purchaseToken,uint256 purchaseTokenAmount,address collateralToken,address indexToken,uint256 sizeDelta,bool isLong,uint256 triggerPrice,bool triggerAboveThreshold,uint256 executionFee)

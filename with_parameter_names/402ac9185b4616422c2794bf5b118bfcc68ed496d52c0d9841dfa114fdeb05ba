@@ -1,0 +1,1 @@
+Exchanged(address indexed exchanger,uint256 sellAmount,uint256 buyAmount,bool soldGold)

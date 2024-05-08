@@ -1,0 +1,1 @@
+NftSold(address owner,address nftAddress,uint256 tokenId,address tokenPayment,uint256 price,address to)

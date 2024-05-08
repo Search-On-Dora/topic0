@@ -1,1 +1,1 @@
-SetFeeAddress(address indexed _feeAddress)
+SetFeeAddress(address indexed newFeeAddress)

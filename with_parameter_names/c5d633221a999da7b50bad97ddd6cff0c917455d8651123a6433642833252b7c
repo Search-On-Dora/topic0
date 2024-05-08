@@ -1,0 +1,1 @@
+AddressRemovedFromBlacklist(address indexed removedAddress,address indexed removedBy)

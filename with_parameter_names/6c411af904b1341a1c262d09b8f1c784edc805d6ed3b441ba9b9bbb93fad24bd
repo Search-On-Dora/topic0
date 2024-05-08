@@ -1,0 +1,1 @@
+DefendFailSafeERC721(address protectedAddr,address tok)

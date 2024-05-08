@@ -1,1 +1,1 @@
-Deposit(uint256 indexed _investAmount,uint256 indexed _shareAmount,address sender)
+Deposit(uint256 _assetsDeposited,uint256 _sharesMinted,address _receiver);Deposit(uint256 indexed _investAmount,uint256 indexed _shareAmount,address sender)

@@ -1,0 +1,1 @@
+FeesCollected(address network,address member,uint256 totalFee)

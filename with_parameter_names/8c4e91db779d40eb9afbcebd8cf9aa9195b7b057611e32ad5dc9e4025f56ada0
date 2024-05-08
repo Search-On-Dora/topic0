@@ -1,0 +1,1 @@
+RescueERC20(address indexed asset,address recipient)

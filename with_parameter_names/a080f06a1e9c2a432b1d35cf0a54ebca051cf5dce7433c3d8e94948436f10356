@@ -1,1 +1,1 @@
-SetLiquidityFeePercent(uint256 value)
+SetLiquidityFeePercent(uint256 liquidityFee)

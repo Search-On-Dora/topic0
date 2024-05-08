@@ -1,0 +1,1 @@
+RewardsClaimedSet(address indexed user,address indexed comet,uint256 amount)

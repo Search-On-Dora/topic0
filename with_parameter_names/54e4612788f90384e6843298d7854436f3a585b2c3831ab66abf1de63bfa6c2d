@@ -1,1 +1,1 @@
-AdminUpdated(address _newAdmin)
+AdminUpdated(address indexed _configurator);AdminUpdated(address _newAdmin)

@@ -1,1 +1,1 @@
-Deny(address indexed usr)
+Deny(address party);Deny(address indexed usr)

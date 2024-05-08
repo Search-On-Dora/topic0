@@ -1,0 +1,1 @@
+TokenURIUpdated(string oldTokenURI,string newTokenURI);TokenURIUpdated(string indexed oldTokenURI,string indexed newTokenURI)

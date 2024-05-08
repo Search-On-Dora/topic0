@@ -1,0 +1,1 @@
+Swaped(address indexed user_,bool indexed fromLongToShort_,uint256 indexed amount_)

@@ -1,0 +1,1 @@
+NewCommunity(uint256 ID,string metadata,uint8 governanceType,uint8 privacyType,address reputationTokenAddress,bool downvotesEnabled,string repTokenName,string repTokenSymbol,uint256 timestamp)

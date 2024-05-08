@@ -1,1 +1,1 @@
-TransferSent(address from,address to,uint256 amount)
+TransferSent(address _from,address _destAddr,uint256 _amount)

@@ -1,0 +1,1 @@
+CommunityFunded(address indexed community,uint256 amount)

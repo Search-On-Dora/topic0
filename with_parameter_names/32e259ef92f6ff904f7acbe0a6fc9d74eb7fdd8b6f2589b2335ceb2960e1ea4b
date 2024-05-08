@@ -1,0 +1,1 @@
+RandomnessRequestCancelled(uint32 indexed rngRequestId,uint32 rngLockBlock)

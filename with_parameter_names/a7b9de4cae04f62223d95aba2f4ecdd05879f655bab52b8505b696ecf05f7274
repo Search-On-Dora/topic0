@@ -1,0 +1,1 @@
+PostTipCreated(bytes32 indexed postId,bytes32 indexed postTipId,address indexed createdBy,uint256 value)

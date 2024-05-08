@@ -1,0 +1,1 @@
+auraAccountWalletUpdated(address indexed newWallet,address indexed oldWallet)

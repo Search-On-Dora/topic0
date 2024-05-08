@@ -1,1 +1,1 @@
-PriceChanged(uint256 amount)
+PriceChanged(uint256 newPrice)

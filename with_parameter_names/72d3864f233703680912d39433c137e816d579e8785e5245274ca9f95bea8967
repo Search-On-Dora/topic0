@@ -1,0 +1,1 @@
+Liquidate(bytes32 indexed _cType,address indexed _safe,uint256 _collateralAmount,uint256 _debtAmount,uint256 _amountToRaise,address _collateralAuctioneer,uint256 _auctionId)

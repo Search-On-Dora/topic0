@@ -1,1 +1,1 @@
-RouterSet(address indexed router)
+RouterSet(address indexed router);RouterSet(address router)

@@ -1,1 +1,1 @@
-FactoryRemoved(address indexed _factory)
+FactoryRemoved(address indexed factory)

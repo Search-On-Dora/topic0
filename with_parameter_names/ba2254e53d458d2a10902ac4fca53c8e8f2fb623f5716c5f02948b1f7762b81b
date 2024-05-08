@@ -1,0 +1,1 @@
+RandomMarketTokenPriceChanged(address nftAddress,uint256 indexed tokenId,uint256 price)

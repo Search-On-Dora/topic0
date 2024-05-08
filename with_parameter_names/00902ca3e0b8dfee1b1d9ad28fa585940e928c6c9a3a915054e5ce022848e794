@@ -1,0 +1,1 @@
+IsUpgradeAllowedChanged(uint256 indexed fromSubscriptionId,uint256 indexed toSubscriptionId,bool allowed)

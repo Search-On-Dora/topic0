@@ -1,1 +1,1 @@
-ClaimSuccess(bytes32 id,address claimer,uint256 claimed_value,address token_address)
+ClaimSuccess(bytes32 id,address claimer,uint256 claimed_value,address token_address);ClaimSuccess(bytes32 indexed id,address indexed claimer,uint256 claimed_token_id,address token_address)

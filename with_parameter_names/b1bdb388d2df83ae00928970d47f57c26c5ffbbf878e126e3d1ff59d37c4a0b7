@@ -1,0 +1,1 @@
+CollectionCreated(uint256 indexed sellerId,uint256 collectionIndex,address collectionAddress,string indexed externalId,address indexed executedBy)

@@ -1,0 +1,1 @@
+IncreaseBidSize(uint256 indexed _id,address _bidder,uint256 _blockTimestamp,uint256 _raisedAmount,uint256 _soldAmount,uint256 _bidExpiry)

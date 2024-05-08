@@ -1,1 +1,1 @@
-Stake(uint256 poolId,address indexed staker,uint256 amount)
+Stake(uint256 indexed poolID,address indexed sender,uint256 newStakeBal)

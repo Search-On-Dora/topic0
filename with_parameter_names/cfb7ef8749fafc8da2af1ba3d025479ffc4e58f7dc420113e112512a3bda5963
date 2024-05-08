@@ -1,0 +1,1 @@
+Initialize(address router,address vault,address weth,address usdg,uint256 minExecutionFee,uint256 minPurchaseTokenAmountUsd)

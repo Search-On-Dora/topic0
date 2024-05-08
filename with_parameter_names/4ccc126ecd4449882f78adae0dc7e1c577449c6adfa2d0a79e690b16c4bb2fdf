@@ -1,0 +1,1 @@
+NewDocumentAdded(bytes32 indexed docNameHash,string docName,string uri,bytes32 docHashSha256)

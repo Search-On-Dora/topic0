@@ -1,0 +1,1 @@
+ProposalCreated(uint256 id,address proposer,string[] signatures,bytes[] calldatas,uint256 endBlock,string description)

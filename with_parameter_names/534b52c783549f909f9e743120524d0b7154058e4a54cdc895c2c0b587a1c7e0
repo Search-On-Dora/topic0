@@ -1,0 +1,1 @@
+GenericCall(address indexed _contract,bytes _data,uint256 _value,bool _success)

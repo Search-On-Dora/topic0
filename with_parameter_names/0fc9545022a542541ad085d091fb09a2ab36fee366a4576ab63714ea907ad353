@@ -1,1 +1,1 @@
-LogUpdatePool(uint256 indexed pid,uint64 lastRewardBlock,uint256 lpSupply,uint256 accSushiPerShare)
+LogUpdatePool(uint256 indexed pid,uint64 lastRewardTime,uint256 lpSupply,uint256 accSymmPerShare)

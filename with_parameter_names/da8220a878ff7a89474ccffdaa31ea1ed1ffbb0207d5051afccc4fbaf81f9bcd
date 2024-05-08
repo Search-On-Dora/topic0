@@ -1,1 +1,1 @@
-Fund(address indexed ownerUser,uint256 addedErc20Amount)
+Fund(address indexed recipient,uint256 amount)

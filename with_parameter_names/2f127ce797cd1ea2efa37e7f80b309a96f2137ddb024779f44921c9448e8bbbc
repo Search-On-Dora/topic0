@@ -1,0 +1,1 @@
+InitialCollateralRatioChanged(address indexed asset,uint256 newValue)

@@ -1,1 +1,1 @@
-STAKED(address staker,uint256 tokens,uint256 stakingFee)
+STAKED(address staker,uint256 tokens,uint256 stakingFee);STAKED(address indexed user,uint256 amount,uint256 at)

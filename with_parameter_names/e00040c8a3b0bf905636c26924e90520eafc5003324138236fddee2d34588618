@@ -1,0 +1,1 @@
+ForgeBatch(uint32 indexed batchNum,uint16 l1UserTxsLen)

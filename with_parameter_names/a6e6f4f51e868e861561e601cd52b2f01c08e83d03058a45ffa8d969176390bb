@@ -1,0 +1,1 @@
+PieceCreated(uint256 indexed pieceId,address indexed sponsor,tuple metadata,tuple[] creators)

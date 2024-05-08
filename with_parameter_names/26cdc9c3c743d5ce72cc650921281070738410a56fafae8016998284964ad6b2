@@ -1,0 +1,1 @@
+_BlockPurchased(uint256 indexed blockId,address author,string file_hash,uint256 chunk_id,uint256 xdai_value,string attachments,string tags)

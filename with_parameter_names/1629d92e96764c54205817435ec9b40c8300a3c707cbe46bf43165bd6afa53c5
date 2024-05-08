@@ -1,0 +1,1 @@
+NewBet(address indexed bettor,address indexed affiliate,uint256 indexed conditionId,uint256 tokenId,uint64 outcomeId,uint128 amount,uint64 odds,uint128[2] funds)

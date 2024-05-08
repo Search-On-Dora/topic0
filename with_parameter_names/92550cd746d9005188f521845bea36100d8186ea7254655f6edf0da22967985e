@@ -1,0 +1,1 @@
+DAORedemptionRequest(bytes32 redemptionId,uint256 amount)

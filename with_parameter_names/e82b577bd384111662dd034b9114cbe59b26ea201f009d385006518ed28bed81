@@ -1,0 +1,1 @@
+Voted(address voter,uint32 proposalId,uint8 voteType,uint256 weight)

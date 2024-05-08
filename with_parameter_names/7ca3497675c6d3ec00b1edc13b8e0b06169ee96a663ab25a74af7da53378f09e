@@ -1,1 +1,0 @@
-Sponsored(uint256 indexed id,uint256 amount,address indexed depositor,uint256 lockedUntil)

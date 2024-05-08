@@ -1,0 +1,1 @@
+RemoveVault(address author,string version,address vault)

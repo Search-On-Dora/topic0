@@ -1,0 +1,1 @@
+NewAuction(uint256 indexed auctionId,address indexed _auctioningToken,address indexed _biddingToken,uint256 orderCancellationEndDate,uint256 auctionEndDate,uint96 _auctionedSellAmount,uint96 _minBuyAmount,uint256 minimumBiddingAmountPerOrder,uint256 minFundingThreshold,address allowListManager)

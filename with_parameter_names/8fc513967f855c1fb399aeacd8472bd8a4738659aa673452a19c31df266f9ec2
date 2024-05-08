@@ -1,1 +1,0 @@
-InsuranceFundInitialized(uint32 interval,uint32 withdrawalFactor,uint96 mineRatePerBlock,uint96 advanceIntervalReward,uint256 miningFinalBlockNumber)

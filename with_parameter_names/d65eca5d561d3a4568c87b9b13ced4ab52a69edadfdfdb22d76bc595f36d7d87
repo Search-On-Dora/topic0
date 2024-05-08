@@ -1,1 +1,1 @@
-SenderAdded(address indexed account)
+SenderAdded(address indexed sender)

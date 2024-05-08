@@ -1,0 +1,1 @@
+LogOraclePriceUpdatedInType(uint256 oracleId,uint256 oracleTypeId,uint256 price)

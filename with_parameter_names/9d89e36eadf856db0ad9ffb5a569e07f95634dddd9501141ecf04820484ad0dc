@@ -1,1 +1,1 @@
-TokensMinted(address indexed mintedTo,uint256 indexed tokenIdMinted,string uri)
+TokensMinted(address indexed mintedTo,uint256 indexed tokenIdMinted,string uri);TokensMinted(address indexed _beneficiary,uint256 _amount,string _context)

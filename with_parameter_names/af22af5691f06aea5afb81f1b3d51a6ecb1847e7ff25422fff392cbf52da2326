@@ -1,0 +1,1 @@
+Streamed(address indexed token,address indexed lender,address indexed streamer,uint256 amount)

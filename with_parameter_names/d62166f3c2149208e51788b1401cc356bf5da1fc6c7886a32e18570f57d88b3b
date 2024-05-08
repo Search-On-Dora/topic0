@@ -1,0 +1,1 @@
+LogDeploy(address indexed masterContract,bytes data,address indexed cloneAddress)

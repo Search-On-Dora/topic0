@@ -1,0 +1,1 @@
+HoneyPotEmptied(address indexed honeyPotCreator,address indexed trigger,uint256 amount)

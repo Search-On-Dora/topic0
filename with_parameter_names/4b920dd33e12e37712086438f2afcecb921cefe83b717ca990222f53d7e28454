@@ -1,0 +1,1 @@
+PartyAdded(address indexed contractAddress,address indexed party)

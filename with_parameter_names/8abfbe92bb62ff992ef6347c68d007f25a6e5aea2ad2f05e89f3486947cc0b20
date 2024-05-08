@@ -1,0 +1,1 @@
+Referral(address indexed affiliate,address token,uint128 wad,uint256 numMints)

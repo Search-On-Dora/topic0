@@ -1,0 +1,1 @@
+UpdatedWhitelistAddress(address indexed oldAddress,address indexed newMemberAddress)

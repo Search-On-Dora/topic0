@@ -1,1 +1,1 @@
-Swap(address indexed fromToken,address indexed toToken,uint256 fromAmount,uint256 toAmount)
+Swap(address indexed userAddress,address indexed token,uint256 inputValue,uint256 outputValue)

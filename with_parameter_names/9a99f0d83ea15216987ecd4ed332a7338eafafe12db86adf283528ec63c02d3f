@@ -1,0 +1,1 @@
+PositionOpened(address indexed trader,uint256 indexed listingId,uint8 indexed tradeType,uint256 amount,uint256 totalCost)

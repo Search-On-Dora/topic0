@@ -1,1 +1,1 @@
-CapSet(uint256 newCap)
+CapSet(uint256 cap)

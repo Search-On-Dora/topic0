@@ -1,0 +1,1 @@
+SweeperBridgeFeeCollected(address sweeper,uint256 feeCollected)

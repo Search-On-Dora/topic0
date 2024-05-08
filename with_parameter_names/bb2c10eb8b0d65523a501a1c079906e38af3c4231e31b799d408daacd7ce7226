@@ -1,1 +1,1 @@
-Sponsored(address indexed sponsor,uint256 mAssetAmount)
+Sponsored(address indexed user_,uint256 indexed amount_);Sponsored(address indexed sponsor,uint256 mAssetAmount)

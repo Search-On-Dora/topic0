@@ -1,0 +1,1 @@
+SetGovContractProposalCreated(uint256 proposalId,address target,address addr)

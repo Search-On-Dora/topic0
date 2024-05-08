@@ -1,0 +1,1 @@
+FlowDistributionUpdated(address indexed token,address indexed pool,address indexed distributor,address operator,int96 oldFlowRate,int96 newDistributorToPoolFlowRate,int96 newTotalDistributionFlowRate,address adjustmentFlowRecipient,int96 adjustmentFlowRate,bytes userData)

@@ -1,0 +1,1 @@
+CommunityAdded(uint256 _communityID,address indexed _owner,address indexed _currency,bytes _hash)
